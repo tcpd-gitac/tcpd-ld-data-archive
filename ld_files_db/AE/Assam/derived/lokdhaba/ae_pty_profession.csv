@@ -1,0 +1,113 @@
+Assembly_No,Party_ID,TCPD_Prof_Main,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+15,978,Business,2,9,2021,AGP,22.22
+15,978,Former Government,1,9,2021,AGP,11.11
+15,978,Liberal Profession or Professional,1,9,2021,AGP,11.11
+15,978,Politics,4,9,2021,AGP,44.44
+15,978,Social Work,1,9,2021,AGP,11.11
+15,795,Business,10,16,2021,AIUDF,62.5
+15,795,Liberal Profession or Professional,1,16,2021,AIUDF,6.25
+15,795,Other,1,16,2021,AIUDF,6.25
+15,795,Politics,3,16,2021,AIUDF,18.75
+15,795,Social Work,1,16,2021,AIUDF,6.25
+15,1605,Agriculture,4,60,2021,BJP,6.67
+15,1605,Business,23,60,2021,BJP,38.33
+15,1605,Former Government,2,60,2021,BJP,3.33
+15,1605,Liberal Profession or Professional,5,60,2021,BJP,8.33
+15,1605,Other,9,60,2021,BJP,15
+15,1605,Politics,12,60,2021,BJP,20
+15,1605,Retired or Pension,1,60,2021,BJP,1.67
+15,1605,Small Business or Self-employed,1,60,2021,BJP,1.67
+15,1605,Social Work,3,60,2021,BJP,5
+15,9451,Other,1,4,2021,BOPF,25
+15,9451,Politics,1,4,2021,BOPF,25
+15,9451,Retired or Pension,1,4,2021,BOPF,25
+15,9451,Social Work,1,4,2021,BOPF,25
+15,14635,Social Work,1,1,2021,CPM,100
+15,3482,Agriculture,1,29,2021,INC,3.45
+15,3482,Business,12,29,2021,INC,41.38
+15,3482,Liberal Profession or Professional,1,29,2021,INC,3.45
+15,3482,Other,3,29,2021,INC,10.34
+15,3482,Politics,7,29,2021,INC,24.14
+15,3482,Retired or Pension,2,29,2021,INC,6.9
+15,3482,Small Business or Self-employed,1,29,2021,INC,3.45
+15,3482,Social Work,2,29,2021,INC,6.9
+15,10809,Politics,1,1,2021,IND,100
+15,24351,Agriculture,1,6,2021,UPPL,16.67
+15,24351,Other,1,6,2021,UPPL,16.67
+15,24351,Politics,1,6,2021,UPPL,16.67
+15,24351,Retired or Pension,1,6,2021,UPPL,16.67
+15,24351,Small Business or Self-employed,1,6,2021,UPPL,16.67
+15,24351,Social Work,1,6,2021,UPPL,16.67
+14,978,Business,5,14,2016,AGP,35.71
+14,978,Liberal Profession or Professional,1,14,2016,AGP,7.14
+14,978,Politics,6,14,2016,AGP,42.86
+14,978,Retired or Pension,1,14,2016,AGP,7.14
+14,978,Social Work,1,14,2016,AGP,7.14
+14,795,Agriculture,1,13,2016,AIUDF,7.69
+14,795,Business,8,13,2016,AIUDF,61.54
+14,795,Liberal Profession or Professional,1,13,2016,AIUDF,7.69
+14,795,Politics,2,13,2016,AIUDF,15.38
+14,795,Social Work,1,13,2016,AIUDF,7.69
+14,1605,Agriculture,5,60,2016,BJP,8.33
+14,1605,Business,32,60,2016,BJP,53.33
+14,1605,Education,1,60,2016,BJP,1.67
+14,1605,Former Government,1,60,2016,BJP,1.67
+14,1605,Liberal Profession or Professional,6,60,2016,BJP,10
+14,1605,Other,1,60,2016,BJP,1.67
+14,1605,Politics,5,60,2016,BJP,8.33
+14,1605,Retired or Pension,2,60,2016,BJP,3.33
+14,1605,Salaried Work or Employed,1,60,2016,BJP,1.67
+14,1605,Small Business or Self-employed,1,60,2016,BJP,1.67
+14,1605,Social Work,5,60,2016,BJP,8.33
+14,9451,Unknown,12,12,2016,BOPF,100
+14,3482,Agriculture,1,26,2016,INC,3.85
+14,3482,Business,5,26,2016,INC,19.23
+14,3482,Former Government,2,26,2016,INC,7.69
+14,3482,Liberal Profession or Professional,2,26,2016,INC,7.69
+14,3482,Other,1,26,2016,INC,3.85
+14,3482,Politics,11,26,2016,INC,42.31
+14,3482,Retired or Pension,1,26,2016,INC,3.85
+14,3482,Social Work,3,26,2016,INC,11.54
+14,10809,Agriculture,1,1,2016,IND,100
+13,978,Agriculture,2,10,2011,AGP,20
+13,978,Business,2,10,2011,AGP,20
+13,978,Other,1,10,2011,AGP,10
+13,978,Politics,2,10,2011,AGP,20
+13,978,Retired or Pension,1,10,2011,AGP,10
+13,978,Social Work,2,10,2011,AGP,20
+13,18228,Business,1,1,2011,AITC,100
+13,795,Agriculture,5,18,2011,AIUDF,27.78
+13,795,Business,4,18,2011,AIUDF,22.22
+13,795,Former Government,1,18,2011,AIUDF,5.56
+13,795,Liberal Profession or Professional,1,18,2011,AIUDF,5.56
+13,795,Other,1,18,2011,AIUDF,5.56
+13,795,Retired or Pension,1,18,2011,AIUDF,5.56
+13,795,Small Business or Self-employed,2,18,2011,AIUDF,11.11
+13,795,Social Work,3,18,2011,AIUDF,16.67
+13,1605,Business,3,5,2011,BJP,60
+13,1605,Former Government,1,5,2011,BJP,20
+13,1605,Politics,1,5,2011,BJP,20
+13,9451,Unknown,12,12,2011,BOPF,100
+13,3482,Agriculture,9,78,2011,INC,11.54
+13,3482,Business,16,78,2011,INC,20.51
+13,3482,Former Government,5,78,2011,INC,6.41
+13,3482,Liberal Profession or Professional,7,78,2011,INC,8.97
+13,3482,Other,3,78,2011,INC,3.85
+13,3482,Politics,27,78,2011,INC,34.62
+13,3482,Small Business or Self-employed,3,78,2011,INC,3.85
+13,3482,Social Work,8,78,2011,INC,10.26
+13,10809,Agriculture,1,2,2011,IND,50
+13,10809,Business,1,2,2011,IND,50
+12,978,Other,23,23,2006,AGP,100
+12,984,Other,1,1,2006,AGP(P),100
+12,994,Other,1,1,2006,ASDC,100
+12,988,Other,10,10,2006,AUDF,100
+12,1605,Other,9,12,2006,BJP,75
+12,1605,Unknown,3,12,2006,BJP,25
+12,2444,Other,1,1,2006,CPI,100
+12,14635,Unknown,2,2,2006,CPM,100
+12,3482,Other,52,56,2006,INC,92.86
+12,3482,Unknown,4,56,2006,INC,7.14
+12,10809,Other,18,18,2006,IND,100
+12,5148,Other,1,1,2006,LKS,100
+12,5792,Other,1,1,2006,NCP,100

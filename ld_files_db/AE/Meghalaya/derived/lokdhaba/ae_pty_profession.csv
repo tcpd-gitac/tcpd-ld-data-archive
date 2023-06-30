@@ -1,0 +1,86 @@
+Assembly_No,Party_ID,TCPD_Prof_Main,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+11,18228,Liberal Profession or Professional,1,5,2023,AITC,20
+11,18228,Politics,2,5,2023,AITC,40
+11,18228,Small Business or Self-employed,1,5,2023,AITC,20
+11,18228,Social Work,1,5,2023,AITC,20
+11,1605,Business,1,2,2023,BJP,50
+11,1605,Other,1,2,2023,BJP,50
+11,3208,Business,1,2,2023,Hill State People's Democratic Party,50
+11,3208,Small Business or Self-employed,1,2,2023,Hill State People's Democratic Party,50
+11,3482,Business,1,5,2023,INC,20
+11,3482,Other,3,5,2023,INC,60
+11,3482,Politics,1,5,2023,INC,20
+11,10809,Business,1,2,2023,IND,50
+11,10809,Former Government,1,2,2023,IND,50
+11,5671,Business,7,26,2023,NPP,26.92
+11,5671,Other,5,26,2023,NPP,19.23
+11,5671,Politics,11,26,2023,NPP,42.31
+11,5671,Social Work,3,26,2023,NPP,11.54
+11,11858,Other,2,2,2023,People's Democratic Front,100
+11,8377,Business,2,11,2023,United Democratic Party,18.18
+11,8377,Former Government,1,11,2023,United Democratic Party,9.09
+11,8377,Other,1,11,2023,United Democratic Party,9.09
+11,8377,Politics,6,11,2023,United Democratic Party,54.55
+11,8377,Social Work,1,11,2023,United Democratic Party,9.09
+11,,Education,1,4,2023,Voice of the People Party,25
+11,,Former Government,1,4,2023,Voice of the People Party,25
+11,,Politics,1,4,2023,Voice of the People Party,25
+11,,Small Business or Self-employed,1,4,2023,Voice of the People Party,25
+10,1605,Business,1,2,2018,BJP,50
+10,1605,Other,1,2,2018,BJP,50
+10,3208,Business,1,2,2018,HSPDP,50
+10,3208,Other,1,2,2018,HSPDP,50
+10,3482,Business,6,21,2018,INC,28.57
+10,3482,Former Government,1,21,2018,INC,4.76
+10,3482,Other,3,21,2018,INC,14.29
+10,3482,Politics,4,21,2018,INC,19.05
+10,3482,Social Work,7,21,2018,INC,33.33
+10,10809,Former Government,1,3,2018,IND,33.33
+10,10809,Politics,1,3,2018,IND,33.33
+10,10809,Small Business or Self-employed,1,3,2018,IND,33.33
+10,4845,Other,1,1,2018,KHNAM,100
+10,5792,Other,1,1,2018,NCP,100
+10,5671,Business,6,19,2018,NPEP,31.58
+10,5671,Liberal Profession or Professional,1,19,2018,NPEP,5.26
+10,5671,Other,2,19,2018,NPEP,10.53
+10,5671,Politics,4,19,2018,NPEP,21.05
+10,5671,Social Work,6,19,2018,NPEP,31.58
+10,,Other,1,1,2018,NPP,100
+10,11858,Business,2,4,2018,PDF,50
+10,11858,Other,1,4,2018,PDF,25
+10,11858,Small Business or Self-employed,1,4,2018,PDF,25
+10,8377,Business,2,6,2018,UDP,33.33
+10,8377,Other,1,6,2018,UDP,16.67
+10,8377,Politics,2,6,2018,UDP,33.33
+10,8377,Social Work,1,6,2018,UDP,16.67
+9,3091,Social Work,1,1,2013,GNC,100
+9,3208,Education,1,4,2013,HSPDP,25
+9,3208,Other,2,4,2013,HSPDP,50
+9,3208,Small Business or Self-employed,1,4,2013,HSPDP,25
+9,3482,Business,2,29,2013,INC,6.9
+9,3482,Education,1,29,2013,INC,3.45
+9,3482,Liberal Profession or Professional,1,29,2013,INC,3.45
+9,3482,Other,5,29,2013,INC,17.24
+9,3482,Politics,7,29,2013,INC,24.14
+9,3482,Social Work,13,29,2013,INC,44.83
+9,10809,Business,6,13,2013,IND,46.15
+9,10809,Other,1,13,2013,IND,7.69
+9,10809,Politics,2,13,2013,IND,15.38
+9,10809,Small Business or Self-employed,1,13,2013,IND,7.69
+9,10809,Social Work,3,13,2013,IND,23.08
+9,5792,Former Government,1,2,2013,NCP,50
+9,5792,Other,1,2,2013,NCP,50
+9,5923,Business,1,1,2013,NESDP,100
+9,5671,Other,1,2,2013,NPP,50
+9,5671,Social Work,1,2,2013,NPP,50
+9,8377,Education,1,8,2013,UDP,12.5
+9,8377,Other,3,8,2013,UDP,37.5
+9,8377,Politics,3,8,2013,UDP,37.5
+9,8377,Small Business or Self-employed,1,8,2013,UDP,12.5
+8,1605,Other,1,1,2008,BJP,100
+8,3208,Other,2,2,2008,HSPDP,100
+8,3482,Other,25,25,2008,INC,100
+8,10809,Other,5,5,2008,IND,100
+8,4845,Other,1,1,2008,KHNAM,100
+8,5792,Other,15,15,2008,NCP,100
+8,8377,Other,11,11,2008,UDP,100

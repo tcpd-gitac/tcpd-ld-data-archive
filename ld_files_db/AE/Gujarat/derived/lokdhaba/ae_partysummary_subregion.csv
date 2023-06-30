@@ -1,0 +1,384 @@
+State_Name,Year,Assembly_No,Party,Sub_Region,Total_Cand,Winners,Deposit_Lost,Avg_Winning_Margin,Strike_Rate,position
+Gujarat,2022,14,AAAP,Central Gujarat,40,0,29,0,0.0,14
+Gujarat,2022,14,AAAP,North Gujarat,53,0,48,0,0.0,15
+Gujarat,2022,14,AAAP,Saurashtra-Kutch,54,4,30,0.31,7.41,8
+Gujarat,2022,14,AAAP,South Gujarat,34,1,19,0.64,2.94,10
+Gujarat,2022,14,AIMIM,Central Gujarat,1,0,1,0,0.0,16
+Gujarat,2022,14,AIMIM,North Gujarat,6,0,6,0,0.0,17
+Gujarat,2022,14,AIMIM,Saurashtra-Kutch,4,0,3,0,0.0,18
+Gujarat,2022,14,AIMIM,South Gujarat,2,0,2,0,0.0,19
+Gujarat,2022,14,Aadi Bharat Party,North Gujarat,3,0,3,0,0.0,20
+Gujarat,2022,14,Aadi Bharat Party,Saurashtra-Kutch,1,0,1,0,0.0,21
+Gujarat,2022,14,Akhil Bharat Hindu Mahasabha,Central Gujarat,2,0,2,0,0.0,22
+Gujarat,2022,14,All India Hindustan Congress Party,North Gujarat,1,0,1,0,0.0,23
+Gujarat,2022,14,Apni Janta Party,North Gujarat,1,0,1,0,0.0,24
+Gujarat,2022,14,BJP,Central Gujarat,40,36,0,21.59,90.0,2
+Gujarat,2022,14,BJP,North Gujarat,53,41,0,20.38,77.36,4
+Gujarat,2022,14,BJP,Saurashtra-Kutch,54,46,0,17.8,85.19,3
+Gujarat,2022,14,BJP,South Gujarat,35,33,0,29.9,94.29,1
+Gujarat,2022,14,BSP,Central Gujarat,20,0,20,0,0.0,25
+Gujarat,2022,14,BSP,North Gujarat,24,0,24,0,0.0,26
+Gujarat,2022,14,BSP,Saurashtra-Kutch,37,0,36,0,0.0,27
+Gujarat,2022,14,BSP,South Gujarat,20,0,20,0,0.0,28
+Gujarat,2022,14,Bahujan RepublicanSocialist Party,North Gujarat,1,0,1,0,0.0,29
+Gujarat,2022,14,Bahujan RepublicanSocialist Party,Saurashtra-Kutch,1,0,1,0,0.0,30
+Gujarat,2022,14,Bahujan RepublicanSocialist Party,South Gujarat,2,0,2,0,0.0,31
+Gujarat,2022,14,Bahujan Suraksha Dal,North Gujarat,1,0,1,0,0.0,32
+Gujarat,2022,14,Bharatiya Bahujan Congress,South Gujarat,2,0,2,0,0.0,33
+Gujarat,2022,14,Bharatiya Hitrakshak Party,Saurashtra-Kutch,1,0,1,0,0.0,34
+Gujarat,2022,14,Bharatiya National Janta Dal,Central Gujarat,2,0,2,0,0.0,35
+Gujarat,2022,14,Bharatiya National Janta Dal,North Gujarat,2,0,2,0,0.0,36
+Gujarat,2022,14,Bharatiya National Janta Dal,Saurashtra-Kutch,1,0,1,0,0.0,37
+Gujarat,2022,14,Bharatiya Rashtravadi Paksha,North Gujarat,1,0,1,0,0.0,38
+Gujarat,2022,14,Bharatiya Republican Paksha,South Gujarat,1,0,1,0,0.0,39
+Gujarat,2022,14,Bharatiya Yuva Jan Ekta Party,North Gujarat,1,0,1,0,0.0,40
+Gujarat,2022,14,Bhartiya Jan Parishad,Central Gujarat,4,0,4,0,0.0,41
+Gujarat,2022,14,Bhartiya Jan Parishad,North Gujarat,7,0,7,0,0.0,42
+Gujarat,2022,14,Bhartiya Jan Parishad,Saurashtra-Kutch,1,0,1,0,0.0,43
+Gujarat,2022,14,Bhartiya Nagrik Suraksha Party,North Gujarat,1,0,1,0,0.0,44
+Gujarat,2022,14,Bhartiya Tribal Party,Central Gujarat,9,0,9,0,0.0,45
+Gujarat,2022,14,Bhartiya Tribal Party,North Gujarat,3,0,3,0,0.0,46
+Gujarat,2022,14,Bhartiya Tribal Party,Saurashtra-Kutch,1,0,1,0,0.0,47
+Gujarat,2022,14,Bhartiya Tribal Party,South Gujarat,13,0,13,0,0.0,48
+Gujarat,2022,14,CPI,North Gujarat,1,0,1,0,0.0,49
+Gujarat,2022,14,CPI,Saurashtra-Kutch,2,0,2,0,0.0,50
+Gujarat,2022,14,Communist Party of India(Marxist),Central Gujarat,2,0,2,0,0.0,51
+Gujarat,2022,14,Communist Party of India(Marxist),North Gujarat,2,0,2,0,0.0,52
+Gujarat,2022,14,Communist Party of India(Marxist),Saurashtra-Kutch,2,0,2,0,0.0,53
+Gujarat,2022,14,Communist Party of India(Marxist),South Gujarat,3,0,3,0,0.0,54
+Gujarat,2022,14,Communist Party of India(Marxist-Leninist)(Liberation),South Gujarat,3,0,3,0,0.0,55
+Gujarat,2022,14,Democratic Bharatiya Samaj Party,North Gujarat,1,0,1,0,0.0,56
+Gujarat,2022,14,Dhanwan Bharat Party,North Gujarat,1,0,1,0,0.0,57
+Gujarat,2022,14,Gana Suraksha Party,South Gujarat,1,0,1,0,0.0,58
+Gujarat,2022,14,Garvi Gujarat Party,Central Gujarat,4,0,4,0,0.0,59
+Gujarat,2022,14,Garvi Gujarat Party,North Gujarat,21,0,21,0,0.0,60
+Gujarat,2022,14,Garvi Gujarat Party,Saurashtra-Kutch,2,0,2,0,0.0,61
+Gujarat,2022,14,Gujarat Nav Nirman Sena,Central Gujarat,4,0,4,0,0.0,62
+Gujarat,2022,14,Gujarat Nav Nirman Sena,North Gujarat,5,0,5,0,0.0,63
+Gujarat,2022,14,Gujarat Nav Nirman Sena,Saurashtra-Kutch,4,0,4,0,0.0,64
+Gujarat,2022,14,Gujarat Sarva Samaj Party,Saurashtra-Kutch,3,0,3,0,0.0,65
+Gujarat,2022,14,Gunj Satya Ni Janata Party,North Gujarat,7,0,7,0,0.0,66
+Gujarat,2022,14,INC,Central Gujarat,38,3,7,0.49,7.89,7
+Gujarat,2022,14,INC,North Gujarat,52,10,5,0.94,19.23,5
+Gujarat,2022,14,INC,Saurashtra-Kutch,54,3,13,0.14,5.56,9
+Gujarat,2022,14,INC,South Gujarat,35,1,16,0.42,2.86,11
+Gujarat,2022,14,IND,Central Gujarat,98,1,93,0.08,1.02,13
+Gujarat,2022,14,IND,North Gujarat,187,2,183,0.11,1.07,12
+Gujarat,2022,14,IND,Saurashtra-Kutch,234,0,234,0,0.0,67
+Gujarat,2022,14,IND,South Gujarat,104,0,102,0,0.0,68
+Gujarat,2022,14,Insaniyat Party,North Gujarat,2,0,2,0,0.0,69
+Gujarat,2022,14,Jan Man Party,North Gujarat,2,0,2,0,0.0,70
+Gujarat,2022,14,Jan Sangh Party,Central Gujarat,1,0,1,0,0.0,71
+Gujarat,2022,14,Jan Sangharsh Virat Party,North Gujarat,6,0,6,0,0.0,72
+Gujarat,2022,14,Jan Sewa Driver Party,North Gujarat,16,0,16,0,0.0,73
+Gujarat,2022,14,Janata Dal(Secular),North Gujarat,3,0,3,0,0.0,74
+Gujarat,2022,14,Janata Dal(Secular),Saurashtra-Kutch,1,0,1,0,0.0,75
+Gujarat,2022,14,Janata Dal(United),North Gujarat,1,0,1,0,0.0,76
+Gujarat,2022,14,Log Party,Central Gujarat,5,0,5,0,0.0,77
+Gujarat,2022,14,Log Party,North Gujarat,4,0,4,0,0.0,78
+Gujarat,2022,14,Log Party,Saurashtra-Kutch,2,0,2,0,0.0,79
+Gujarat,2022,14,Log Party,South Gujarat,3,0,3,0,0.0,80
+Gujarat,2022,14,Lok Janshakti Party(Ram Vilas),Central Gujarat,1,0,1,0,0.0,81
+Gujarat,2022,14,Loktantrik Rashrtavadi Party,North Gujarat,2,0,2,0,0.0,82
+Gujarat,2022,14,Loktantrik Samajwadi Party,North Gujarat,1,0,1,0,0.0,83
+Gujarat,2022,14,NCP,Central Gujarat,1,0,0,0,0.0,84
+Gujarat,2022,14,NCP,North Gujarat,1,0,1,0,0.0,85
+Gujarat,2022,14,National Maha Sabha Party,North Gujarat,3,0,3,0,0.0,86
+Gujarat,2022,14,National Maha Sabha Party,South Gujarat,2,0,2,0,0.0,87
+Gujarat,2022,14,National Youth Party,North Gujarat,1,0,1,0,0.0,88
+Gujarat,2022,14,New India United Party,North Gujarat,1,0,1,0,0.0,89
+Gujarat,2022,14,Nirbhay Bharteey Party,North Gujarat,1,0,1,0,0.0,90
+Gujarat,2022,14,None of the Above,Central Gujarat,40,0,0,0,0.0,91
+Gujarat,2022,14,None of the Above,North Gujarat,53,0,0,0,0.0,92
+Gujarat,2022,14,None of the Above,Saurashtra-Kutch,54,0,0,0,0.0,93
+Gujarat,2022,14,None of the Above,South Gujarat,35,0,0,0,0.0,94
+Gujarat,2022,14,Pachchasi Parivartan Samaj Party,Central Gujarat,4,0,4,0,0.0,95
+Gujarat,2022,14,Pachchasi Parivartan Samaj Party,North Gujarat,6,0,6,0,0.0,96
+Gujarat,2022,14,Praja Vijay Paksh,Central Gujarat,8,0,8,0,0.0,97
+Gujarat,2022,14,Praja Vijay Paksh,North Gujarat,8,0,8,0,0.0,98
+Gujarat,2022,14,Praja Vijay Paksh,Saurashtra-Kutch,4,0,4,0,0.0,99
+Gujarat,2022,14,Praja Vijay Paksh,South Gujarat,2,0,2,0,0.0,100
+Gujarat,2022,14,RSPS,Central Gujarat,5,0,5,0,0.0,101
+Gujarat,2022,14,RSPS,South Gujarat,5,0,5,0,0.0,102
+Gujarat,2022,14,Rashtra Mangal Mission Party,North Gujarat,1,0,1,0,0.0,103
+Gujarat,2022,14,Rashtra Nirman Party,North Gujarat,1,0,1,0,0.0,104
+Gujarat,2022,14,Rashtra Nirman Party,Saurashtra-Kutch,2,0,2,0,0.0,105
+Gujarat,2022,14,Rashtrawadi Janlok Dal,North Gujarat,1,0,1,0,0.0,106
+Gujarat,2022,14,Rashtriya Hind Ekta Dal,Central Gujarat,4,0,4,0,0.0,107
+Gujarat,2022,14,Rashtriya Hind Ekta Dal,North Gujarat,5,0,5,0,0.0,108
+Gujarat,2022,14,Rashtriya Hind Ekta Dal,Saurashtra-Kutch,6,0,6,0,0.0,109
+Gujarat,2022,14,Rashtriya Jankranti Party,North Gujarat,1,0,1,0,0.0,110
+Gujarat,2022,14,Rashtriya Jankranti Party,Saurashtra-Kutch,1,0,1,0,0.0,111
+Gujarat,2022,14,Rashtriya Power Party,North Gujarat,2,0,2,0,0.0,112
+Gujarat,2022,14,Rashtriya Power Party,Saurashtra-Kutch,2,0,2,0,0.0,113
+Gujarat,2022,14,Rashtriya Samaj Dal (R),Saurashtra-Kutch,2,0,2,0,0.0,114
+Gujarat,2022,14,Real Democracy Party,South Gujarat,2,0,2,0,0.0,115
+Gujarat,2022,14,Right to Recall Party,Central Gujarat,2,0,2,0,0.0,116
+Gujarat,2022,14,Right to Recall Party,North Gujarat,10,0,10,0,0.0,117
+Gujarat,2022,14,Right to Recall Party,Saurashtra-Kutch,8,0,8,0,0.0,118
+Gujarat,2022,14,Right to Recall Party,South Gujarat,1,0,1,0,0.0,119
+Gujarat,2022,14,SDPI,North Gujarat,2,0,2,0,0.0,120
+Gujarat,2022,14,SDPI,Saurashtra-Kutch,2,0,2,0,0.0,121
+Gujarat,2022,14,SDPI,South Gujarat,1,0,1,0,0.0,122
+Gujarat,2022,14,SP,North Gujarat,5,0,5,0,0.0,123
+Gujarat,2022,14,SP,Saurashtra-Kutch,7,1,6,2.95,14.29,6
+Gujarat,2022,14,SP,South Gujarat,5,0,5,0,0.0,124
+Gujarat,2022,14,SUCI,Central Gujarat,1,0,1,0,0.0,125
+Gujarat,2022,14,SUCI,North Gujarat,1,0,1,0,0.0,126
+Gujarat,2022,14,SUCI,South Gujarat,1,0,1,0,0.0,127
+Gujarat,2022,14,Sainik Samaj Party,North Gujarat,1,0,1,0,0.0,128
+Gujarat,2022,14,Sanyukt Vikas Party,Saurashtra-Kutch,1,0,1,0,0.0,129
+Gujarat,2022,14,Sardar Vallabhbhai Patel Party,North Gujarat,4,0,4,0,0.0,130
+Gujarat,2022,14,Sardar Vallabhbhai Patel Party,South Gujarat,2,0,2,0,0.0,131
+Gujarat,2022,14,Sarvodaya Bharat Party,South Gujarat,2,0,2,0,0.0,132
+Gujarat,2022,14,Satyawadi Rakshak Party,Central Gujarat,1,0,1,0,0.0,133
+Gujarat,2022,14,Saurashtra Janta Paksha,North Gujarat,1,0,1,0,0.0,134
+Gujarat,2022,14,Swatantrata Abhivyakti Party,North Gujarat,3,0,3,0,0.0,135
+Gujarat,2022,14,Vikas India Party,North Gujarat,1,0,1,0,0.0,136
+Gujarat,2022,14,Vyavastha Parivartan Party,North Gujarat,4,0,4,0,0.0,137
+Gujarat,2022,14,Vyavastha Parivartan Party,Saurashtra-Kutch,13,0,13,0,0.0,138
+Gujarat,2017,13,AAAP,Central Gujarat,4,0,4,0,0.0,13
+Gujarat,2017,13,AAAP,North Gujarat,4,0,4,0,0.0,14
+Gujarat,2017,13,AAAP,Saurashtra-Kutch,12,0,12,0,0.0,15
+Gujarat,2017,13,AAAP,South Gujarat,9,0,9,0,0.0,16
+Gujarat,2017,13,ABCD(A),North Gujarat,1,0,1,0,0.0,17
+Gujarat,2017,13,ABHM,North Gujarat,1,0,1,0,0.0,18
+Gujarat,2017,13,ADPT,Central Gujarat,1,0,1,0,0.0,19
+Gujarat,2017,13,ADPT,North Gujarat,1,0,1,0,0.0,20
+Gujarat,2017,13,AINHCP,Central Gujarat,19,0,19,0,0.0,21
+Gujarat,2017,13,AINHCP,North Gujarat,27,0,27,0,0.0,22
+Gujarat,2017,13,AINHCP,Saurashtra-Kutch,30,0,30,0,0.0,23
+Gujarat,2017,13,AINHCP,South Gujarat,19,0,19,0,0.0,24
+Gujarat,2017,13,AKHP,North Gujarat,1,0,1,0,0.0,25
+Gujarat,2017,13,AKHP,Saurashtra-Kutch,1,0,1,0,0.0,26
+Gujarat,2017,13,ASAPA,North Gujarat,4,0,4,0,0.0,27
+Gujarat,2017,13,ASAPA,Saurashtra-Kutch,1,0,1,0,0.0,28
+Gujarat,2017,13,ASAPA,South Gujarat,4,0,4,0,0.0,29
+Gujarat,2017,13,ASP,Saurashtra-Kutch,1,0,1,0,0.0,30
+Gujarat,2017,13,BARESP,North Gujarat,1,0,1,0,0.0,31
+Gujarat,2017,13,BARESP,South Gujarat,3,0,3,0,0.0,32
+Gujarat,2017,13,BBC,Saurashtra-Kutch,1,0,1,0,0.0,33
+Gujarat,2017,13,BBC,South Gujarat,6,0,6,0,0.0,34
+Gujarat,2017,13,BHARP,Central Gujarat,1,0,1,0,0.0,35
+Gujarat,2017,13,BHARP,North Gujarat,3,0,3,0,0.0,36
+Gujarat,2017,13,BJP,Central Gujarat,40,22,0,8.73,55.0,4
+Gujarat,2017,13,BJP,North Gujarat,53,29,0,9.65,54.72,5
+Gujarat,2017,13,BJP,Saurashtra-Kutch,54,23,0,4.82,42.59,7
+Gujarat,2017,13,BJP,South Gujarat,35,25,0,18.12,71.43,1
+Gujarat,2017,13,BMUP,Central Gujarat,1,0,1,0,0.0,37
+Gujarat,2017,13,BMUP,North Gujarat,14,0,14,0,0.0,38
+Gujarat,2017,13,BMUP,Saurashtra-Kutch,11,0,11,0,0.0,39
+Gujarat,2017,13,BMUP,South Gujarat,8,0,8,0,0.0,40
+Gujarat,2017,13,BNJD,Central Gujarat,1,0,1,0,0.0,41
+Gujarat,2017,13,BNJD,Saurashtra-Kutch,4,0,4,0,0.0,42
+Gujarat,2017,13,BRP,North Gujarat,3,0,3,0,0.0,43
+Gujarat,2017,13,BRP,Saurashtra-Kutch,2,0,2,0,0.0,44
+Gujarat,2017,13,BSAP,Saurashtra-Kutch,2,0,2,0,0.0,45
+Gujarat,2017,13,BSDL,North Gujarat,3,0,3,0,0.0,46
+Gujarat,2017,13,BSP,Central Gujarat,28,0,28,0,0.0,47
+Gujarat,2017,13,BSP,North Gujarat,47,0,47,0,0.0,48
+Gujarat,2017,13,BSP,Saurashtra-Kutch,44,0,44,0,0.0,49
+Gujarat,2017,13,BSP,South Gujarat,20,0,20,0,0.0,50
+Gujarat,2017,13,BTP,Central Gujarat,2,0,2,0,0.0,51
+Gujarat,2017,13,BTP,Saurashtra-Kutch,1,0,1,0,0.0,52
+Gujarat,2017,13,BTP,South Gujarat,3,2,1,13.01,66.67,2
+Gujarat,2017,13,CPI,North Gujarat,1,0,1,0,0.0,53
+Gujarat,2017,13,CPI,South Gujarat,1,0,1,0,0.0,54
+Gujarat,2017,13,CPI(ML)(L),South Gujarat,2,0,2,0,0.0,55
+Gujarat,2017,13,CPM,North Gujarat,3,0,3,0,0.0,56
+Gujarat,2017,13,CPM,South Gujarat,2,0,2,0,0.0,57
+Gujarat,2017,13,DBSP,North Gujarat,1,0,1,0,0.0,58
+Gujarat,2017,13,GJCP,Central Gujarat,6,0,6,0,0.0,59
+Gujarat,2017,13,GJCP,North Gujarat,7,0,7,0,0.0,60
+Gujarat,2017,13,GJCP,Saurashtra-Kutch,12,0,12,0,0.0,61
+Gujarat,2017,13,GJCP,South Gujarat,2,0,2,0,0.0,62
+Gujarat,2017,13,INC,Central Gujarat,38,16,0,3.35,42.11,8
+Gujarat,2017,13,INC,North Gujarat,52,23,0,3.27,44.23,6
+Gujarat,2017,13,INC,Saurashtra-Kutch,54,30,1,5.13,55.56,3
+Gujarat,2017,13,INC,South Gujarat,33,8,0,2.17,24.24,9
+Gujarat,2017,13,INCP,Central Gujarat,1,0,1,0,0.0,63
+Gujarat,2017,13,INCP,North Gujarat,1,0,1,0,0.0,64
+Gujarat,2017,13,INCP,Saurashtra-Kutch,1,0,1,0,0.0,65
+Gujarat,2017,13,INCP,South Gujarat,1,0,1,0,0.0,66
+Gujarat,2017,13,IND,Central Gujarat,93,2,88,0.06,2.15,11
+Gujarat,2017,13,IND,North Gujarat,258,1,254,0.04,0.39,12
+Gujarat,2017,13,IND,Saurashtra-Kutch,336,0,335,0,0.0,67
+Gujarat,2017,13,IND,South Gujarat,107,0,107,0,0.0,68
+Gujarat,2017,13,INL,Central Gujarat,1,0,1,0,0.0,69
+Gujarat,2017,13,INL,North Gujarat,1,0,1,0,0.0,70
+Gujarat,2017,13,ISP,Central Gujarat,2,0,2,0,0.0,71
+Gujarat,2017,13,ISP,North Gujarat,2,0,2,0,0.0,72
+Gujarat,2017,13,ISP,Saurashtra-Kutch,1,0,1,0,0.0,73
+Gujarat,2017,13,JANSAPP,North Gujarat,1,0,1,0,0.0,74
+Gujarat,2017,13,JANSAPP,Saurashtra-Kutch,1,0,1,0,0.0,75
+Gujarat,2017,13,JASP,Saurashtra-Kutch,1,0,1,0,0.0,76
+Gujarat,2017,13,JD(S),North Gujarat,1,0,1,0,0.0,77
+Gujarat,2017,13,JD(U),Central Gujarat,6,0,6,0,0.0,78
+Gujarat,2017,13,JD(U),North Gujarat,8,0,8,0,0.0,79
+Gujarat,2017,13,JD(U),Saurashtra-Kutch,5,0,5,0,0.0,80
+Gujarat,2017,13,JD(U),South Gujarat,9,0,9,0,0.0,81
+Gujarat,2017,13,LOGAP,Central Gujarat,2,0,2,0,0.0,82
+Gujarat,2017,13,LOGAP,North Gujarat,3,0,3,0,0.0,83
+Gujarat,2017,13,LOGAP,Saurashtra-Kutch,1,0,1,0,0.0,84
+Gujarat,2017,13,LOKSP,North Gujarat,1,0,1,0,0.0,85
+Gujarat,2017,13,LOKSP,Saurashtra-Kutch,2,0,2,0,0.0,86
+Gujarat,2017,13,LOKSP,South Gujarat,1,0,1,0,0.0,87
+Gujarat,2017,13,LSPS,North Gujarat,3,0,3,0,0.0,88
+Gujarat,2017,13,LSPS,Saurashtra-Kutch,1,0,1,0,0.0,89
+Gujarat,2017,13,LSWP,North Gujarat,2,0,2,0,0.0,90
+Gujarat,2017,13,LVM,North Gujarat,3,0,3,0,0.0,91
+Gujarat,2017,13,LVM,South Gujarat,1,0,1,0,0.0,92
+Gujarat,2017,13,MANPA,Central Gujarat,3,0,3,0,0.0,93
+Gujarat,2017,13,MANPA,North Gujarat,1,0,1,0,0.0,94
+Gujarat,2017,13,MANPA,South Gujarat,1,0,1,0,0.0,95
+Gujarat,2017,13,NBNM,Central Gujarat,1,0,1,0,0.0,96
+Gujarat,2017,13,NBNM,North Gujarat,7,0,7,0,0.0,97
+Gujarat,2017,13,NBNM,Saurashtra-Kutch,3,0,3,0,0.0,98
+Gujarat,2017,13,NBNM,South Gujarat,2,0,2,0,0.0,99
+Gujarat,2017,13,NCP,Central Gujarat,12,0,11,0,0.0,100
+Gujarat,2017,13,NCP,North Gujarat,16,0,16,0,0.0,101
+Gujarat,2017,13,NCP,Saurashtra-Kutch,17,1,16,1.18,5.88,10
+Gujarat,2017,13,NCP,South Gujarat,13,0,13,0,0.0,102
+Gujarat,2017,13,NOTA,Central Gujarat,40,0,0,0,0.0,103
+Gujarat,2017,13,NOTA,North Gujarat,53,0,0,0,0.0,104
+Gujarat,2017,13,NOTA,Saurashtra-Kutch,54,0,0,0,0.0,105
+Gujarat,2017,13,NOTA,South Gujarat,35,0,0,0,0.0,106
+Gujarat,2017,13,PAP,North Gujarat,1,0,1,0,0.0,107
+Gujarat,2017,13,PPS,Saurashtra-Kutch,1,0,1,0,0.0,108
+Gujarat,2017,13,RAJPA,North Gujarat,2,0,2,0,0.0,109
+Gujarat,2017,13,RAJPA,Saurashtra-Kutch,2,0,2,0,0.0,110
+Gujarat,2017,13,RAJPA,South Gujarat,1,0,1,0,0.0,111
+Gujarat,2017,13,REALDP,Saurashtra-Kutch,5,0,5,0,0.0,112
+Gujarat,2017,13,REALDP,South Gujarat,2,0,2,0,0.0,113
+Gujarat,2017,13,RKEP,North Gujarat,2,0,2,0,0.0,114
+Gujarat,2017,13,RKEP,Saurashtra-Kutch,3,0,3,0,0.0,115
+Gujarat,2017,13,RKSP,North Gujarat,1,0,1,0,0.0,116
+Gujarat,2017,13,RKSP,Saurashtra-Kutch,2,0,2,0,0.0,117
+Gujarat,2017,13,RMGP,North Gujarat,1,0,1,0,0.0,118
+Gujarat,2017,13,RMNMP,Saurashtra-Kutch,1,0,1,0,0.0,119
+Gujarat,2017,13,RMNMP,South Gujarat,4,0,4,0,0.0,120
+Gujarat,2017,13,RPI,Saurashtra-Kutch,2,0,2,0,0.0,121
+Gujarat,2017,13,RPIR,Saurashtra-Kutch,1,0,1,0,0.0,122
+Gujarat,2017,13,RSP(S),North Gujarat,2,0,2,0,0.0,123
+Gujarat,2017,13,RSPS,Central Gujarat,2,0,1,0,0.0,124
+Gujarat,2017,13,RSPS,South Gujarat,2,0,2,0,0.0,125
+Gujarat,2017,13,RVZP,North Gujarat,2,0,2,0,0.0,126
+Gujarat,2017,13,SAJPCS,North Gujarat,1,0,1,0,0.0,127
+Gujarat,2017,13,SHS,Central Gujarat,6,0,6,0,0.0,128
+Gujarat,2017,13,SHS,North Gujarat,11,0,11,0,0.0,129
+Gujarat,2017,13,SHS,Saurashtra-Kutch,15,0,15,0,0.0,130
+Gujarat,2017,13,SHS,South Gujarat,10,0,10,0,0.0,131
+Gujarat,2017,13,SP,Saurashtra-Kutch,3,0,3,0,0.0,132
+Gujarat,2017,13,SP,South Gujarat,1,0,1,0,0.0,133
+Gujarat,2017,13,SP(I),North Gujarat,1,0,1,0,0.0,134
+Gujarat,2017,13,STBSP,South Gujarat,4,0,4,0,0.0,135
+Gujarat,2017,13,SUCI,Central Gujarat,1,0,1,0,0.0,136
+Gujarat,2017,13,SUCI,North Gujarat,1,0,1,0,0.0,137
+Gujarat,2017,13,SUCI,South Gujarat,1,0,1,0,0.0,138
+Gujarat,2017,13,SVPP,North Gujarat,9,0,9,0,0.0,139
+Gujarat,2017,13,SVPP,Saurashtra-Kutch,6,0,6,0,0.0,140
+Gujarat,2017,13,SVPP,South Gujarat,6,0,6,0,0.0,141
+Gujarat,2017,13,VHS,North Gujarat,1,0,1,0,0.0,142
+Gujarat,2017,13,VPP,North Gujarat,2,0,2,0,0.0,143
+Gujarat,2017,13,VPP,Saurashtra-Kutch,16,0,16,0,0.0,144
+Gujarat,2017,13,VPP,South Gujarat,1,0,1,0,0.0,145
+Gujarat,2017,13,YJJP,North Gujarat,1,0,1,0,0.0,146
+Gujarat,2017,13,YPD,South Gujarat,1,0,1,0,0.0,147
+Gujarat,2017,13,YUS,Central Gujarat,1,0,1,0,0.0,148
+Gujarat,2017,13,YUS,North Gujarat,6,0,6,0,0.0,149
+Gujarat,2017,13,YUS,Saurashtra-Kutch,2,0,2,0,0.0,150
+Gujarat,2017,13,YUS,South Gujarat,4,0,4,0,0.0,151
+Gujarat,2012,12,ABJS,Central Gujarat,1,0,1,0,0.0,14
+Gujarat,2012,12,ABMSD,Central Gujarat,1,0,1,0,0.0,15
+Gujarat,2012,12,ABMSD,Saurashtra-Kutch,2,0,2,0,0.0,16
+Gujarat,2012,12,AJKP,South Gujarat,3,0,3,0,0.0,17
+Gujarat,2012,12,ASP,Saurashtra-Kutch,1,0,1,0,0.0,18
+Gujarat,2012,12,BJP,Central Gujarat,40,20,0,8.17,50.0,4
+Gujarat,2012,12,BJP,North Gujarat,53,32,0,12.66,60.38,3
+Gujarat,2012,12,BJP,Saurashtra-Kutch,54,35,0,7.63,64.81,2
+Gujarat,2012,12,BJP,South Gujarat,35,28,0,17.02,80.0,1
+Gujarat,2012,12,BNJD,Central Gujarat,1,0,1,0,0.0,19
+Gujarat,2012,12,BNJD,North Gujarat,2,0,2,0,0.0,20
+Gujarat,2012,12,BNJD,Saurashtra-Kutch,1,0,1,0,0.0,21
+Gujarat,2012,12,BSDL,North Gujarat,1,0,1,0,0.0,22
+Gujarat,2012,12,BSP,Central Gujarat,34,0,34,0,0.0,23
+Gujarat,2012,12,BSP,North Gujarat,48,0,48,0,0.0,24
+Gujarat,2012,12,BSP,Saurashtra-Kutch,48,0,48,0,0.0,25
+Gujarat,2012,12,BSP,South Gujarat,33,0,33,0,0.0,26
+Gujarat,2012,12,BhDC,North Gujarat,1,0,1,0,0.0,27
+Gujarat,2012,12,BhJD,North Gujarat,2,0,2,0,0.0,28
+Gujarat,2012,12,CPI,North Gujarat,2,0,2,0,0.0,29
+Gujarat,2012,12,CPI,South Gujarat,1,0,1,0,0.0,30
+Gujarat,2012,12,CPI(ML)(L),North Gujarat,3,0,3,0,0.0,31
+Gujarat,2012,12,CPI(ML)(L),South Gujarat,1,0,1,0,0.0,32
+Gujarat,2012,12,CPM,Central Gujarat,1,0,1,0,0.0,33
+Gujarat,2012,12,CPM,North Gujarat,3,0,3,0,0.0,34
+Gujarat,2012,12,CPM,Saurashtra-Kutch,4,0,4,0,0.0,35
+Gujarat,2012,12,CPM,South Gujarat,1,0,1,0,0.0,36
+Gujarat,2012,12,DBSP,North Gujarat,2,0,2,0,0.0,37
+Gujarat,2012,12,DBSP,Saurashtra-Kutch,2,0,2,0,0.0,38
+Gujarat,2012,12,GPP,Central Gujarat,39,0,39,0,0.0,39
+Gujarat,2012,12,GPP,North Gujarat,42,0,42,0,0.0,40
+Gujarat,2012,12,GPP,Saurashtra-Kutch,52,2,45,0.57,3.85,12
+Gujarat,2012,12,GPP,South Gujarat,34,0,33,0,0.0,41
+Gujarat,2012,12,HND,Central Gujarat,1,0,1,0,0.0,42
+Gujarat,2012,12,HND,Saurashtra-Kutch,2,0,2,0,0.0,43
+Gujarat,2012,12,HND,South Gujarat,3,0,3,0,0.0,44
+Gujarat,2012,12,IF,South Gujarat,9,0,9,0,0.0,45
+Gujarat,2012,12,IJP,Central Gujarat,2,0,2,0,0.0,46
+Gujarat,2012,12,IJP,North Gujarat,2,0,2,0,0.0,47
+Gujarat,2012,12,IJP,Saurashtra-Kutch,4,0,4,0,0.0,48
+Gujarat,2012,12,INC,Central Gujarat,38,18,0,5.21,47.37,6
+Gujarat,2012,12,INC,North Gujarat,52,21,0,4.05,40.38,7
+Gujarat,2012,12,INC,Saurashtra-Kutch,51,16,0,1.59,31.37,8
+Gujarat,2012,12,INC,South Gujarat,35,6,0,1.68,17.14,10
+Gujarat,2012,12,IND,Central Gujarat,90,1,88,0.15,1.11,13
+Gujarat,2012,12,IND,North Gujarat,195,0,193,0,0.0,49
+Gujarat,2012,12,IND,Saurashtra-Kutch,288,0,287,0,0.0,50
+Gujarat,2012,12,IND,South Gujarat,95,0,94,0,0.0,51
+Gujarat,2012,12,JD(U),Central Gujarat,15,0,15,0,0.0,52
+Gujarat,2012,12,JD(U),North Gujarat,13,0,13,0,0.0,53
+Gujarat,2012,12,JD(U),Saurashtra-Kutch,12,0,12,0,0.0,54
+Gujarat,2012,12,JD(U),South Gujarat,25,1,24,0.31,4.0,11
+Gujarat,2012,12,LJP,Central Gujarat,7,0,7,0,0.0,55
+Gujarat,2012,12,LJP,North Gujarat,21,0,21,0,0.0,56
+Gujarat,2012,12,LJP,Saurashtra-Kutch,10,0,10,0,0.0,57
+Gujarat,2012,12,LJP,South Gujarat,6,0,6,0,0.0,58
+Gujarat,2012,12,LSWP,North Gujarat,1,0,1,0,0.0,59
+Gujarat,2012,12,LSWP,South Gujarat,1,0,1,0,0.0,60
+Gujarat,2012,12,LoRP,North Gujarat,4,0,4,0,0.0,61
+Gujarat,2012,12,LoRP,Saurashtra-Kutch,1,0,1,0,0.0,62
+Gujarat,2012,12,MaJP,Central Gujarat,2,0,2,0,0.0,63
+Gujarat,2012,12,MaJP,Saurashtra-Kutch,1,0,1,0,0.0,64
+Gujarat,2012,12,NBN,Central Gujarat,3,0,3,0,0.0,65
+Gujarat,2012,12,NBN,North Gujarat,1,0,1,0,0.0,66
+Gujarat,2012,12,NBN,South Gujarat,1,0,1,0,0.0,67
+Gujarat,2012,12,NCP,Central Gujarat,4,1,2,0.22,25.0,9
+Gujarat,2012,12,NCP,North Gujarat,5,0,3,0,0.0,68
+Gujarat,2012,12,NCP,Saurashtra-Kutch,2,1,1,8.02,50.0,5
+Gujarat,2012,12,NCP,South Gujarat,1,0,1,0,0.0,69
+Gujarat,2012,12,NSM,North Gujarat,1,0,1,0,0.0,70
+Gujarat,2012,12,PAP,North Gujarat,3,0,3,0,0.0,71
+Gujarat,2012,12,RKEP,Saurashtra-Kutch,2,0,2,0,0.0,72
+Gujarat,2012,12,RKSP,Saurashtra-Kutch,4,0,4,0,0.0,73
+Gujarat,2012,12,RKSP,South Gujarat,1,0,1,0,0.0,74
+Gujarat,2012,12,RLD,North Gujarat,2,0,2,0,0.0,75
+Gujarat,2012,12,RLD,Saurashtra-Kutch,1,0,1,0,0.0,76
+Gujarat,2012,12,RPI(A),North Gujarat,3,0,3,0,0.0,77
+Gujarat,2012,12,RPI(A),Saurashtra-Kutch,10,0,10,0,0.0,78
+Gujarat,2012,12,RPI(A),South Gujarat,1,0,1,0,0.0,79
+Gujarat,2012,12,RSP(S),North Gujarat,2,0,2,0,0.0,80
+Gujarat,2012,12,RSP(S),Saurashtra-Kutch,2,0,2,0,0.0,81
+Gujarat,2012,12,RSPS,Central Gujarat,1,0,1,0,0.0,82
+Gujarat,2012,12,SP,Central Gujarat,16,0,16,0,0.0,83
+Gujarat,2012,12,SP,North Gujarat,26,0,26,0,0.0,84
+Gujarat,2012,12,SP,Saurashtra-Kutch,16,0,16,0,0.0,85
+Gujarat,2012,12,SP,South Gujarat,9,0,9,0,0.0,86
+Gujarat,2012,12,SP(I),Central Gujarat,1,0,1,0,0.0,87
+Gujarat,2012,12,SP(I),North Gujarat,1,0,1,0,0.0,88
+Gujarat,2012,12,SUCI,Central Gujarat,1,0,1,0,0.0,89
+Gujarat,2012,12,SUCI,North Gujarat,1,0,1,0,0.0,90
+Gujarat,2012,12,SUCI,South Gujarat,3,0,3,0,0.0,91
+Gujarat,2012,12,SVPP,North Gujarat,3,0,3,0,0.0,92
+Gujarat,2012,12,VHS,North Gujarat,2,0,2,0,0.0,93
+Gujarat,2012,12,YuS,South Gujarat,3,0,3,0,0.0,94

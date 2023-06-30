@@ -1,0 +1,41 @@
+Assembly_No,Party_ID,TCPD_Prof_Main,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+11,13,Agriculture,2,62,2020,AAAP,3.23
+11,13,Business,13,62,2020,AAAP,20.97
+11,13,Liberal Profession or Professional,7,62,2020,AAAP,11.29
+11,13,Other,9,62,2020,AAAP,14.52
+11,13,Politics,18,62,2020,AAAP,29.03
+11,13,Retired or Pension,1,62,2020,AAAP,1.61
+11,13,Salaried Work or Employed,3,62,2020,AAAP,4.84
+11,13,Small Business or Self-employed,3,62,2020,AAAP,4.84
+11,13,Social Work,5,62,2020,AAAP,8.06
+11,13,Unknown,1,62,2020,AAAP,1.61
+11,1605,Business,3,8,2020,BJP,37.5
+11,1605,Liberal Profession or Professional,1,8,2020,BJP,12.5
+11,1605,Other,1,8,2020,BJP,12.5
+11,1605,Politics,1,8,2020,BJP,12.5
+11,1605,Social Work,2,8,2020,BJP,25
+10,13,Unknown,67,67,2015,AAAP,100
+10,1605,Business,3,3,2015,BJP,100
+9,13,Unknown,28,28,2013,AAAP,100
+9,1605,Agriculture,1,31,2013,BJP,3.23
+9,1605,Business,18,31,2013,BJP,58.06
+9,1605,Education,1,31,2013,BJP,3.23
+9,1605,Liberal Profession or Professional,4,31,2013,BJP,12.9
+9,1605,Politics,2,31,2013,BJP,6.45
+9,1605,Retired or Pension,2,31,2013,BJP,6.45
+9,1605,Salaried Work or Employed,1,31,2013,BJP,3.23
+9,1605,Small Business or Self-employed,1,31,2013,BJP,3.23
+9,1605,Social Work,1,31,2013,BJP,3.23
+9,3482,Agriculture,1,8,2013,INC,12.5
+9,3482,Business,2,8,2013,INC,25
+9,3482,Politics,2,8,2013,INC,25
+9,3482,Social Work,3,8,2013,INC,37.5
+9,10809,Social Work,1,1,2013,IND,100
+9,11002,Business,1,1,2013,JD(U),100
+9,16994,Business,1,1,2013,SAD,100
+8,1605,Other,23,23,2008,BJP,100
+8,16651,Other,2,2,2008,BSP,100
+8,3482,Other,41,43,2008,INC,95.35
+8,3482,Unknown,2,43,2008,INC,4.65
+8,10809,Other,1,1,2008,IND,100
+8,5029,Other,1,1,2008,LJP,100

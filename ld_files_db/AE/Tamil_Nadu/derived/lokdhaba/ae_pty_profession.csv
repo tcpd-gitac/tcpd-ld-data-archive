@@ -1,0 +1,120 @@
+Assembly_No,Party_ID,TCPD_Prof_Main,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+12,930,Agriculture,21,66,2021,ADMK,31.82
+12,930,Business,18,66,2021,ADMK,27.27
+12,930,Former Government,1,66,2021,ADMK,1.52
+12,930,Liberal Profession or Professional,8,66,2021,ADMK,12.12
+12,930,Other,5,66,2021,ADMK,7.58
+12,930,Politics,7,66,2021,ADMK,10.61
+12,930,Salaried Work or Employed,2,66,2021,ADMK,3.03
+12,930,Small Business or Self-employed,1,66,2021,ADMK,1.52
+12,930,Social Work,1,66,2021,ADMK,1.52
+12,930,Unemployed,1,66,2021,ADMK,1.52
+12,930,Unknown,1,66,2021,ADMK,1.52
+12,1605,Business,1,4,2021,BJP,25
+12,1605,Liberal Profession or Professional,2,4,2021,BJP,50
+12,1605,Other,1,4,2021,BJP,25
+12,2444,Politics,1,2,2021,CPI,50
+12,2444,Social Work,1,2,2021,CPI,50
+12,14635,Other,2,2,2021,CPM,100
+12,10192,Agriculture,34,133,2021,DMK,25.56
+12,10192,Business,42,133,2021,DMK,31.58
+12,10192,Education,1,133,2021,DMK,0.75
+12,10192,Liberal Profession or Professional,18,133,2021,DMK,13.53
+12,10192,Other,12,133,2021,DMK,9.02
+12,10192,Politics,9,133,2021,DMK,6.77
+12,10192,Retired or Pension,1,133,2021,DMK,0.75
+12,10192,Salaried Work or Employed,2,133,2021,DMK,1.5
+12,10192,Small Business or Self-employed,2,133,2021,DMK,1.5
+12,10192,Social Work,4,133,2021,DMK,3.01
+12,10192,Unknown,8,133,2021,DMK,6.02
+12,3482,Agriculture,2,18,2021,INC,11.11
+12,3482,Business,7,18,2021,INC,38.89
+12,3482,Liberal Profession or Professional,2,18,2021,INC,11.11
+12,3482,Other,2,18,2021,INC,11.11
+12,3482,Politics,2,18,2021,INC,11.11
+12,3482,Small Business or Self-employed,1,18,2021,INC,5.56
+12,3482,Unknown,2,18,2021,INC,11.11
+12,11891,Agriculture,2,5,2021,PMK,40
+12,11891,Politics,1,5,2021,PMK,20
+12,11891,Small Business or Self-employed,1,5,2021,PMK,20
+12,11891,Unknown,1,5,2021,PMK,20
+12,8488,Business,1,4,2021,VCK,25
+12,8488,Liberal Profession or Professional,2,4,2021,VCK,50
+12,8488,Social Work,1,4,2021,VCK,25
+11,930,Unknown,134,134,2016,ADMK,100
+11,10192,Agriculture,17,89,2016,DMK,19.1
+11,10192,Business,30,89,2016,DMK,33.71
+11,10192,Education,1,89,2016,DMK,1.12
+11,10192,Liberal Profession or Professional,14,89,2016,DMK,15.73
+11,10192,Other,6,89,2016,DMK,6.74
+11,10192,Politics,8,89,2016,DMK,8.99
+11,10192,Retired or Pension,3,89,2016,DMK,3.37
+11,10192,Salaried Work or Employed,3,89,2016,DMK,3.37
+11,10192,Small Business or Self-employed,3,89,2016,DMK,3.37
+11,10192,Social Work,3,89,2016,DMK,3.37
+11,10192,Unknown,1,89,2016,DMK,1.12
+11,3482,Agriculture,2,8,2016,INC,25
+11,3482,Business,1,8,2016,INC,12.5
+11,3482,Liberal Profession or Professional,3,8,2016,INC,37.5
+11,3482,Other,1,8,2016,INC,12.5
+11,3482,Unknown,1,8,2016,INC,12.5
+11,3952,Business,1,1,2016,IUML,100
+10,930,Agricultural Labour,2,150,2011,ADMK,1.33
+10,930,Agriculture,45,150,2011,ADMK,30
+10,930,Business,52,150,2011,ADMK,34.67
+10,930,Labourer or Daily Wage,2,150,2011,ADMK,1.33
+10,930,Liberal Profession or Professional,20,150,2011,ADMK,13.33
+10,930,Other,6,150,2011,ADMK,4
+10,930,Politics,12,150,2011,ADMK,8
+10,930,Salaried Work or Employed,2,150,2011,ADMK,1.33
+10,930,Small Business or Self-employed,2,150,2011,ADMK,1.33
+10,930,Social Work,2,150,2011,ADMK,1.33
+10,930,Unknown,5,150,2011,ADMK,3.33
+10,3040,Liberal Profession or Professional,1,1,2011,AIFB,100
+10,2444,Agriculture,2,9,2011,CPI,22.22
+10,2444,Other,2,9,2011,CPI,22.22
+10,2444,Politics,4,9,2011,CPI,44.44
+10,2444,Social Work,1,9,2011,CPI,11.11
+10,14635,Liberal Profession or Professional,1,10,2011,CPM,10
+10,14635,Other,2,10,2011,CPM,20
+10,14635,Politics,4,10,2011,CPM,40
+10,14635,Social Work,3,10,2011,CPM,30
+10,2956,Agriculture,4,29,2011,DMDK,13.79
+10,2956,Business,9,29,2011,DMDK,31.03
+10,2956,Liberal Profession or Professional,2,29,2011,DMDK,6.9
+10,2956,Other,6,29,2011,DMDK,20.69
+10,2956,Politics,1,29,2011,DMDK,3.45
+10,2956,Salaried Work or Employed,1,29,2011,DMDK,3.45
+10,2956,Small Business or Self-employed,4,29,2011,DMDK,13.79
+10,2956,Social Work,1,29,2011,DMDK,3.45
+10,2956,Unknown,1,29,2011,DMDK,3.45
+10,10192,Agriculture,6,23,2011,DMK,26.09
+10,10192,Business,6,23,2011,DMK,26.09
+10,10192,Education,1,23,2011,DMK,4.35
+10,10192,Liberal Profession or Professional,4,23,2011,DMK,17.39
+10,10192,Politics,2,23,2011,DMK,8.7
+10,10192,Social Work,2,23,2011,DMK,8.7
+10,10192,Unknown,2,23,2011,DMK,8.7
+10,3482,Agriculture,1,5,2011,INC,20
+10,3482,Business,2,5,2011,INC,40
+10,3482,Unknown,2,5,2011,INC,40
+10,11572,Business,1,2,2011,MAMAK,50
+10,11572,Salaried Work or Employed,1,2,2011,MAMAK,50
+10,11891,Business,1,3,2011,PMK,33.33
+10,11891,Politics,1,3,2011,PMK,33.33
+10,11891,Salaried Work or Employed,1,3,2011,PMK,33.33
+10,12001,Agriculture,1,2,2011,PT,50
+10,12001,Liberal Profession or Professional,1,2,2011,PT,50
+9,930,Other,61,61,2006,ADMK,100
+9,2444,Other,6,6,2006,CPI,100
+9,14635,Unknown,9,9,2006,CPM,100
+9,2956,Other,1,1,2006,DMDK,100
+9,10192,Other,95,96,2006,DMK,98.96
+9,10192,Unknown,1,96,2006,DMK,1.04
+9,3482,Other,32,34,2006,INC,94.12
+9,3482,Unknown,2,34,2006,INC,5.88
+9,10809,Other,1,1,2006,IND,100
+9,11601,Other,6,6,2006,MDMK,100
+9,11891,Other,17,18,2006,PMK,94.44
+9,11891,Unknown,1,18,2006,PMK,5.56
+9,8488,Other,2,2,2006,VCK,100

@@ -1,0 +1,795 @@
+State_Name,Year,Assembly_No,Party,Sub_Region,Total_Cand,Winners,Deposit_Lost,Avg_Winning_Margin,Strike_Rate,position
+Karnataka,2023,11,AAAP,Bengaluru Karnataka,36,0,36,0,0.0,22
+Karnataka,2023,11,AAAP,Bombay Karnataka,44,0,44,0,0.0,23
+Karnataka,2023,11,AAAP,Central Karnataka,35,0,35,0,0.0,24
+Karnataka,2023,11,AAAP,Coastal Karnataka,18,0,18,0,0.0,25
+Karnataka,2023,11,AAAP,Hyderabad Karnataka,26,0,26,0,0.0,26
+Karnataka,2023,11,AAAP,Southern Karnataka,50,0,50,0,0.0,27
+Karnataka,2023,11,ABHM,Bengaluru Karnataka,3,0,3,0,0.0,28
+Karnataka,2023,11,ABHM,Coastal Karnataka,2,0,2,0,0.0,29
+Karnataka,2023,11,ABHM,Hyderabad Karnataka,1,0,1,0,0.0,30
+Karnataka,2023,11,ABML(S),Hyderabad Karnataka,1,0,1,0,0.0,31
+Karnataka,2023,11,AIFB,Bengaluru Karnataka,2,0,2,0,0.0,32
+Karnataka,2023,11,AIFB,Central Karnataka,1,0,1,0,0.0,33
+Karnataka,2023,11,AIMEP,Bengaluru Karnataka,2,0,2,0,0.0,34
+Karnataka,2023,11,AIMEP,Southern Karnataka,2,0,2,0,0.0,35
+Karnataka,2023,11,AIMIM,Bombay Karnataka,2,0,2,0,0.0,36
+Karnataka,2023,11,Aihra National Party,Bombay Karnataka,1,0,1,0,0.0,37
+Karnataka,2023,11,Aihra National Party,Southern Karnataka,2,0,2,0,0.0,38
+Karnataka,2023,11,All India Hindustan Congress Party,Bombay Karnataka,1,0,1,0,0.0,39
+Karnataka,2023,11,All India Majlis-E-Inquilab-E-Millat,Hyderabad Karnataka,2,0,2,0,0.0,40
+Karnataka,2023,11,All India Ulama Congress,Hyderabad Karnataka,1,0,1,0,0.0,41
+Karnataka,2023,11,Azad Mazdoor Kissan Party,Bombay Karnataka,1,0,1,0,0.0,42
+Karnataka,2023,11,BJP,Bengaluru Karnataka,36,17,4,7.53,47.22,7
+Karnataka,2023,11,BJP,Bombay Karnataka,50,16,0,4.84,32.0,8
+Karnataka,2023,11,BJP,Central Karnataka,36,6,5,1,16.67,13
+Karnataka,2023,11,BJP,Coastal Karnataka,19,13,0,7.78,68.42,2
+Karnataka,2023,11,BJP,Hyderabad Karnataka,31,9,2,1.09,29.03,10
+Karnataka,2023,11,BJP,Southern Karnataka,52,5,20,0.29,9.62,14
+Karnataka,2023,11,BSP,Bengaluru Karnataka,28,0,27,0,0.0,43
+Karnataka,2023,11,BSP,Bombay Karnataka,20,0,20,0,0.0,44
+Karnataka,2023,11,BSP,Central Karnataka,19,0,19,0,0.0,45
+Karnataka,2023,11,BSP,Coastal Karnataka,1,0,1,0,0.0,46
+Karnataka,2023,11,BSP,Hyderabad Karnataka,23,0,23,0,0.0,47
+Karnataka,2023,11,BSP,Southern Karnataka,42,0,42,0,0.0,48
+Karnataka,2023,11,Bahujan Bharat Party,Bengaluru Karnataka,1,0,1,0,0.0,49
+Karnataka,2023,11,Bahujan Bharat Party,Bombay Karnataka,2,0,2,0,0.0,50
+Karnataka,2023,11,Bharathiya Belaku Party,Coastal Karnataka,1,0,1,0,0.0,51
+Karnataka,2023,11,Bharathiya Belaku Party,Southern Karnataka,4,0,4,0,0.0,52
+Karnataka,2023,11,Bharatiya Dr. B.R.Ambedkar Janta Party,Southern Karnataka,1,0,1,0,0.0,53
+Karnataka,2023,11,Bharatiya Praja Aikyata Party,Bombay Karnataka,1,0,1,0,0.0,54
+Karnataka,2023,11,Bharatiya Praja Aikyata Party,Hyderabad Karnataka,1,0,1,0,0.0,55
+Karnataka,2023,11,Bharatiya Prajagala Kalyana Paksha,Bengaluru Karnataka,4,0,4,0,0.0,56
+Karnataka,2023,11,Bharatiya Prajagala Kalyana Paksha,Hyderabad Karnataka,1,0,1,0,0.0,57
+Karnataka,2023,11,Bharatiya Rashtravadi Paksha,Bombay Karnataka,1,0,1,0,0.0,58
+Karnataka,2023,11,Bharatiya Rashtravadi Paksha,Hyderabad Karnataka,1,0,1,0,0.0,59
+Karnataka,2023,11,Bhartiya Jan Samrat Party,Hyderabad Karnataka,1,0,1,0,0.0,60
+Karnataka,2023,11,BhartiyaBahujanKranti Dal,Central Karnataka,1,0,1,0,0.0,61
+Karnataka,2023,11,BhartiyaBahujanKranti Dal,Hyderabad Karnataka,1,0,1,0,0.0,62
+Karnataka,2023,11,BhartiyaBahujanKranti Dal,Southern Karnataka,3,0,3,0,0.0,63
+Karnataka,2023,11,CPI,Central Karnataka,2,0,2,0,0.0,64
+Karnataka,2023,11,CPI,Hyderabad Karnataka,2,0,2,0,0.0,65
+Karnataka,2023,11,CPI,Southern Karnataka,3,0,3,0,0.0,66
+Karnataka,2023,11,CPI(ML)(L),Bengaluru Karnataka,1,0,1,0,0.0,67
+Karnataka,2023,11,CPI(ML)(L),Hyderabad Karnataka,1,0,1,0,0.0,68
+Karnataka,2023,11,CPM,Bengaluru Karnataka,1,0,1,0,0.0,69
+Karnataka,2023,11,CPM,Hyderabad Karnataka,1,0,1,0,0.0,70
+Karnataka,2023,11,CPM,Southern Karnataka,2,0,2,0,0.0,71
+Karnataka,2023,11,Communist Party of India (Marxist-Leninist) Red Star,Central Karnataka,1,0,1,0,0.0,72
+Karnataka,2023,11,Country Citizen Party,Hyderabad Karnataka,1,0,1,0,0.0,73
+Karnataka,2023,11,Country Citizen Party,Southern Karnataka,3,0,3,0,0.0,74
+Karnataka,2023,11,Desh Prem Party,Bengaluru Karnataka,1,0,1,0,0.0,75
+Karnataka,2023,11,Desh Prem Party,Central Karnataka,2,0,2,0,0.0,76
+Karnataka,2023,11,Dr. Ambedkar People's Party,Bombay Karnataka,1,0,1,0,0.0,77
+Karnataka,2023,11,Dr. Ambedkar People's Party,Hyderabad Karnataka,1,0,1,0,0.0,78
+Karnataka,2023,11,Dr. Ambedkar People's Party,Southern Karnataka,1,0,1,0,0.0,79
+Karnataka,2023,11,Gareeb Aadmi Party,Bengaluru Karnataka,1,0,1,0,0.0,80
+Karnataka,2023,11,Hindustan Janta Party,Bombay Karnataka,1,0,1,0,0.0,81
+Karnataka,2023,11,Hindustan Janta Party,Hyderabad Karnataka,1,0,1,0,0.0,82
+Karnataka,2023,11,Hindustan Janta Party Secular,Bombay Karnataka,3,0,3,0,0.0,83
+Karnataka,2023,11,Hindustan Janta Party Secular,Coastal Karnataka,1,0,1,0,0.0,84
+Karnataka,2023,11,INC,Bengaluru Karnataka,36,18,2,8.6,50.0,6
+Karnataka,2023,11,INC,Bombay Karnataka,50,33,3,8.3,66.0,3
+Karnataka,2023,11,INC,Central Karnataka,36,27,2,10.14,75.0,1
+Karnataka,2023,11,INC,Coastal Karnataka,19,6,1,2.35,31.58,9
+Karnataka,2023,11,INC,Hyderabad Karnataka,31,19,1,6.55,61.29,5
+Karnataka,2023,11,INC,Southern Karnataka,51,32,2,8.02,62.75,4
+Karnataka,2023,11,IND,Bengaluru Karnataka,180,0,180,0,0.0,85
+Karnataka,2023,11,IND,Bombay Karnataka,196,0,190,0,0.0,86
+Karnataka,2023,11,IND,Central Karnataka,163,1,157,0.05,0.61,20
+Karnataka,2023,11,IND,Coastal Karnataka,37,0,36,0,0.0,87
+Karnataka,2023,11,IND,Hyderabad Karnataka,101,0,99,0,0.0,88
+Karnataka,2023,11,IND,Southern Karnataka,240,1,236,0.09,0.42,21
+Karnataka,2023,11,Indian Christian Front,Bengaluru Karnataka,1,0,1,0,0.0,89
+Karnataka,2023,11,Indian Labour Party (Ambedkar Phule),Bengaluru Karnataka,2,0,2,0,0.0,90
+Karnataka,2023,11,Indian Labour Party (Ambedkar Phule),Southern Karnataka,1,0,1,0,0.0,91
+Karnataka,2023,11,Indian Movement Party,Bengaluru Karnataka,8,0,8,0,0.0,92
+Karnataka,2023,11,Indian Movement Party,Bombay Karnataka,11,0,11,0,0.0,93
+Karnataka,2023,11,Indian Movement Party,Central Karnataka,1,0,1,0,0.0,94
+Karnataka,2023,11,Indian Movement Party,Coastal Karnataka,1,0,1,0,0.0,95
+Karnataka,2023,11,Indian Movement Party,Hyderabad Karnataka,5,0,5,0,0.0,96
+Karnataka,2023,11,Indian Movement Party,Southern Karnataka,6,0,6,0,0.0,97
+Karnataka,2023,11,Indian New Congress Party,Bengaluru Karnataka,1,0,1,0,0.0,98
+Karnataka,2023,11,JD(S),Bengaluru Karnataka,31,1,23,0.26,3.23,18
+Karnataka,2023,11,JD(S),Bombay Karnataka,49,1,43,0.27,2.04,19
+Karnataka,2023,11,JD(S),Central Karnataka,31,2,23,0.46,6.45,17
+Karnataka,2023,11,JD(S),Coastal Karnataka,18,0,16,0,0.0,99
+Karnataka,2023,11,JD(S),Hyderabad Karnataka,30,2,21,0.7,6.67,16
+Karnataka,2023,11,JD(S),Southern Karnataka,50,13,13,1.89,26.0,11
+Karnataka,2023,11,Jai Maha Bharath Party,Bengaluru Karnataka,4,0,4,0,0.0,100
+Karnataka,2023,11,Jai Maha Bharath Party,Central Karnataka,1,0,1,0,0.0,101
+Karnataka,2023,11,Jai Maha Bharath Party,Southern Karnataka,1,0,1,0,0.0,102
+Karnataka,2023,11,Jana Spandana Party,Bengaluru Karnataka,1,0,1,0,0.0,103
+Karnataka,2023,11,Jana Spandana Party,Hyderabad Karnataka,1,0,1,0,0.0,104
+Karnataka,2023,11,Janahitha Paksha,Bengaluru Karnataka,1,0,1,0,0.0,105
+Karnataka,2023,11,Janahitha Paksha,Central Karnataka,1,0,1,0,0.0,106
+Karnataka,2023,11,Janahitha Paksha,Coastal Karnataka,1,0,1,0,0.0,107
+Karnataka,2023,11,Janahitha Paksha,Hyderabad Karnataka,1,0,1,0,0.0,108
+Karnataka,2023,11,Janata Dal(United),Bengaluru Karnataka,5,0,5,0,0.0,109
+Karnataka,2023,11,Janata Dal(United),Central Karnataka,1,0,1,0,0.0,110
+Karnataka,2023,11,Janata Dal(United),Hyderabad Karnataka,1,0,1,0,0.0,111
+Karnataka,2023,11,KJP,Bombay Karnataka,5,0,5,0,0.0,112
+Karnataka,2023,11,KJP,Coastal Karnataka,1,0,1,0,0.0,113
+Karnataka,2023,11,KJP,Hyderabad Karnataka,1,0,1,0,0.0,114
+Karnataka,2023,11,KJP,Southern Karnataka,4,0,4,0,0.0,115
+Karnataka,2023,11,KSRKP,Central Karnataka,1,0,1,0,0.0,116
+Karnataka,2023,11,Kalyana Rajya Pragathi Paksha,Bombay Karnataka,17,0,16,0,0.0,117
+Karnataka,2023,11,Kalyana Rajya Pragathi Paksha,Central Karnataka,12,0,10,0,0.0,118
+Karnataka,2023,11,Kalyana Rajya Pragathi Paksha,Coastal Karnataka,2,0,2,0,0.0,119
+Karnataka,2023,11,Kalyana Rajya Pragathi Paksha,Hyderabad Karnataka,11,1,10,0.47,9.09,15
+Karnataka,2023,11,Kalyana Rajya Pragathi Paksha,Southern Karnataka,4,0,4,0,0.0,120
+Karnataka,2023,11,Kannada Chalavali Vatal Paksha,Southern Karnataka,1,0,1,0,0.0,121
+Karnataka,2023,11,Kannada Deshada Paksha,Southern Karnataka,2,0,2,0,0.0,122
+Karnataka,2023,11,KannadaPaksha,Bengaluru Karnataka,1,0,1,0,0.0,123
+Karnataka,2023,11,Karnataka Karmikara Paksha,Bengaluru Karnataka,2,0,2,0,0.0,124
+Karnataka,2023,11,Karnataka Makkala Paksha,Bombay Karnataka,2,0,2,0,0.0,125
+Karnataka,2023,11,Karnataka Makkala Paksha,Central Karnataka,1,0,1,0,0.0,126
+Karnataka,2023,11,Karnataka Pragnyavantha Janatha Party,Bengaluru Karnataka,1,0,1,0,0.0,127
+Karnataka,2023,11,Karnataka Pragnyavantha Janatha Party,Central Karnataka,1,0,1,0,0.0,128
+Karnataka,2023,11,Karnataka Pragnyavantha Janatha Party,Southern Karnataka,1,0,1,0,0.0,129
+Karnataka,2023,11,Karnataka Praja Party (RaithaParva),Southern Karnataka,5,0,5,0,0.0,130
+Karnataka,2023,11,Karnataka Rajya Ryota Sangha,Bombay Karnataka,1,0,1,0,0.0,131
+Karnataka,2023,11,Karnataka Rashtra Samithi,Bengaluru Karnataka,36,0,36,0,0.0,132
+Karnataka,2023,11,Karnataka Rashtra Samithi,Bombay Karnataka,43,0,43,0,0.0,133
+Karnataka,2023,11,Karnataka Rashtra Samithi,Central Karnataka,31,0,31,0,0.0,134
+Karnataka,2023,11,Karnataka Rashtra Samithi,Coastal Karnataka,10,0,10,0,0.0,135
+Karnataka,2023,11,Karnataka Rashtra Samithi,Hyderabad Karnataka,24,0,24,0,0.0,136
+Karnataka,2023,11,Karnataka Rashtra Samithi,Southern Karnataka,51,0,51,0,0.0,137
+Karnataka,2023,11,Karunaadu Party,Bombay Karnataka,1,0,1,0,0.0,138
+Karnataka,2023,11,Karunaadu Party,Southern Karnataka,1,0,1,0,0.0,139
+Karnataka,2023,11,Lok Shakti,Bengaluru Karnataka,1,0,1,0,0.0,140
+Karnataka,2023,11,Lok Shakti,Bombay Karnataka,1,0,1,0,0.0,141
+Karnataka,2023,11,Lok Shakti,Coastal Karnataka,1,0,1,0,0.0,142
+Karnataka,2023,11,Lok Shakti,Southern Karnataka,2,0,2,0,0.0,143
+Karnataka,2023,11,NCP,Bombay Karnataka,5,0,3,0,0.0,144
+Karnataka,2023,11,NCP,Central Karnataka,1,0,1,0,0.0,145
+Karnataka,2023,11,NCP,Hyderabad Karnataka,1,0,1,0,0.0,146
+Karnataka,2023,11,NCP,Southern Karnataka,2,0,2,0,0.0,147
+Karnataka,2023,11,NPP,Bengaluru Karnataka,2,0,2,0,0.0,148
+Karnataka,2023,11,Navabharath Sena,Bengaluru Karnataka,3,0,3,0,0.0,149
+Karnataka,2023,11,Navarang Congress Party,Bengaluru Karnataka,1,0,1,0,0.0,150
+Karnataka,2023,11,Navarang Congress Party,Hyderabad Karnataka,1,0,1,0,0.0,151
+Karnataka,2023,11,None of the Above,Bengaluru Karnataka,36,0,0,0,0.0,152
+Karnataka,2023,11,None of the Above,Bombay Karnataka,50,0,0,0,0.0,153
+Karnataka,2023,11,None of the Above,Central Karnataka,36,0,0,0,0.0,154
+Karnataka,2023,11,None of the Above,Coastal Karnataka,19,0,0,0,0.0,155
+Karnataka,2023,11,None of the Above,Hyderabad Karnataka,31,0,0,0,0.0,156
+Karnataka,2023,11,None of the Above,Southern Karnataka,52,0,0,0,0.0,157
+Karnataka,2023,11,Parisara Bandhu Party,Bengaluru Karnataka,1,0,1,0,0.0,158
+Karnataka,2023,11,"Proutist Bloc, India",Bengaluru Karnataka,1,0,1,0,0.0,159
+Karnataka,2023,11,"Proutist Bloc, India",Bombay Karnataka,2,0,2,0,0.0,160
+Karnataka,2023,11,"Proutist Bloc, India",Southern Karnataka,1,0,1,0,0.0,161
+Karnataka,2023,11,Proutist Sarva Samaj,Central Karnataka,1,0,1,0,0.0,162
+Karnataka,2023,11,Purvanchal Mahapanchayat,Southern Karnataka,3,0,3,0,0.0,163
+Karnataka,2023,11,RJSMP,Bombay Karnataka,1,0,1,0,0.0,164
+Karnataka,2023,11,RJSMP,Coastal Karnataka,1,0,1,0,0.0,165
+Karnataka,2023,11,RPI,Bengaluru Karnataka,1,0,1,0,0.0,166
+Karnataka,2023,11,RPI,Bombay Karnataka,1,0,1,0,0.0,167
+Karnataka,2023,11,RPI,Hyderabad Karnataka,2,0,2,0,0.0,168
+Karnataka,2023,11,RPI,Southern Karnataka,4,0,3,0,0.0,169
+Karnataka,2023,11,RPI(A),Bengaluru Karnataka,5,0,5,0,0.0,170
+Karnataka,2023,11,RPI(A),Central Karnataka,3,0,3,0,0.0,171
+Karnataka,2023,11,RPI(A),Southern Karnataka,2,0,2,0,0.0,172
+Karnataka,2023,11,RSPS,Bombay Karnataka,2,0,2,0,0.0,173
+Karnataka,2023,11,RSPS,Hyderabad Karnataka,5,0,5,0,0.0,174
+Karnataka,2023,11,Raita Bharat Party,Bombay Karnataka,1,0,1,0,0.0,175
+Karnataka,2023,11,Rani Chennamma Party,Bengaluru Karnataka,1,0,1,0,0.0,176
+Karnataka,2023,11,Rani Chennamma Party,Bombay Karnataka,3,0,3,0,0.0,177
+Karnataka,2023,11,Rani Chennamma Party,Central Karnataka,1,0,1,0,0.0,178
+Karnataka,2023,11,Rani Chennamma Party,Hyderabad Karnataka,1,0,1,0,0.0,179
+Karnataka,2023,11,Rani Chennamma Party,Southern Karnataka,1,0,1,0,0.0,180
+Karnataka,2023,11,Rashtriya Janahita Party,Bengaluru Karnataka,4,0,4,0,0.0,181
+Karnataka,2023,11,Rashtriya Janahita Party,Southern Karnataka,1,0,1,0,0.0,182
+Karnataka,2023,11,Rashtriya Maratha Party,Hyderabad Karnataka,1,0,1,0,0.0,183
+Karnataka,2023,11,Rashtriya Samaj Dal (R),Bengaluru Karnataka,4,0,4,0,0.0,184
+Karnataka,2023,11,Rashtriya Samaj Dal (R),Coastal Karnataka,1,0,1,0,0.0,185
+Karnataka,2023,11,Rashtriya Samaj Dal (R),Southern Karnataka,1,0,1,0,0.0,186
+Karnataka,2023,11,Republican Party of India (A),Bombay Karnataka,3,0,3,0,0.0,187
+Karnataka,2023,11,Republican Party of India (A),Hyderabad Karnataka,3,0,3,0,0.0,188
+Karnataka,2023,11,Republican Party of India (Karnataka),Bengaluru Karnataka,1,0,1,0,0.0,189
+Karnataka,2023,11,Republican Party of India (Karnataka),Central Karnataka,2,0,2,0,0.0,190
+Karnataka,2023,11,Republican Party of India (Karnataka),Coastal Karnataka,1,0,1,0,0.0,191
+Karnataka,2023,11,Republican Party of India (Karnataka),Southern Karnataka,1,0,1,0,0.0,192
+Karnataka,2023,11,Republican Party of India Bharatha,Bombay Karnataka,1,0,1,0,0.0,193
+Karnataka,2023,11,Republican Party of India Bharatha,Hyderabad Karnataka,3,0,3,0,0.0,194
+Karnataka,2023,11,Republican Party of India Bharatha,Southern Karnataka,1,0,1,0,0.0,195
+Karnataka,2023,11,SDPI,Bengaluru Karnataka,2,0,2,0,0.0,196
+Karnataka,2023,11,SDPI,Bombay Karnataka,2,0,2,0,0.0,197
+Karnataka,2023,11,SDPI,Central Karnataka,3,0,3,0,0.0,198
+Karnataka,2023,11,SDPI,Coastal Karnataka,6,0,6,0,0.0,199
+Karnataka,2023,11,SDPI,Hyderabad Karnataka,1,0,1,0,0.0,200
+Karnataka,2023,11,SDPI,Southern Karnataka,2,0,1,0,0.0,201
+Karnataka,2023,11,SP,Bengaluru Karnataka,7,0,7,0,0.0,202
+Karnataka,2023,11,SP,Central Karnataka,5,0,5,0,0.0,203
+Karnataka,2023,11,SP,Hyderabad Karnataka,1,0,1,0,0.0,204
+Karnataka,2023,11,SP,Southern Karnataka,1,0,1,0,0.0,205
+Karnataka,2023,11,SUCI,Bengaluru Karnataka,2,0,2,0,0.0,206
+Karnataka,2023,11,SUCI,Bombay Karnataka,2,0,2,0,0.0,207
+Karnataka,2023,11,SUCI,Central Karnataka,3,0,3,0,0.0,208
+Karnataka,2023,11,SUCI,Hyderabad Karnataka,4,0,4,0,0.0,209
+Karnataka,2023,11,SUCI,Southern Karnataka,3,0,3,0,0.0,210
+Karnataka,2023,11,Samajwadi Janata Party(Karnataka),Bengaluru Karnataka,1,0,1,0,0.0,211
+Karnataka,2023,11,Samajwadi Janata Party(Karnataka),Hyderabad Karnataka,1,0,1,0,0.0,212
+Karnataka,2023,11,Samajwadi Janata Party(Karnataka),Southern Karnataka,4,0,4,0,0.0,213
+Karnataka,2023,11,Sanyukt Vikas Party,Bengaluru Karnataka,1,0,1,0,0.0,214
+Karnataka,2023,11,Sanyukt Vikas Party,Central Karnataka,1,0,1,0,0.0,215
+Karnataka,2023,11,Sanyukt Vikas Party,Southern Karnataka,1,0,1,0,0.0,216
+Karnataka,2023,11,Sarvajanika Adarsha Sena,Bengaluru Karnataka,2,0,2,0,0.0,217
+Karnataka,2023,11,Sarvajanika Adarsha Sena,Bombay Karnataka,1,0,1,0,0.0,218
+Karnataka,2023,11,Sarvajanika Adarsha Sena,Hyderabad Karnataka,1,0,1,0,0.0,219
+Karnataka,2023,11,Sarvajanika Adarsha Sena,Southern Karnataka,1,0,1,0,0.0,220
+Karnataka,2023,11,Sarvodaya Karnataka Paksha,Central Karnataka,2,0,2,0,0.0,221
+Karnataka,2023,11,Sarvodaya Karnataka Paksha,Coastal Karnataka,1,0,1,0,0.0,222
+Karnataka,2023,11,Sarvodaya Karnataka Paksha,Southern Karnataka,5,1,4,1.18,20.0,12
+Karnataka,2023,11,Shiv Sena (Uddhav Balasaheb Thackeray),Bombay Karnataka,2,0,2,0,0.0,223
+Karnataka,2023,11,ShivSena (Uddhav Balasaheb Thackeray),Bombay Karnataka,1,0,1,0,0.0,224
+Karnataka,2023,11,Socialist Party (India),Bombay Karnataka,1,0,1,0,0.0,225
+Karnataka,2023,11,Socialist Party (India),Southern Karnataka,1,0,1,0,0.0,226
+Karnataka,2023,11,Swayam Krushi Party,Bengaluru Karnataka,2,0,2,0,0.0,227
+Karnataka,2023,11,Swayam Krushi Party,Bombay Karnataka,4,0,4,0,0.0,228
+Karnataka,2023,11,Swayam Krushi Party,Hyderabad Karnataka,1,0,1,0,0.0,229
+Karnataka,2023,11,Swayam Krushi Party,Southern Karnataka,1,0,1,0,0.0,230
+Karnataka,2023,11,Tipu Sultan Party,Bengaluru Karnataka,2,0,2,0,0.0,231
+Karnataka,2023,11,Tuluvere Paksha,Coastal Karnataka,1,0,1,0,0.0,232
+Karnataka,2023,11,Uttama Prajaakeeya Party,Bengaluru Karnataka,29,0,29,0,0.0,233
+Karnataka,2023,11,Uttama Prajaakeeya Party,Bombay Karnataka,19,0,19,0,0.0,234
+Karnataka,2023,11,Uttama Prajaakeeya Party,Central Karnataka,18,0,18,0,0.0,235
+Karnataka,2023,11,Uttama Prajaakeeya Party,Coastal Karnataka,9,0,9,0,0.0,236
+Karnataka,2023,11,Uttama Prajaakeeya Party,Hyderabad Karnataka,6,0,6,0,0.0,237
+Karnataka,2023,11,Uttama Prajaakeeya Party,Southern Karnataka,29,0,29,0,0.0,238
+Karnataka,2023,11,Vijaya Janata Party,Bengaluru Karnataka,1,0,1,0,0.0,239
+Karnataka,2023,11,Welfare Party Of India,Southern Karnataka,2,0,2,0,0.0,240
+Karnataka,2023,11,Young Star Empowerment Party,Bengaluru Karnataka,4,0,4,0,0.0,241
+Karnataka,2018,10,AAP,Bengaluru Karnataka,11,0,11,0,0.0,20
+Karnataka,2018,10,AAP,Bombay Karnataka,7,0,7,0,0.0,21
+Karnataka,2018,10,AAP,Central Karnataka,3,0,3,0,0.0,22
+Karnataka,2018,10,AAP,Hyderabad Karnataka,4,0,4,0,0.0,23
+Karnataka,2018,10,AAP,Southern Karnataka,3,0,3,0,0.0,24
+Karnataka,2018,10,ABHM,Bengaluru Karnataka,1,0,1,0,0.0,25
+Karnataka,2018,10,ABHM,Central Karnataka,2,0,2,0,0.0,26
+Karnataka,2018,10,ABHM,Coastal Karnataka,2,0,2,0,0.0,27
+Karnataka,2018,10,ABHM,Southern Karnataka,2,0,2,0,0.0,28
+Karnataka,2018,10,ABML(S),Hyderabad Karnataka,1,0,1,0,0.0,29
+Karnataka,2018,10,ADMK,Southern Karnataka,2,0,2,0,0.0,30
+Karnataka,2018,10,AIADMK(JG),Bengaluru Karnataka,1,0,1,0,0.0,31
+Karnataka,2018,10,AIFB,Central Karnataka,2,0,2,0,0.0,32
+Karnataka,2018,10,AIJRP,Bengaluru Karnataka,2,0,2,0,0.0,33
+Karnataka,2018,10,AIMEP,Bengaluru Karnataka,28,0,28,0,0.0,34
+Karnataka,2018,10,AIMEP,Bombay Karnataka,37,0,37,0,0.0,35
+Karnataka,2018,10,AIMEP,Central Karnataka,26,0,26,0,0.0,36
+Karnataka,2018,10,AIMEP,Coastal Karnataka,15,0,15,0,0.0,37
+Karnataka,2018,10,AIMEP,Hyderabad Karnataka,27,0,27,0,0.0,38
+Karnataka,2018,10,AIMEP,Southern Karnataka,43,0,43,0,0.0,39
+Karnataka,2018,10,AINHCP,Bombay Karnataka,1,0,1,0,0.0,40
+Karnataka,2018,10,AIUC,Hyderabad Karnataka,1,0,1,0,0.0,41
+Karnataka,2018,10,AMKP,Bombay Karnataka,2,0,2,0,0.0,42
+Karnataka,2018,10,AMPEP,Bengaluru Karnataka,5,0,5,0,0.0,43
+Karnataka,2018,10,AMPEP,Hyderabad Karnataka,7,0,7,0,0.0,44
+Karnataka,2018,10,AMPEP,Southern Karnataka,2,0,2,0,0.0,45
+Karnataka,2018,10,ANC,Bengaluru Karnataka,2,0,2,0,0.0,46
+Karnataka,2018,10,ANC,Southern Karnataka,2,0,2,0,0.0,47
+Karnataka,2018,10,API,Bengaluru Karnataka,2,0,2,0,0.0,48
+Karnataka,2018,10,API,Central Karnataka,1,0,1,0,0.0,49
+Karnataka,2018,10,API,Southern Karnataka,2,0,2,0,0.0,50
+Karnataka,2018,10,ASDP,Southern Karnataka,1,0,1,0,0.0,51
+Karnataka,2018,10,ASP,Bengaluru Karnataka,4,0,4,0,0.0,52
+Karnataka,2018,10,ASP,Bombay Karnataka,3,0,3,0,0.0,53
+Karnataka,2018,10,ASP,Central Karnataka,1,0,1,0,0.0,54
+Karnataka,2018,10,ASP,Southern Karnataka,3,0,3,0,0.0,55
+Karnataka,2018,10,AVIRP,Bengaluru Karnataka,1,0,1,0,0.0,56
+Karnataka,2018,10,BBKD,Bombay Karnataka,4,0,4,0,0.0,57
+Karnataka,2018,10,BBKD,Central Karnataka,2,0,2,0,0.0,58
+Karnataka,2018,10,BBKD,Coastal Karnataka,1,0,1,0,0.0,59
+Karnataka,2018,10,BBKD,Hyderabad Karnataka,4,0,4,0,0.0,60
+Karnataka,2018,10,BDBJP,Central Karnataka,1,0,1,0,0.0,61
+Karnataka,2018,10,BDBJP,Southern Karnataka,4,0,4,0,0.0,62
+Karnataka,2018,10,BHPP,Hyderabad Karnataka,2,0,2,0,0.0,63
+Karnataka,2018,10,BJP,Bengaluru Karnataka,36,11,6,5.01,30.56,12
+Karnataka,2018,10,BJP,Bombay Karnataka,50,30,0,6.7,60.0,3
+Karnataka,2018,10,BJP,Central Karnataka,36,24,2,8.02,66.67,2
+Karnataka,2018,10,BJP,Coastal Karnataka,19,16,0,12.29,84.21,1
+Karnataka,2018,10,BJP,Hyderabad Karnataka,31,12,2,2.86,38.71,7
+Karnataka,2018,10,BJP,Southern Karnataka,52,11,26,1.9,21.15,14
+Karnataka,2018,10,BJSC,Bengaluru Karnataka,6,0,6,0,0.0,64
+Karnataka,2018,10,BJSC,Bombay Karnataka,6,0,6,0,0.0,65
+Karnataka,2018,10,BJSC,Central Karnataka,2,0,2,0,0.0,66
+Karnataka,2018,10,BJSC,Coastal Karnataka,1,0,1,0,0.0,67
+Karnataka,2018,10,BJSC,Hyderabad Karnataka,1,0,1,0,0.0,68
+Karnataka,2018,10,BJSC,Southern Karnataka,5,0,5,0,0.0,69
+Karnataka,2018,10,BMUP,Bombay Karnataka,5,0,5,0,0.0,70
+Karnataka,2018,10,BMUP,Hyderabad Karnataka,1,0,1,0,0.0,71
+Karnataka,2018,10,BPJP,Bengaluru Karnataka,2,0,2,0,0.0,72
+Karnataka,2018,10,BPJP,Hyderabad Karnataka,1,0,1,0,0.0,73
+Karnataka,2018,10,BPJP,Southern Karnataka,1,0,0,0,0.0,74
+Karnataka,2018,10,BPKP,Bengaluru Karnataka,4,0,4,0,0.0,75
+Karnataka,2018,10,BPKP,Bombay Karnataka,2,0,2,0,0.0,76
+Karnataka,2018,10,BPKP,Hyderabad Karnataka,2,0,2,0,0.0,77
+Karnataka,2018,10,BRMSC,Bombay Karnataka,2,0,2,0,0.0,78
+Karnataka,2018,10,BRMSC,Central Karnataka,1,0,1,0,0.0,79
+Karnataka,2018,10,BRMSC,Southern Karnataka,2,0,2,0,0.0,80
+Karnataka,2018,10,BRP(I),Bengaluru Karnataka,1,0,1,0,0.0,81
+Karnataka,2018,10,BRP(I),Hyderabad Karnataka,1,0,1,0,0.0,82
+Karnataka,2018,10,BRPP,Bengaluru Karnataka,1,0,1,0,0.0,83
+Karnataka,2018,10,BRPP,Bombay Karnataka,6,0,6,0,0.0,84
+Karnataka,2018,10,BRPP,Coastal Karnataka,1,0,1,0,0.0,85
+Karnataka,2018,10,BRPP,Hyderabad Karnataka,1,0,1,0,0.0,86
+Karnataka,2018,10,BRPP,Southern Karnataka,7,0,7,0,0.0,87
+Karnataka,2018,10,BSP,Bengaluru Karnataka,1,0,1,0,0.0,88
+Karnataka,2018,10,BSP,Bombay Karnataka,8,0,8,0,0.0,89
+Karnataka,2018,10,BSP,Central Karnataka,1,0,1,0,0.0,90
+Karnataka,2018,10,BSP,Coastal Karnataka,2,0,2,0,0.0,91
+Karnataka,2018,10,BSP,Hyderabad Karnataka,3,0,3,0,0.0,92
+Karnataka,2018,10,BSP,Southern Karnataka,3,1,2,3.84,33.33,9
+Karnataka,2018,10,CPI,Central Karnataka,1,0,1,0,0.0,93
+Karnataka,2018,10,CPI,Southern Karnataka,1,0,1,0,0.0,94
+Karnataka,2018,10,CPI(M)RS,Hyderabad Karnataka,2,0,2,0,0.0,95
+Karnataka,2018,10,CPI(ML)(L),Bengaluru Karnataka,2,0,2,0,0.0,96
+Karnataka,2018,10,CPI(ML)(L),Central Karnataka,4,0,4,0,0.0,97
+Karnataka,2018,10,CPI(ML)(L),Hyderabad Karnataka,2,0,2,0,0.0,98
+Karnataka,2018,10,CPM,Bengaluru Karnataka,3,0,3,0,0.0,99
+Karnataka,2018,10,CPM,Bombay Karnataka,2,0,2,0,0.0,100
+Karnataka,2018,10,CPM,Central Karnataka,2,0,2,0,0.0,101
+Karnataka,2018,10,CPM,Coastal Karnataka,6,0,6,0,0.0,102
+Karnataka,2018,10,CPM,Hyderabad Karnataka,2,0,2,0,0.0,103
+Karnataka,2018,10,CPM,Southern Karnataka,4,0,3,0,0.0,104
+Karnataka,2018,10,DPPS,Southern Karnataka,1,0,1,0,0.0,105
+Karnataka,2018,10,FCI,Bengaluru Karnataka,4,0,4,0,0.0,106
+Karnataka,2018,10,FCI,Southern Karnataka,3,0,3,0,0.0,107
+Karnataka,2018,10,GAP,Bengaluru Karnataka,1,0,1,0,0.0,108
+Karnataka,2018,10,HJP,Bombay Karnataka,4,0,4,0,0.0,109
+Karnataka,2018,10,HJP,Coastal Karnataka,1,0,1,0,0.0,110
+Karnataka,2018,10,HJP,Hyderabad Karnataka,3,0,3,0,0.0,111
+Karnataka,2018,10,INC,Bengaluru Karnataka,36,18,4,7.72,50.0,4
+Karnataka,2018,10,INC,Bombay Karnataka,50,17,2,2.41,34.0,8
+Karnataka,2018,10,INC,Central Karnataka,36,12,3,1.75,33.33,10
+Karnataka,2018,10,INC,Coastal Karnataka,19,3,0,0.96,15.79,16
+Karnataka,2018,10,INC,Hyderabad Karnataka,31,15,0,4.68,48.39,6
+Karnataka,2018,10,INC,Southern Karnataka,50,15,4,3.35,30.0,13
+Karnataka,2018,10,INCP,Bengaluru Karnataka,4,0,4,0,0.0,112
+Karnataka,2018,10,INCP,Bombay Karnataka,12,0,12,0,0.0,113
+Karnataka,2018,10,INCP,Central Karnataka,2,0,2,0,0.0,114
+Karnataka,2018,10,INCP,Coastal Karnataka,2,0,2,0,0.0,115
+Karnataka,2018,10,INCP,Hyderabad Karnataka,7,0,7,0,0.0,116
+Karnataka,2018,10,INCP,Southern Karnataka,5,0,5,0,0.0,117
+Karnataka,2018,10,IND,Bengaluru Karnataka,246,0,246,0,0.0,118
+Karnataka,2018,10,IND,Bombay Karnataka,241,0,236,0,0.0,119
+Karnataka,2018,10,IND,Central Karnataka,173,0,167,0,0.0,120
+Karnataka,2018,10,IND,Coastal Karnataka,41,0,41,0,0.0,121
+Karnataka,2018,10,IND,Hyderabad Karnataka,126,0,125,0,0.0,122
+Karnataka,2018,10,IND,Southern Karnataka,315,1,312,0.01,0.32,19
+Karnataka,2018,10,JBJSP,Bengaluru Karnataka,3,0,3,0,0.0,123
+Karnataka,2018,10,JBJSP,Southern Karnataka,2,0,2,0,0.0,124
+Karnataka,2018,10,JD(S),Bengaluru Karnataka,35,7,20,3.05,20.0,15
+Karnataka,2018,10,JD(S),Bombay Karnataka,39,2,31,0.23,5.13,18
+Karnataka,2018,10,JD(S),Central Karnataka,35,0,20,0,0.0,125
+Karnataka,2018,10,JD(S),Coastal Karnataka,14,0,12,0,0.0,126
+Karnataka,2018,10,JD(S),Hyderabad Karnataka,29,4,18,1.26,13.79,17
+Karnataka,2018,10,JD(S),Southern Karnataka,49,24,7,6.8,48.98,5
+Karnataka,2018,10,JD(U),Bengaluru Karnataka,7,0,7,0,0.0,127
+Karnataka,2018,10,JD(U),Bombay Karnataka,7,0,7,0,0.0,128
+Karnataka,2018,10,JD(U),Central Karnataka,5,0,5,0,0.0,129
+Karnataka,2018,10,JD(U),Coastal Karnataka,2,0,2,0,0.0,130
+Karnataka,2018,10,JD(U),Hyderabad Karnataka,3,0,3,0,0.0,131
+Karnataka,2018,10,JD(U),Southern Karnataka,4,0,4,0,0.0,132
+Karnataka,2018,10,JPK,Bombay Karnataka,6,0,6,0,0.0,133
+Karnataka,2018,10,JPK,Central Karnataka,3,0,3,0,0.0,134
+Karnataka,2018,10,JPK,Hyderabad Karnataka,4,0,4,0,0.0,135
+Karnataka,2018,10,JSMP(K),Bengaluru Karnataka,4,0,4,0,0.0,136
+Karnataka,2018,10,JSMP(K),Bombay Karnataka,11,0,11,0,0.0,137
+Karnataka,2018,10,JSMP(K),Central Karnataka,1,0,1,0,0.0,138
+Karnataka,2018,10,JSMP(K),Hyderabad Karnataka,1,0,1,0,0.0,139
+Karnataka,2018,10,JSMP(K),Southern Karnataka,2,0,2,0,0.0,140
+Karnataka,2018,10,JSTP,Bombay Karnataka,1,0,1,0,0.0,141
+Karnataka,2018,10,JVBP,Bengaluru Karnataka,1,0,1,0,0.0,142
+Karnataka,2018,10,KAP,Bengaluru Karnataka,2,0,2,0,0.0,143
+Karnataka,2018,10,KAP,Hyderabad Karnataka,1,0,1,0,0.0,144
+Karnataka,2018,10,KCVP,Southern Karnataka,1,0,1,0,0.0,145
+Karnataka,2018,10,KDC,Bengaluru Karnataka,1,0,1,0,0.0,146
+Karnataka,2018,10,KJP,Bengaluru Karnataka,3,0,3,0,0.0,147
+Karnataka,2018,10,KJP,Bombay Karnataka,6,0,6,0,0.0,148
+Karnataka,2018,10,KJP,Central Karnataka,3,0,3,0,0.0,149
+Karnataka,2018,10,KJP,Hyderabad Karnataka,1,0,1,0,0.0,150
+Karnataka,2018,10,KJP,Southern Karnataka,5,0,5,0,0.0,151
+Karnataka,2018,10,KP,Bengaluru Karnataka,9,0,9,0,0.0,152
+Karnataka,2018,10,KP,Central Karnataka,1,0,1,0,0.0,153
+Karnataka,2018,10,KP,Southern Karnataka,2,0,2,0,0.0,154
+Karnataka,2018,10,KPJP,Bengaluru Karnataka,11,0,11,0,0.0,155
+Karnataka,2018,10,KPJP,Bombay Karnataka,3,1,2,0.81,33.33,11
+Karnataka,2018,10,KPJP,Central Karnataka,9,0,9,0,0.0,156
+Karnataka,2018,10,KPJP,Southern Karnataka,9,0,9,0,0.0,157
+Karnataka,2018,10,KRRS,Bombay Karnataka,3,0,3,0,0.0,158
+Karnataka,2018,10,KRRS,Central Karnataka,2,0,2,0,0.0,159
+Karnataka,2018,10,KRRS,Southern Karnataka,2,0,2,0,0.0,160
+Karnataka,2018,10,KSRKP,Central Karnataka,1,0,1,0,0.0,161
+Karnataka,2018,10,LAD,Bengaluru Karnataka,1,0,1,0,0.0,162
+Karnataka,2018,10,LAD,Bombay Karnataka,2,0,2,0,0.0,163
+Karnataka,2018,10,LAD,Central Karnataka,2,0,2,0,0.0,164
+Karnataka,2018,10,LAD,Coastal Karnataka,2,0,2,0,0.0,165
+Karnataka,2018,10,LAD,Southern Karnataka,3,0,3,0,0.0,166
+Karnataka,2018,10,NCP,Bengaluru Karnataka,1,0,1,0,0.0,167
+Karnataka,2018,10,NCP,Bombay Karnataka,8,0,8,0,0.0,168
+Karnataka,2018,10,NCP,Central Karnataka,2,0,2,0,0.0,169
+Karnataka,2018,10,NCP,Coastal Karnataka,1,0,1,0,0.0,170
+Karnataka,2018,10,NCP,Hyderabad Karnataka,2,0,2,0,0.0,171
+Karnataka,2018,10,NDEP,Hyderabad Karnataka,3,0,3,0,0.0,172
+Karnataka,2018,10,NOTA,Bengaluru Karnataka,36,0,0,0,0.0,173
+Karnataka,2018,10,NOTA,Bombay Karnataka,50,0,0,0,0.0,174
+Karnataka,2018,10,NOTA,Central Karnataka,36,0,0,0,0.0,175
+Karnataka,2018,10,NOTA,Coastal Karnataka,19,0,0,0,0.0,176
+Karnataka,2018,10,NOTA,Hyderabad Karnataka,31,0,0,0,0.0,177
+Karnataka,2018,10,NOTA,Southern Karnataka,52,0,0,0,0.0,178
+Karnataka,2018,10,NmC,Bengaluru Karnataka,1,0,1,0,0.0,179
+Karnataka,2018,10,NmC,Bombay Karnataka,6,0,6,0,0.0,180
+Karnataka,2018,10,NmC,Central Karnataka,1,0,1,0,0.0,181
+Karnataka,2018,10,NmC,Hyderabad Karnataka,3,0,3,0,0.0,182
+Karnataka,2018,10,NmC,Southern Karnataka,3,0,2,0,0.0,183
+Karnataka,2018,10,PBI,Bombay Karnataka,1,0,1,0,0.0,184
+Karnataka,2018,10,PBI,Central Karnataka,1,0,1,0,0.0,185
+Karnataka,2018,10,PM,Central Karnataka,1,0,1,0,0.0,186
+Karnataka,2018,10,PPOI,Bengaluru Karnataka,1,0,1,0,0.0,187
+Karnataka,2018,10,PPOI,Central Karnataka,5,0,5,0,0.0,188
+Karnataka,2018,10,PPOI,Hyderabad Karnataka,2,0,2,0,0.0,189
+Karnataka,2018,10,PPOI,Southern Karnataka,2,0,2,0,0.0,190
+Karnataka,2018,10,PPP,Bengaluru Karnataka,3,0,3,0,0.0,191
+Karnataka,2018,10,PPP,Bombay Karnataka,7,0,7,0,0.0,192
+Karnataka,2018,10,PPP,Coastal Karnataka,1,0,1,0,0.0,193
+Karnataka,2018,10,PPP,Southern Karnataka,2,0,2,0,0.0,194
+Karnataka,2018,10,PRARP,Central Karnataka,1,0,1,0,0.0,195
+Karnataka,2018,10,PRCP,Bombay Karnataka,1,0,1,0,0.0,196
+Karnataka,2018,10,PRCP,Hyderabad Karnataka,1,0,1,0,0.0,197
+Karnataka,2018,10,PRRJP,Bengaluru Karnataka,1,0,1,0,0.0,198
+Karnataka,2018,10,PTSS,Central Karnataka,1,0,1,0,0.0,199
+Karnataka,2018,10,RCMP,Bengaluru Karnataka,3,0,3,0,0.0,200
+Karnataka,2018,10,RCMP,Bombay Karnataka,4,0,4,0,0.0,201
+Karnataka,2018,10,RCMP,Southern Karnataka,1,0,1,0,0.0,202
+Karnataka,2018,10,RJSMP,Coastal Karnataka,2,0,2,0,0.0,203
+Karnataka,2018,10,RJSMP,Hyderabad Karnataka,1,0,1,0,0.0,204
+Karnataka,2018,10,RMVP,Bengaluru Karnataka,13,0,13,0,0.0,205
+Karnataka,2018,10,RMVP,Southern Karnataka,4,0,4,0,0.0,206
+Karnataka,2018,10,RPI,Bengaluru Karnataka,5,0,5,0,0.0,207
+Karnataka,2018,10,RPI,Bombay Karnataka,1,0,1,0,0.0,208
+Karnataka,2018,10,RPI,Central Karnataka,1,0,1,0,0.0,209
+Karnataka,2018,10,RPI,Southern Karnataka,1,0,1,0,0.0,210
+Karnataka,2018,10,RPI(A),Bengaluru Karnataka,6,0,6,0,0.0,211
+Karnataka,2018,10,RPI(A),Bombay Karnataka,7,0,7,0,0.0,212
+Karnataka,2018,10,RPI(A),Central Karnataka,1,0,1,0,0.0,213
+Karnataka,2018,10,RPI(A),Coastal Karnataka,1,0,1,0,0.0,214
+Karnataka,2018,10,RPI(A),Southern Karnataka,10,0,10,0,0.0,215
+Karnataka,2018,10,RSPS,Bombay Karnataka,1,0,1,0,0.0,216
+Karnataka,2018,10,RSPS,Hyderabad Karnataka,1,0,1,0,0.0,217
+Karnataka,2018,10,SAJP(L),Bengaluru Karnataka,6,0,6,0,0.0,218
+Karnataka,2018,10,SAJP(L),Bombay Karnataka,2,0,2,0,0.0,219
+Karnataka,2018,10,SAJP(L),Central Karnataka,5,0,5,0,0.0,220
+Karnataka,2018,10,SAJP(L),Coastal Karnataka,1,0,1,0,0.0,221
+Karnataka,2018,10,SAJP(L),Hyderabad Karnataka,1,0,1,0,0.0,222
+Karnataka,2018,10,SAJP(L),Southern Karnataka,10,0,10,0,0.0,223
+Karnataka,2018,10,SBKP,Central Karnataka,1,0,1,0,0.0,224
+Karnataka,2018,10,SDPI,Bengaluru Karnataka,1,0,1,0,0.0,225
+Karnataka,2018,10,SDPI,Hyderabad Karnataka,1,0,1,0,0.0,226
+Karnataka,2018,10,SDPI,Southern Karnataka,1,0,0,0,0.0,227
+Karnataka,2018,10,SHP,Hyderabad Karnataka,1,0,1,0,0.0,228
+Karnataka,2018,10,SHS,Bengaluru Karnataka,4,0,4,0,0.0,229
+Karnataka,2018,10,SHS,Bombay Karnataka,16,0,16,0,0.0,230
+Karnataka,2018,10,SHS,Central Karnataka,4,0,4,0,0.0,231
+Karnataka,2018,10,SHS,Coastal Karnataka,4,0,4,0,0.0,232
+Karnataka,2018,10,SHS,Hyderabad Karnataka,6,0,6,0,0.0,233
+Karnataka,2018,10,SHS,Southern Karnataka,3,0,3,0,0.0,234
+Karnataka,2018,10,SJPA,Bengaluru Karnataka,2,0,2,0,0.0,235
+Karnataka,2018,10,SJPA,Bombay Karnataka,4,0,4,0,0.0,236
+Karnataka,2018,10,SJPA,Central Karnataka,2,0,2,0,0.0,237
+Karnataka,2018,10,SJPA,Hyderabad Karnataka,2,0,2,0,0.0,238
+Karnataka,2018,10,SJPL,Bengaluru Karnataka,1,0,1,0,0.0,239
+Karnataka,2018,10,SP,Bengaluru Karnataka,3,0,3,0,0.0,240
+Karnataka,2018,10,SP,Central Karnataka,7,0,7,0,0.0,241
+Karnataka,2018,10,SP,Hyderabad Karnataka,2,0,2,0,0.0,242
+Karnataka,2018,10,SP,Southern Karnataka,12,0,12,0,0.0,243
+Karnataka,2018,10,SUCI,Bengaluru Karnataka,2,0,2,0,0.0,244
+Karnataka,2018,10,SUCI,Central Karnataka,1,0,1,0,0.0,245
+Karnataka,2018,10,SUCI,Hyderabad Karnataka,2,0,2,0,0.0,246
+Karnataka,2018,10,SWI,Bengaluru Karnataka,1,0,1,0,0.0,247
+Karnataka,2018,10,SWI,Bombay Karnataka,1,0,1,0,0.0,248
+Karnataka,2018,10,SWI,Central Karnataka,4,0,4,0,0.0,249
+Karnataka,2018,10,SWI,Southern Karnataka,5,0,4,0,0.0,250
+Karnataka,2018,10,VJCP,Central Karnataka,1,0,1,0,0.0,251
+Karnataka,2018,10,WPOI,Hyderabad Karnataka,2,0,2,0,0.0,252
+Karnataka,2018,10,WPOI,Southern Karnataka,1,0,1,0,0.0,253
+Karnataka,2018,10,kajp,Central Karnataka,1,0,1,0,0.0,254
+Karnataka,2018,10,rpsn,Bengaluru Karnataka,13,0,13,0,0.0,255
+Karnataka,2018,10,rpsn,Central Karnataka,5,0,5,0,0.0,256
+Karnataka,2018,10,rpsn,Southern Karnataka,11,0,11,0,0.0,257
+Karnataka,2013,9,ABHM,Southern Karnataka,1,0,1,0,0.0,30
+Karnataka,2013,9,ABML(S),Hyderabad Karnataka,1,0,1,0,0.0,31
+Karnataka,2013,9,ADMK,Bengaluru Karnataka,2,0,2,0,0.0,32
+Karnataka,2013,9,ADMK,Southern Karnataka,3,0,3,0,0.0,33
+Karnataka,2013,9,AIFB(S),Hyderabad Karnataka,1,0,1,0,0.0,34
+Karnataka,2013,9,AKBRP,Southern Karnataka,2,0,2,0,0.0,35
+Karnataka,2013,9,AMJP,Bengaluru Karnataka,1,0,1,0,0.0,36
+Karnataka,2013,9,AMJP,Central Karnataka,2,0,2,0,0.0,37
+Karnataka,2013,9,AMJP,Southern Karnataka,2,0,2,0,0.0,38
+Karnataka,2013,9,ANC,Bengaluru Karnataka,4,0,4,0,0.0,39
+Karnataka,2013,9,ANC,Central Karnataka,4,0,4,0,0.0,40
+Karnataka,2013,9,ANC,Hyderabad Karnataka,1,0,1,0,0.0,41
+Karnataka,2013,9,ANC,Southern Karnataka,1,0,1,0,0.0,42
+Karnataka,2013,9,BDBRAJP,Bengaluru Karnataka,10,0,10,0,0.0,43
+Karnataka,2013,9,BDBRAJP,Bombay Karnataka,1,0,1,0,0.0,44
+Karnataka,2013,9,BDBRAJP,Southern Karnataka,7,0,7,0,0.0,45
+Karnataka,2013,9,BHPP,Hyderabad Karnataka,1,0,1,0,0.0,46
+Karnataka,2013,9,BJP,Bengaluru Karnataka,36,12,11,3.82,33.33,9
+Karnataka,2013,9,BJP,Bombay Karnataka,50,13,16,3.48,26.0,11
+Karnataka,2013,9,BJP,Central Karnataka,36,4,24,1.44,11.11,18
+Karnataka,2013,9,BJP,Coastal Karnataka,19,3,3,0.34,15.79,15
+Karnataka,2013,9,BJP,Hyderabad Karnataka,31,4,17,1,12.9,17
+Karnataka,2013,9,BJP,Southern Karnataka,51,4,39,0.56,7.84,21
+Karnataka,2013,9,BPJP,Bengaluru Karnataka,2,0,2,0,0.0,47
+Karnataka,2013,9,BPJP,Central Karnataka,1,0,1,0,0.0,48
+Karnataka,2013,9,BPJP,Hyderabad Karnataka,1,0,1,0,0.0,49
+Karnataka,2013,9,BPJP,Southern Karnataka,1,0,1,0,0.0,50
+Karnataka,2013,9,BRPP,Southern Karnataka,2,0,2,0,0.0,51
+Karnataka,2013,9,BSP,Bengaluru Karnataka,28,0,28,0,0.0,52
+Karnataka,2013,9,BSP,Bombay Karnataka,42,0,42,0,0.0,53
+Karnataka,2013,9,BSP,Central Karnataka,30,0,30,0,0.0,54
+Karnataka,2013,9,BSP,Coastal Karnataka,10,0,10,0,0.0,55
+Karnataka,2013,9,BSP,Hyderabad Karnataka,27,0,27,0,0.0,56
+Karnataka,2013,9,BSP,Southern Karnataka,38,0,37,0,0.0,57
+Karnataka,2013,9,BSRCP,Bengaluru Karnataka,24,0,24,0,0.0,58
+Karnataka,2013,9,BSRCP,Bombay Karnataka,40,1,37,1,2.5,25
+Karnataka,2013,9,BSRCP,Central Karnataka,32,3,27,1.7,9.38,20
+Karnataka,2013,9,BSRCP,Coastal Karnataka,6,0,6,0,0.0,59
+Karnataka,2013,9,BSRCP,Hyderabad Karnataka,29,0,25,0,0.0,60
+Karnataka,2013,9,BSRCP,Southern Karnataka,45,0,45,0,0.0,61
+Karnataka,2013,9,BhJD,Bengaluru Karnataka,3,0,3,0,0.0,62
+Karnataka,2013,9,BhJD,Bombay Karnataka,1,0,1,0,0.0,63
+Karnataka,2013,9,CPI,Central Karnataka,4,0,4,0,0.0,64
+Karnataka,2013,9,CPI,Hyderabad Karnataka,3,0,3,0,0.0,65
+Karnataka,2013,9,CPI,Southern Karnataka,1,0,1,0,0.0,66
+Karnataka,2013,9,CPI(ML)(L),Bengaluru Karnataka,1,0,1,0,0.0,67
+Karnataka,2013,9,CPI(ML)(L),Central Karnataka,4,0,4,0,0.0,68
+Karnataka,2013,9,CPI(ML)(L),Hyderabad Karnataka,2,0,2,0,0.0,69
+Karnataka,2013,9,CPI(ML)(L),Southern Karnataka,1,0,1,0,0.0,70
+Karnataka,2013,9,CPM,Bengaluru Karnataka,3,0,3,0,0.0,71
+Karnataka,2013,9,CPM,Central Karnataka,6,0,6,0,0.0,72
+Karnataka,2013,9,CPM,Coastal Karnataka,4,0,4,0,0.0,73
+Karnataka,2013,9,CPM,Hyderabad Karnataka,12,0,12,0,0.0,74
+Karnataka,2013,9,CPM,Southern Karnataka,8,0,7,0,0.0,75
+Karnataka,2013,9,DPPS,Southern Karnataka,1,0,1,0,0.0,76
+Karnataka,2013,9,HJP,Bengaluru Karnataka,1,0,1,0,0.0,77
+Karnataka,2013,9,HJP,Bombay Karnataka,3,0,3,0,0.0,78
+Karnataka,2013,9,HJP,Hyderabad Karnataka,1,0,1,0,0.0,79
+Karnataka,2013,9,HJP,Southern Karnataka,3,0,3,0,0.0,80
+Karnataka,2013,9,HND,Bengaluru Karnataka,1,0,1,0,0.0,81
+Karnataka,2013,9,HND,Central Karnataka,2,0,2,0,0.0,82
+Karnataka,2013,9,HND,Coastal Karnataka,1,0,1,0,0.0,83
+Karnataka,2013,9,HND,Southern Karnataka,7,0,7,0,0.0,84
+Karnataka,2013,9,INC,Bengaluru Karnataka,36,16,1,7.97,44.44,7
+Karnataka,2013,9,INC,Bombay Karnataka,50,31,3,8.03,62.0,2
+Karnataka,2013,9,INC,Central Karnataka,36,19,3,8.02,52.78,4
+Karnataka,2013,9,INC,Coastal Karnataka,19,13,2,7.46,68.42,1
+Karnataka,2013,9,INC,Hyderabad Karnataka,31,19,4,7.01,61.29,3
+Karnataka,2013,9,INC,Southern Karnataka,52,24,10,4.01,46.15,6
+Karnataka,2013,9,IND,Bengaluru Karnataka,259,0,258,0,0.0,85
+Karnataka,2013,9,IND,Bombay Karnataka,218,2,210,0.08,0.92,28
+Karnataka,2013,9,IND,Central Karnataka,204,1,199,0.09,0.49,29
+Karnataka,2013,9,IND,Coastal Karnataka,74,3,71,0.83,4.05,23
+Karnataka,2013,9,IND,Hyderabad Karnataka,156,0,156,0,0.0,86
+Karnataka,2013,9,IND,Southern Karnataka,306,3,296,0.17,0.98,27
+Karnataka,2013,9,INL,Hyderabad Karnataka,1,0,1,0,0.0,87
+Karnataka,2013,9,IUML,Bombay Karnataka,3,0,3,0,0.0,88
+Karnataka,2013,9,IUML,Hyderabad Karnataka,2,0,2,0,0.0,89
+Karnataka,2013,9,JD(S),Bengaluru Karnataka,36,7,15,2.39,19.44,14
+Karnataka,2013,9,JD(S),Bombay Karnataka,50,1,39,0.04,2.0,26
+Karnataka,2013,9,JD(S),Central Karnataka,36,8,20,2.76,22.22,13
+Karnataka,2013,9,JD(S),Coastal Karnataka,18,0,13,0,0.0,90
+Karnataka,2013,9,JD(S),Hyderabad Karnataka,30,4,13,1.51,13.33,16
+Karnataka,2013,9,JD(S),Southern Karnataka,52,20,10,4.04,38.46,8
+Karnataka,2013,9,JD(U),Bengaluru Karnataka,19,0,19,0,0.0,91
+Karnataka,2013,9,JD(U),Bombay Karnataka,27,0,27,0,0.0,92
+Karnataka,2013,9,JD(U),Central Karnataka,21,0,21,0,0.0,93
+Karnataka,2013,9,JD(U),Coastal Karnataka,8,0,8,0,0.0,94
+Karnataka,2013,9,JD(U),Hyderabad Karnataka,11,0,11,0,0.0,95
+Karnataka,2013,9,JD(U),Southern Karnataka,30,0,30,0,0.0,96
+Karnataka,2013,9,JVBP,Bengaluru Karnataka,1,0,1,0,0.0,97
+Karnataka,2013,9,KAP,Bombay Karnataka,1,0,1,0,0.0,98
+Karnataka,2013,9,KCVP,Bengaluru Karnataka,1,0,1,0,0.0,99
+Karnataka,2013,9,KCVP,Central Karnataka,1,0,1,0,0.0,100
+Karnataka,2013,9,KCVP,Southern Karnataka,1,0,1,0,0.0,101
+Karnataka,2013,9,KDC,Bengaluru Karnataka,1,0,1,0,0.0,102
+Karnataka,2013,9,KJP,Bengaluru Karnataka,33,0,32,0,0.0,103
+Karnataka,2013,9,KJP,Bombay Karnataka,47,2,34,0.1,4.26,22
+Karnataka,2013,9,KJP,Central Karnataka,32,1,15,0.55,3.12,24
+Karnataka,2013,9,KJP,Coastal Karnataka,16,0,15,0,0.0,104
+Karnataka,2013,9,KJP,Hyderabad Karnataka,31,3,17,0.64,9.68,19
+Karnataka,2013,9,KJP,Southern Karnataka,45,0,33,0,0.0,105
+Karnataka,2013,9,KMP,Bombay Karnataka,1,0,1,0,0.0,106
+Karnataka,2013,9,KMP,Central Karnataka,1,0,1,0,0.0,107
+Karnataka,2013,9,KMP,Hyderabad Karnataka,4,1,3,3.16,25.0,12
+Karnataka,2013,9,KMP,Southern Karnataka,1,0,1,0,0.0,108
+Karnataka,2013,9,KRRS,Bengaluru Karnataka,1,0,1,0,0.0,109
+Karnataka,2013,9,KRRS,Central Karnataka,2,0,2,0,0.0,110
+Karnataka,2013,9,KRRS,Hyderabad Karnataka,1,0,1,0,0.0,111
+Karnataka,2013,9,KRRS,Southern Karnataka,3,0,3,0,0.0,112
+Karnataka,2013,9,KaSP,Bombay Karnataka,1,0,1,0,0.0,113
+Karnataka,2013,9,LJP,Bengaluru Karnataka,2,0,2,0,0.0,114
+Karnataka,2013,9,LJP,Bombay Karnataka,6,0,6,0,0.0,115
+Karnataka,2013,9,LJP,Central Karnataka,2,0,2,0,0.0,116
+Karnataka,2013,9,LJP,Hyderabad Karnataka,1,0,1,0,0.0,117
+Karnataka,2013,9,LJP,Southern Karnataka,4,0,4,0,0.0,118
+Karnataka,2013,9,LSP,Bengaluru Karnataka,11,0,11,0,0.0,119
+Karnataka,2013,9,LSP,Bombay Karnataka,4,0,4,0,0.0,120
+Karnataka,2013,9,LSP,Central Karnataka,4,0,4,0,0.0,121
+Karnataka,2013,9,LSP,Hyderabad Karnataka,2,0,2,0,0.0,122
+Karnataka,2013,9,LSP,Southern Karnataka,2,0,2,0,0.0,123
+Karnataka,2013,9,MPHP,Bengaluru Karnataka,2,0,2,0,0.0,124
+Karnataka,2013,9,NCP,Bengaluru Karnataka,2,0,2,0,0.0,125
+Karnataka,2013,9,NCP,Bombay Karnataka,11,0,11,0,0.0,126
+Karnataka,2013,9,NCP,Central Karnataka,6,0,6,0,0.0,127
+Karnataka,2013,9,NCP,Coastal Karnataka,1,0,1,0,0.0,128
+Karnataka,2013,9,NCP,Hyderabad Karnataka,4,0,4,0,0.0,129
+Karnataka,2013,9,NDEP,Hyderabad Karnataka,3,0,3,0,0.0,130
+Karnataka,2013,9,NPP,Bengaluru Karnataka,8,0,8,0,0.0,131
+Karnataka,2013,9,NPP,Bombay Karnataka,4,0,4,0,0.0,132
+Karnataka,2013,9,NPP,Central Karnataka,3,0,3,0,0.0,133
+Karnataka,2013,9,NPP,Hyderabad Karnataka,3,0,3,0,0.0,134
+Karnataka,2013,9,NPP,Southern Karnataka,3,0,3,0,0.0,135
+Karnataka,2013,9,PPIS,Bengaluru Karnataka,1,0,1,0,0.0,136
+Karnataka,2013,9,PPOI,Bengaluru Karnataka,3,0,3,0,0.0,137
+Karnataka,2013,9,PPOI,Central Karnataka,3,0,3,0,0.0,138
+Karnataka,2013,9,PPOI,Coastal Karnataka,1,0,1,0,0.0,139
+Karnataka,2013,9,PPOI,Hyderabad Karnataka,3,0,3,0,0.0,140
+Karnataka,2013,9,PPOI,Southern Karnataka,1,0,1,0,0.0,141
+Karnataka,2013,9,RCMP,Bengaluru Karnataka,4,0,4,0,0.0,142
+Karnataka,2013,9,RCMP,Bombay Karnataka,3,0,3,0,0.0,143
+Karnataka,2013,9,RCMP,Central Karnataka,1,0,1,0,0.0,144
+Karnataka,2013,9,RPI,Bengaluru Karnataka,2,0,2,0,0.0,145
+Karnataka,2013,9,RPI,Hyderabad Karnataka,2,0,2,0,0.0,146
+Karnataka,2013,9,RPI,Southern Karnataka,2,0,2,0,0.0,147
+Karnataka,2013,9,RPI(A),Bengaluru Karnataka,2,0,2,0,0.0,148
+Karnataka,2013,9,RPI(A),Bombay Karnataka,1,0,1,0,0.0,149
+Karnataka,2013,9,RPI(A),Central Karnataka,1,0,1,0,0.0,150
+Karnataka,2013,9,RPI(A),Coastal Karnataka,1,0,1,0,0.0,151
+Karnataka,2013,9,RPI(A),Hyderabad Karnataka,3,0,3,0,0.0,152
+Karnataka,2013,9,RPI(A),Southern Karnataka,4,0,4,0,0.0,153
+Karnataka,2013,9,RSPS,Hyderabad Karnataka,1,0,1,0,0.0,154
+Karnataka,2013,9,SAJP,Bengaluru Karnataka,1,0,1,0,0.0,155
+Karnataka,2013,9,SAJP,Central Karnataka,1,0,1,0,0.0,156
+Karnataka,2013,9,SAJP,Hyderabad Karnataka,1,0,1,0,0.0,157
+Karnataka,2013,9,SAJP,Southern Karnataka,15,0,15,0,0.0,158
+Karnataka,2013,9,SDP,Bengaluru Karnataka,1,0,1,0,0.0,159
+Karnataka,2013,9,SDPI,Bengaluru Karnataka,5,0,5,0,0.0,160
+Karnataka,2013,9,SDPI,Bombay Karnataka,1,0,1,0,0.0,161
+Karnataka,2013,9,SDPI,Central Karnataka,1,0,1,0,0.0,162
+Karnataka,2013,9,SDPI,Coastal Karnataka,8,0,8,0,0.0,163
+Karnataka,2013,9,SDPI,Hyderabad Karnataka,1,0,1,0,0.0,164
+Karnataka,2013,9,SDPI,Southern Karnataka,7,0,6,0,0.0,165
+Karnataka,2013,9,SHS,Bombay Karnataka,1,0,1,0,0.0,166
+Karnataka,2013,9,SJKP,Southern Karnataka,1,0,1,0,0.0,167
+Karnataka,2013,9,SJPA,Bengaluru Karnataka,1,0,1,0,0.0,168
+Karnataka,2013,9,SJPA,Bombay Karnataka,3,0,3,0,0.0,169
+Karnataka,2013,9,SJPA,Central Karnataka,3,0,3,0,0.0,170
+Karnataka,2013,9,SJPA,Hyderabad Karnataka,1,0,1,0,0.0,171
+Karnataka,2013,9,SJPA,Southern Karnataka,2,0,2,0,0.0,172
+Karnataka,2013,9,SK,Bombay Karnataka,2,0,2,0,0.0,173
+Karnataka,2013,9,SKP,Bombay Karnataka,2,0,2,0,0.0,174
+Karnataka,2013,9,SKP,Central Karnataka,1,0,1,0,0.0,175
+Karnataka,2013,9,SKP,Southern Karnataka,3,1,2,2.04,33.33,10
+Karnataka,2013,9,SP,Bengaluru Karnataka,2,1,1,1.92,50.0,5
+Karnataka,2013,9,SP,Bombay Karnataka,3,0,3,0,0.0,176
+Karnataka,2013,9,SP,Central Karnataka,8,0,8,0,0.0,177
+Karnataka,2013,9,SP,Hyderabad Karnataka,7,0,7,0,0.0,178
+Karnataka,2013,9,SP,Southern Karnataka,7,0,7,0,0.0,179
+Karnataka,2013,9,SUCI,Bengaluru Karnataka,3,0,3,0,0.0,180
+Karnataka,2013,9,SUCI,Bombay Karnataka,2,0,2,0,0.0,181
+Karnataka,2013,9,SUCI,Central Karnataka,2,0,2,0,0.0,182
+Karnataka,2013,9,SUCI,Hyderabad Karnataka,3,0,3,0,0.0,183
+Karnataka,2013,9,SUCI,Southern Karnataka,1,0,1,0,0.0,184
+Karnataka,2013,9,VJCP,Central Karnataka,1,0,1,0,0.0,185
+Karnataka,2013,9,WPOI,Bengaluru Karnataka,2,0,2,0,0.0,186
+Karnataka,2013,9,WPOI,Bombay Karnataka,4,0,4,0,0.0,187
+Karnataka,2013,9,WPOI,Hyderabad Karnataka,4,0,4,0,0.0,188
+Karnataka,2013,9,WPOI,Southern Karnataka,2,0,2,0,0.0,189
+Karnataka,2008,8,ABHM,Bombay Karnataka,6,0,6,0,0.0,22
+Karnataka,2008,8,ABMSD,Bombay Karnataka,1,0,1,0,0.0,23
+Karnataka,2008,8,ADMK,Bengaluru Karnataka,6,0,6,0,0.0,24
+Karnataka,2008,8,ADMK,Southern Karnataka,1,0,1,0,0.0,25
+Karnataka,2008,8,AIFB,Bengaluru Karnataka,2,0,2,0,0.0,26
+Karnataka,2008,8,ANC,Bengaluru Karnataka,6,0,6,0,0.0,27
+Karnataka,2008,8,ANC,Hyderabad Karnataka,2,0,2,0,0.0,28
+Karnataka,2008,8,ANC,Southern Karnataka,2,0,2,0,0.0,29
+Karnataka,2008,8,BJP,Bengaluru Karnataka,36,19,5,6.16,52.78,3
+Karnataka,2008,8,BJP,Bombay Karnataka,50,36,2,7.21,72.0,1
+Karnataka,2008,8,BJP,Central Karnataka,36,25,1,10.22,69.44,2
+Karnataka,2008,8,BJP,Coastal Karnataka,19,10,1,4.25,52.63,4
+Karnataka,2008,8,BJP,Hyderabad Karnataka,31,11,6,4.42,35.48,9
+Karnataka,2008,8,BJP,Southern Karnataka,52,9,16,2.34,17.31,13
+Karnataka,2008,8,BPJP,Bengaluru Karnataka,3,0,3,0,0.0,30
+Karnataka,2008,8,BPJP,Southern Karnataka,1,0,1,0,0.0,31
+Karnataka,2008,8,BSP,Bengaluru Karnataka,33,0,33,0,0.0,32
+Karnataka,2008,8,BSP,Bombay Karnataka,50,0,50,0,0.0,33
+Karnataka,2008,8,BSP,Central Karnataka,34,0,34,0,0.0,34
+Karnataka,2008,8,BSP,Coastal Karnataka,18,0,18,0,0.0,35
+Karnataka,2008,8,BSP,Hyderabad Karnataka,30,0,28,0,0.0,36
+Karnataka,2008,8,BSP,Southern Karnataka,52,0,50,0,0.0,37
+Karnataka,2008,8,CPI,Bengaluru Karnataka,1,0,1,0,0.0,38
+Karnataka,2008,8,CPI,Central Karnataka,5,0,5,0,0.0,39
+Karnataka,2008,8,CPI,Coastal Karnataka,1,0,1,0,0.0,40
+Karnataka,2008,8,CPI,Hyderabad Karnataka,1,0,1,0,0.0,41
+Karnataka,2008,8,CPI,Southern Karnataka,2,0,2,0,0.0,42
+Karnataka,2008,8,CPI(ML)(L),Central Karnataka,4,0,4,0,0.0,43
+Karnataka,2008,8,CPI(ML)(L),Hyderabad Karnataka,2,0,2,0,0.0,44
+Karnataka,2008,8,CPM,Bengaluru Karnataka,2,0,2,0,0.0,45
+Karnataka,2008,8,CPM,Coastal Karnataka,3,0,3,0,0.0,46
+Karnataka,2008,8,CPM,Hyderabad Karnataka,1,0,1,0,0.0,47
+Karnataka,2008,8,CPM,Southern Karnataka,3,0,2,0,0.0,48
+Karnataka,2008,8,IJP,Southern Karnataka,1,0,1,0,0.0,49
+Karnataka,2008,8,INC,Bengaluru Karnataka,36,14,1,4.63,38.89,7
+Karnataka,2008,8,INC,Bombay Karnataka,50,12,2,2.26,24.0,11
+Karnataka,2008,8,INC,Central Karnataka,34,7,2,1.13,20.59,12
+Karnataka,2008,8,INC,Coastal Karnataka,19,7,0,3.08,36.84,8
+Karnataka,2008,8,INC,Hyderabad Karnataka,31,14,1,4.06,45.16,6
+Karnataka,2008,8,INC,Southern Karnataka,52,26,5,3.7,50.0,5
+Karnataka,2008,8,IND,Bengaluru Karnataka,190,0,190,0,0.0,50
+Karnataka,2008,8,IND,Bombay Karnataka,196,0,188,0,0.0,51
+Karnataka,2008,8,IND,Central Karnataka,145,3,141,0.16,2.07,19
+Karnataka,2008,8,IND,Coastal Karnataka,31,0,29,0,0.0,52
+Karnataka,2008,8,IND,Hyderabad Karnataka,138,1,136,0.02,0.72,21
+Karnataka,2008,8,IND,Southern Karnataka,244,2,239,0.1,0.82,20
+Karnataka,2008,8,INL,Bengaluru Karnataka,1,0,1,0,0.0,53
+Karnataka,2008,8,IUML,Bengaluru Karnataka,1,0,1,0,0.0,54
+Karnataka,2008,8,IUML,Bombay Karnataka,3,0,3,0,0.0,55
+Karnataka,2008,8,IUML,Central Karnataka,1,0,1,0,0.0,56
+Karnataka,2008,8,JD(S),Bengaluru Karnataka,36,3,18,2.12,8.33,16
+Karnataka,2008,8,JD(S),Bombay Karnataka,50,2,35,0.36,4.0,17
+Karnataka,2008,8,JD(S),Central Karnataka,35,1,19,0.34,2.86,18
+Karnataka,2008,8,JD(S),Coastal Karnataka,15,2,12,0.37,13.33,15
+Karnataka,2008,8,JD(S),Hyderabad Karnataka,31,5,14,1.08,16.13,14
+Karnataka,2008,8,JD(S),Southern Karnataka,52,15,9,3.28,28.85,10
+Karnataka,2008,8,JD(U),Bengaluru Karnataka,13,0,13,0,0.0,57
+Karnataka,2008,8,JD(U),Bombay Karnataka,23,0,23,0,0.0,58
+Karnataka,2008,8,JD(U),Central Karnataka,15,0,15,0,0.0,59
+Karnataka,2008,8,JD(U),Coastal Karnataka,3,0,3,0,0.0,60
+Karnataka,2008,8,JD(U),Hyderabad Karnataka,7,0,7,0,0.0,61
+Karnataka,2008,8,JD(U),Southern Karnataka,11,0,10,0,0.0,62
+Karnataka,2008,8,KCVP,Bengaluru Karnataka,3,0,3,0,0.0,63
+Karnataka,2008,8,KCVP,Bombay Karnataka,1,0,1,0,0.0,64
+Karnataka,2008,8,KCVP,Southern Karnataka,2,0,2,0,0.0,65
+Karnataka,2008,8,KP,Bengaluru Karnataka,3,0,3,0,0.0,66
+Karnataka,2008,8,LJP,Bengaluru Karnataka,2,0,2,0,0.0,67
+Karnataka,2008,8,LJP,Bombay Karnataka,10,0,10,0,0.0,68
+Karnataka,2008,8,LJP,Central Karnataka,7,0,7,0,0.0,69
+Karnataka,2008,8,LJP,Coastal Karnataka,2,0,2,0,0.0,70
+Karnataka,2008,8,LJP,Hyderabad Karnataka,11,0,11,0,0.0,71
+Karnataka,2008,8,LJP,Southern Karnataka,3,0,3,0,0.0,72
+Karnataka,2008,8,LKPT,Bengaluru Karnataka,11,0,11,0,0.0,73
+Karnataka,2008,8,NDEP,Hyderabad Karnataka,2,0,2,0,0.0,74
+Karnataka,2008,8,RAHS,Bengaluru Karnataka,4,0,4,0,0.0,75
+Karnataka,2008,8,RAHS,Bombay Karnataka,17,0,17,0,0.0,76
+Karnataka,2008,8,RAHS,Central Karnataka,6,0,6,0,0.0,77
+Karnataka,2008,8,RAHS,Coastal Karnataka,4,0,4,0,0.0,78
+Karnataka,2008,8,RAHS,Hyderabad Karnataka,5,0,5,0,0.0,79
+Karnataka,2008,8,RPI,Bombay Karnataka,1,0,1,0,0.0,80
+Karnataka,2008,8,RPI,Hyderabad Karnataka,2,0,2,0,0.0,81
+Karnataka,2008,8,RPI,Southern Karnataka,1,0,0,0,0.0,82
+Karnataka,2008,8,RPI(A),Bengaluru Karnataka,2,0,2,0,0.0,83
+Karnataka,2008,8,RPI(A),Bombay Karnataka,3,0,3,0,0.0,84
+Karnataka,2008,8,RPI(A),Hyderabad Karnataka,1,0,1,0,0.0,85
+Karnataka,2008,8,RPI(A),Southern Karnataka,4,0,4,0,0.0,86
+Karnataka,2008,8,SHS,Bombay Karnataka,2,0,2,0,0.0,87
+Karnataka,2008,8,SHS,Hyderabad Karnataka,1,0,1,0,0.0,88
+Karnataka,2008,8,SKP,Bengaluru Karnataka,5,0,5,0,0.0,89
+Karnataka,2008,8,SKP,Bombay Karnataka,2,0,2,0,0.0,90
+Karnataka,2008,8,SKP,Central Karnataka,3,0,3,0,0.0,91
+Karnataka,2008,8,SKP,Hyderabad Karnataka,2,0,2,0,0.0,92
+Karnataka,2008,8,SKP,Southern Karnataka,9,0,7,0,0.0,93
+Karnataka,2008,8,SP,Bengaluru Karnataka,16,0,16,0,0.0,94
+Karnataka,2008,8,SP,Bombay Karnataka,35,0,35,0,0.0,95
+Karnataka,2008,8,SP,Central Karnataka,16,0,14,0,0.0,96
+Karnataka,2008,8,SP,Coastal Karnataka,10,0,10,0,0.0,97
+Karnataka,2008,8,SP,Hyderabad Karnataka,14,0,14,0,0.0,98
+Karnataka,2008,8,SP,Southern Karnataka,29,0,29,0,0.0,99
+Karnataka,2008,8,SUP,Bengaluru Karnataka,3,0,3,0,0.0,100
+Karnataka,2008,8,SUP,Bombay Karnataka,4,0,4,0,0.0,101
+Karnataka,2008,8,SUP,Central Karnataka,15,0,15,0,0.0,102
+Karnataka,2008,8,SUP,Coastal Karnataka,1,0,1,0,0.0,103
+Karnataka,2008,8,SUP,Hyderabad Karnataka,2,0,2,0,0.0,104
+Karnataka,2008,8,SUP,Southern Karnataka,4,0,4,0,0.0,105
+Karnataka,2008,8,SVP,Bombay Karnataka,1,0,1,0,0.0,106
+Karnataka,2008,8,TSNRP,Bengaluru Karnataka,1,0,1,0,0.0,107

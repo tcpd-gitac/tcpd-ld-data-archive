@@ -1,0 +1,13 @@
+Assembly_No,Total_Candidates,No_Incumbents,Successful_Incumbents,Total_Seats,Turncoats,Successful_Turncoats,No_Recontests,First_contests,Second_contests,Multiple_contests,No_first_time_winners,First_Contest_winners,Year,Party_ID,pty_Total_Candidates,pty_Incumbents,pty_Turncoats,pty_Recontests,pty_First_contests,pty_Second_contests,pty_Multiple_contests,pty_first_time_winners,pty_First_Contest_winners,pty_Successful_Incumbents,pty_Successful_Turncoats,Party,pty_recontests_pct,Color,pty_incm_recontests_pct,hover_pty_incm_recontests_pct,pty_incm_Strike_Rate,hover_pty_incm_Strike_Rate,pty_turn_Strike_Rate,hover_pty_turn_Strike_Rate,pty_fist_time_winners_pct
+4,778,19,9,234,7,4,47,731,47,0,225,209,1967,4152,24,0,1,2,22,2,0,0,0,0,0,BJS,4.26,#ff9933,0,0.0 (0.0%),nan,nan% (0.0/0.0),0,0.0% (0.0/1.0),0
+4,778,19,9,234,7,4,47,731,47,0,225,209,1967,2444,32,1,0,4,28,4,0,2,1,0,0,CPI,8.51,#ff3300,5.26,1.0 (5.26%),0,0.0% (0.0/1.0),nan,nan% (0.0/0.0),0.89
+4,778,19,9,234,7,4,47,731,47,0,225,209,1967,14635,22,0,5,5,17,5,0,11,7,0,4,CPM,10.64,#991f00,0,0.0 (0.0%),nan,nan% (0.0/0.0),80,80.0% (4.0/5.0),4.89
+4,778,19,9,234,7,4,47,731,47,0,225,209,1967,10192,174,7,0,17,157,17,0,130,121,7,0,DMK,36.17,#b3b300,36.84,7.0 (36.84%),100,100.0% (7.0/7.0),nan,nan% (0.0/0.0),57.78
+4,778,19,9,234,7,4,47,731,47,0,225,209,1967,3040,1,0,0,0,1,0,0,1,1,0,0,FBL,0,,0,0.0 (0.0%),nan,nan% (0.0/0.0),nan,nan% (0.0/0.0),0.44
+4,778,19,9,234,7,4,47,731,47,0,225,209,1967,3482,232,10,1,12,220,12,0,50,50,1,0,INC,25.53,#138808,52.63,10.0 (52.63%),10,10.0% (1.0/10.0),0,0.0% (0.0/1.0),22.22
+4,778,19,9,234,7,4,47,731,47,0,225,209,1967,10809,246,0,0,4,242,4,0,6,5,0,0,IND,8.51,#808080,0,0.0 (0.0%),nan,nan% (0.0/0.0),nan,nan% (0.0/0.0),2.67
+4,778,19,9,234,7,4,47,731,47,0,225,209,1967,6168,4,0,0,0,4,0,0,4,4,0,0,PSP,0,,0,0.0 (0.0%),nan,nan% (0.0/0.0),nan,nan% (0.0/0.0),1.78
+4,778,19,9,234,7,4,47,731,47,0,225,209,1967,6911,13,0,0,0,13,0,0,0,0,0,0,RPI,0,,0,0.0 (0.0%),nan,nan% (0.0/0.0),nan,nan% (0.0/0.0),0
+4,778,19,9,234,7,4,47,731,47,0,225,209,1967,7650,3,0,0,0,3,0,0,2,2,0,0,SSP,0,#1c0ea0,0,0.0 (0.0%),nan,nan% (0.0/0.0),nan,nan% (0.0/0.0),0.89
+4,778,19,9,234,7,4,47,731,47,0,225,209,1967,12923,27,1,0,3,24,3,0,19,18,1,0,SWA,6.38,#0066cc,5.26,1.0 (5.26%),100,100.0% (1.0/1.0),nan,nan% (0.0/0.0),8.44
+3,798,0,0,206,0,0,0,798,0,0,206,206,1962,,,,,,,,,,,,,,nan,#555555,nan,nan (nan%),nan,nan% (nan/nan),nan,nan% (nan/nan),nan

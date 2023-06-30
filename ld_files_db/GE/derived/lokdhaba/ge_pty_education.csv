@@ -1,0 +1,1529 @@
+Assembly_No,Party_ID,MyNeta_education,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc,State_Name
+17,3482,Graduate Professional,1,1,2019,INC,100,Andaman_&_Nicobar_Islands
+17,8300,10th Pass,1,3,2019,TDP,33.33,Andhra_Pradesh
+17,8300,Graduate,1,3,2019,TDP,33.33,Andhra_Pradesh
+17,8300,Post Graduate,1,3,2019,TDP,33.33,Andhra_Pradesh
+17,8615,10th Pass,1,22,2019,YSRCP,4.55,Andhra_Pradesh
+17,8615,12th Pass,1,22,2019,YSRCP,4.55,Andhra_Pradesh
+17,8615,8th Pass,1,22,2019,YSRCP,4.55,Andhra_Pradesh
+17,8615,Doctorate,1,22,2019,YSRCP,4.55,Andhra_Pradesh
+17,8615,Graduate,5,22,2019,YSRCP,22.73,Andhra_Pradesh
+17,8615,Graduate Professional,5,22,2019,YSRCP,22.73,Andhra_Pradesh
+17,8615,Post Graduate,8,22,2019,YSRCP,36.36,Andhra_Pradesh
+17,1605,Graduate Professional,1,2,2019,BJP,50,Arunachal_Pradesh
+17,1605,Post Graduate,1,2,2019,BJP,50,Arunachal_Pradesh
+17,795,Post Graduate,1,1,2019,AIUDF,100,Assam
+17,1605,10th Pass,1,9,2019,BJP,11.11,Assam
+17,1605,12th Pass,1,9,2019,BJP,11.11,Assam
+17,1605,Graduate,5,9,2019,BJP,55.56,Assam
+17,1605,Post Graduate,2,9,2019,BJP,22.22,Assam
+17,3482,Post Graduate,3,3,2019,INC,100,Assam
+17,10809,12th Pass,1,1,2019,IND,100,Assam
+17,1605,10th Pass,1,17,2019,BJP,5.88,Bihar
+17,1605,Doctorate,1,17,2019,BJP,5.88,Bihar
+17,1605,Graduate,7,17,2019,BJP,41.18,Bihar
+17,1605,Graduate Professional,2,17,2019,BJP,11.76,Bihar
+17,1605,Post Graduate,5,17,2019,BJP,29.41,Bihar
+17,1605,Unknown,1,17,2019,BJP,5.88,Bihar
+17,3482,Graduate Professional,1,1,2019,INC,100,Bihar
+17,11002,10th Pass,3,16,2019,JD(U),18.75,Bihar
+17,11002,12th Pass,3,16,2019,JD(U),18.75,Bihar
+17,11002,8th Pass,2,16,2019,JD(U),12.5,Bihar
+17,11002,Graduate,4,16,2019,JD(U),25,Bihar
+17,11002,Graduate Professional,1,16,2019,JD(U),6.25,Bihar
+17,11002,Post Graduate,3,16,2019,JD(U),18.75,Bihar
+17,5029,10th Pass,2,6,2019,LJP,33.33,Bihar
+17,5029,Graduate,2,6,2019,LJP,33.33,Bihar
+17,5029,Graduate Professional,2,6,2019,LJP,33.33,Bihar
+17,1605,Post Graduate,1,1,2019,BJP,100,Chandigarh
+17,1605,12th Pass,2,9,2019,BJP,22.22,Chhattisgarh
+17,1605,Graduate,3,9,2019,BJP,33.33,Chhattisgarh
+17,1605,Graduate Professional,3,9,2019,BJP,33.33,Chhattisgarh
+17,1605,Post Graduate,1,9,2019,BJP,11.11,Chhattisgarh
+17,3482,Post Graduate,2,2,2019,INC,100,Chhattisgarh
+17,10809,Graduate,1,1,2019,IND,100,Dadra_&_Nagar_Haveli
+17,1605,8th Pass,1,1,2019,BJP,100,Daman_&_Diu
+17,1605,10th Pass,1,7,2019,BJP,14.29,Delhi
+17,1605,12th Pass,1,7,2019,BJP,14.29,Delhi
+17,1605,Graduate Professional,2,7,2019,BJP,28.57,Delhi
+17,1605,Post Graduate,3,7,2019,BJP,42.86,Delhi
+17,1605,Graduate,1,1,2019,BJP,100,Goa
+17,3482,Graduate Professional,1,1,2019,INC,100,Goa
+17,1605,10th Pass,2,26,2019,BJP,7.69,Gujarat
+17,1605,12th Pass,6,26,2019,BJP,23.08,Gujarat
+17,1605,8th Pass,2,26,2019,BJP,7.69,Gujarat
+17,1605,Graduate,3,26,2019,BJP,11.54,Gujarat
+17,1605,Graduate Professional,5,26,2019,BJP,19.23,Gujarat
+17,1605,Others,4,26,2019,BJP,15.38,Gujarat
+17,1605,Post Graduate,4,26,2019,BJP,15.38,Gujarat
+17,1605,Graduate,2,10,2019,BJP,20,Haryana
+17,1605,Graduate Professional,4,10,2019,BJP,40,Haryana
+17,1605,Post Graduate,4,10,2019,BJP,40,Haryana
+17,1605,10th Pass,1,4,2019,BJP,25,Himachal_Pradesh
+17,1605,12th Pass,1,4,2019,BJP,25,Himachal_Pradesh
+17,1605,Graduate,1,4,2019,BJP,25,Himachal_Pradesh
+17,1605,Post Graduate,1,4,2019,BJP,25,Himachal_Pradesh
+17,1605,10th Pass,1,3,2019,BJP,33.33,Jammu_&_Kashmir
+17,1605,Graduate,1,3,2019,BJP,33.33,Jammu_&_Kashmir
+17,1605,Post Graduate,1,3,2019,BJP,33.33,Jammu_&_Kashmir
+17,11089,Graduate Professional,2,3,2019,JKN,66.67,Jammu_&_Kashmir
+17,11089,Post Graduate,1,3,2019,JKN,33.33,Jammu_&_Kashmir
+17,8958,Graduate,1,1,2019,AJSUP,100,Jharkhand
+17,1605,12th Pass,3,11,2019,BJP,27.27,Jharkhand
+17,1605,Doctorate,1,11,2019,BJP,9.09,Jharkhand
+17,1605,Graduate,3,11,2019,BJP,27.27,Jharkhand
+17,1605,Graduate Professional,1,11,2019,BJP,9.09,Jharkhand
+17,1605,Post Graduate,3,11,2019,BJP,27.27,Jharkhand
+17,3482,Post Graduate,1,1,2019,INC,100,Jharkhand
+17,4653,10th Pass,1,1,2019,JMM,100,Jharkhand
+17,1605,10th Pass,3,25,2019,BJP,12,Karnataka
+17,1605,12th Pass,5,25,2019,BJP,20,Karnataka
+17,1605,5th Pass,1,25,2019,BJP,4,Karnataka
+17,1605,Graduate,4,25,2019,BJP,16,Karnataka
+17,1605,Graduate Professional,8,25,2019,BJP,32,Karnataka
+17,1605,Post Graduate,4,25,2019,BJP,16,Karnataka
+17,3482,12th Pass,1,1,2019,INC,100,Karnataka
+17,10809,10th Pass,1,1,2019,IND,100,Karnataka
+17,10979,Graduate Professional,1,1,2019,JD(S),100,Karnataka
+17,14635,Graduate Professional,1,1,2019,CPM,100,Kerala
+17,3482,10th Pass,1,15,2019,INC,6.67,Kerala
+17,3482,12th Pass,1,15,2019,INC,6.67,Kerala
+17,3482,Doctorate,1,15,2019,INC,6.67,Kerala
+17,3482,Graduate,7,15,2019,INC,46.67,Kerala
+17,3482,Graduate Professional,1,15,2019,INC,6.67,Kerala
+17,3482,Post Graduate,4,15,2019,INC,26.67,Kerala
+17,3952,10th Pass,1,2,2019,IUML,50,Kerala
+17,3952,Graduate,1,2,2019,IUML,50,Kerala
+17,11341,Graduate Professional,1,1,2019,KEC(M),100,Kerala
+17,12053,Graduate Professional,1,1,2019,RSP,100,Kerala
+17,5792,Post Graduate,1,1,2019,NCP,100,Lakshadweep
+17,13,12th Pass,1,1,2019,AAAP,100,Lok_Sabha
+17,956,Literate,1,2,2019,ADAL,50,Lok_Sabha
+17,956,Post Graduate,1,2,2019,ADAL,50,Lok_Sabha
+17,930,Post Graduate,1,1,2019,ADMK,100,Lok_Sabha
+17,706,Graduate Professional,1,2,2019,AIMIM,50,Lok_Sabha
+17,706,Post Graduate,1,2,2019,AIMIM,50,Lok_Sabha
+17,18228,10th Pass,1,22,2019,AITC,4.55,Lok_Sabha
+17,18228,12th Pass,2,22,2019,AITC,9.09,Lok_Sabha
+17,18228,8th Pass,1,22,2019,AITC,4.55,Lok_Sabha
+17,18228,Graduate,9,22,2019,AITC,40.91,Lok_Sabha
+17,18228,Graduate Professional,3,22,2019,AITC,13.64,Lok_Sabha
+17,18228,Others,1,22,2019,AITC,4.55,Lok_Sabha
+17,18228,Post Graduate,5,22,2019,AITC,22.73,Lok_Sabha
+17,795,Post Graduate,1,1,2019,AIUDF,100,Lok_Sabha
+17,8958,Graduate,1,1,2019,AJSUP,100,Lok_Sabha
+17,9079,10th Pass,1,12,2019,BJD,8.33,Lok_Sabha
+17,9079,12th Pass,1,12,2019,BJD,8.33,Lok_Sabha
+17,9079,5th Pass,1,12,2019,BJD,8.33,Lok_Sabha
+17,9079,Doctorate,1,12,2019,BJD,8.33,Lok_Sabha
+17,9079,Graduate,3,12,2019,BJD,25,Lok_Sabha
+17,9079,Graduate Professional,3,12,2019,BJD,25,Lok_Sabha
+17,9079,Post Graduate,2,12,2019,BJD,16.67,Lok_Sabha
+17,1605,10th Pass,23,303,2019,BJP,7.59,Lok_Sabha
+17,1605,12th Pass,43,303,2019,BJP,14.19,Lok_Sabha
+17,1605,5th Pass,2,303,2019,BJP,0.66,Lok_Sabha
+17,1605,8th Pass,7,303,2019,BJP,2.31,Lok_Sabha
+17,1605,Doctorate,15,303,2019,BJP,4.95,Lok_Sabha
+17,1605,Graduate,67,303,2019,BJP,22.11,Lok_Sabha
+17,1605,Graduate Professional,56,303,2019,BJP,18.48,Lok_Sabha
+17,1605,Others,11,303,2019,BJP,3.63,Lok_Sabha
+17,1605,Post Graduate,76,303,2019,BJP,25.08,Lok_Sabha
+17,1605,Unknown,3,303,2019,BJP,0.99,Lok_Sabha
+17,16651,12th Pass,1,10,2019,BSP,10,Lok_Sabha
+17,16651,Graduate,5,10,2019,BSP,50,Lok_Sabha
+17,16651,Graduate Professional,2,10,2019,BSP,20,Lok_Sabha
+17,16651,Post Graduate,2,10,2019,BSP,20,Lok_Sabha
+17,2444,10th Pass,1,2,2019,CPI,50,Lok_Sabha
+17,2444,12th Pass,1,2,2019,CPI,50,Lok_Sabha
+17,14635,12th Pass,2,3,2019,CPM,66.67,Lok_Sabha
+17,14635,Graduate Professional,1,3,2019,CPM,33.33,Lok_Sabha
+17,10192,10th Pass,2,24,2019,DMK,8.33,Lok_Sabha
+17,10192,Doctorate,2,24,2019,DMK,8.33,Lok_Sabha
+17,10192,Graduate,6,24,2019,DMK,25,Lok_Sabha
+17,10192,Graduate Professional,6,24,2019,DMK,25,Lok_Sabha
+17,10192,Illiterate,1,24,2019,DMK,4.17,Lok_Sabha
+17,10192,Post Graduate,6,24,2019,DMK,25,Lok_Sabha
+17,10192,Unknown,1,24,2019,DMK,4.17,Lok_Sabha
+17,3482,10th Pass,2,52,2019,INC,3.85,Lok_Sabha
+17,3482,12th Pass,6,52,2019,INC,11.54,Lok_Sabha
+17,3482,5th Pass,1,52,2019,INC,1.92,Lok_Sabha
+17,3482,Doctorate,3,52,2019,INC,5.77,Lok_Sabha
+17,3482,Graduate,12,52,2019,INC,23.08,Lok_Sabha
+17,3482,Graduate Professional,10,52,2019,INC,19.23,Lok_Sabha
+17,3482,Others,2,52,2019,INC,3.85,Lok_Sabha
+17,3482,Post Graduate,15,52,2019,INC,28.85,Lok_Sabha
+17,3482,Unknown,1,52,2019,INC,1.92,Lok_Sabha
+17,10809,10th Pass,2,4,2019,IND,50,Lok_Sabha
+17,10809,12th Pass,1,4,2019,IND,25,Lok_Sabha
+17,10809,Graduate,1,4,2019,IND,25,Lok_Sabha
+17,3952,10th Pass,1,3,2019,IUML,33.33,Lok_Sabha
+17,3952,Graduate,1,3,2019,IUML,33.33,Lok_Sabha
+17,3952,Unknown,1,3,2019,IUML,33.33,Lok_Sabha
+17,10979,Graduate Professional,1,1,2019,JD(S),100,Lok_Sabha
+17,11002,10th Pass,3,16,2019,JD(U),18.75,Lok_Sabha
+17,11002,12th Pass,3,16,2019,JD(U),18.75,Lok_Sabha
+17,11002,8th Pass,2,16,2019,JD(U),12.5,Lok_Sabha
+17,11002,Graduate,4,16,2019,JD(U),25,Lok_Sabha
+17,11002,Graduate Professional,1,16,2019,JD(U),6.25,Lok_Sabha
+17,11002,Post Graduate,3,16,2019,JD(U),18.75,Lok_Sabha
+17,11089,Graduate Professional,2,3,2019,JKN,66.67,Lok_Sabha
+17,11089,Post Graduate,1,3,2019,JKN,33.33,Lok_Sabha
+17,4653,10th Pass,1,1,2019,JMM,100,Lok_Sabha
+17,11341,Graduate Professional,1,1,2019,KEC(M),100,Lok_Sabha
+17,5029,10th Pass,2,6,2019,LJP,33.33,Lok_Sabha
+17,5029,Graduate,2,6,2019,LJP,33.33,Lok_Sabha
+17,5029,Graduate Professional,2,6,2019,LJP,33.33,Lok_Sabha
+17,5430,Graduate,1,1,2019,MNF,100,Lok_Sabha
+17,5792,12th Pass,1,5,2019,NCP,20,Lok_Sabha
+17,5792,Graduate,1,5,2019,NCP,20,Lok_Sabha
+17,5792,Graduate Professional,1,5,2019,NCP,20,Lok_Sabha
+17,5792,Others,1,5,2019,NCP,20,Lok_Sabha
+17,5792,Post Graduate,1,5,2019,NCP,20,Lok_Sabha
+17,5798,Graduate,1,1,2019,NDPP,100,Lok_Sabha
+17,5671,Post Graduate,1,1,2019,NPEP,100,Lok_Sabha
+17,5545,Graduate Professional,1,1,2019,NPF,100,Lok_Sabha
+17,6715,Graduate Professional,1,1,2019,RLTP,100,Lok_Sabha
+17,12053,Graduate Professional,1,1,2019,RSP,100,Lok_Sabha
+17,16994,10th Pass,1,2,2019,SAD,50,Lok_Sabha
+17,16994,Post Graduate,1,2,2019,SAD,50,Lok_Sabha
+17,18691,10th Pass,2,18,2019,SHS,11.11,Lok_Sabha
+17,18691,12th Pass,3,18,2019,SHS,16.67,Lok_Sabha
+17,18691,8th Pass,1,18,2019,SHS,5.56,Lok_Sabha
+17,18691,Graduate,7,18,2019,SHS,38.89,Lok_Sabha
+17,18691,Others,2,18,2019,SHS,11.11,Lok_Sabha
+17,18691,Post Graduate,3,18,2019,SHS,16.67,Lok_Sabha
+17,16569,Post Graduate,1,1,2019,SKM,100,Lok_Sabha
+17,7425,Graduate,1,5,2019,SP,20,Lok_Sabha
+17,7425,Graduate Professional,2,5,2019,SP,40,Lok_Sabha
+17,7425,Post Graduate,2,5,2019,SP,40,Lok_Sabha
+17,8300,10th Pass,1,3,2019,TDP,33.33,Lok_Sabha
+17,8300,Graduate,1,3,2019,TDP,33.33,Lok_Sabha
+17,8300,Post Graduate,1,3,2019,TDP,33.33,Lok_Sabha
+17,8284,12th Pass,2,9,2019,TRS,22.22,Lok_Sabha
+17,8284,Doctorate,1,9,2019,TRS,11.11,Lok_Sabha
+17,8284,Graduate,5,9,2019,TRS,55.56,Lok_Sabha
+17,8284,Post Graduate,1,9,2019,TRS,11.11,Lok_Sabha
+17,8488,Doctorate,1,1,2019,VCK,100,Lok_Sabha
+17,8615,10th Pass,1,22,2019,YSRCP,4.55,Lok_Sabha
+17,8615,12th Pass,1,22,2019,YSRCP,4.55,Lok_Sabha
+17,8615,8th Pass,1,22,2019,YSRCP,4.55,Lok_Sabha
+17,8615,Doctorate,1,22,2019,YSRCP,4.55,Lok_Sabha
+17,8615,Graduate,5,22,2019,YSRCP,22.73,Lok_Sabha
+17,8615,Graduate Professional,5,22,2019,YSRCP,22.73,Lok_Sabha
+17,8615,Post Graduate,8,22,2019,YSRCP,36.36,Lok_Sabha
+17,1605,12th Pass,2,28,2019,BJP,7.14,Madhya_Pradesh
+17,1605,Doctorate,1,28,2019,BJP,3.57,Madhya_Pradesh
+17,1605,Graduate,5,28,2019,BJP,17.86,Madhya_Pradesh
+17,1605,Graduate Professional,8,28,2019,BJP,28.57,Madhya_Pradesh
+17,1605,Others,1,28,2019,BJP,3.57,Madhya_Pradesh
+17,1605,Post Graduate,10,28,2019,BJP,35.71,Madhya_Pradesh
+17,1605,Unknown,1,28,2019,BJP,3.57,Madhya_Pradesh
+17,3482,Graduate,1,1,2019,INC,100,Madhya_Pradesh
+17,706,Post Graduate,1,1,2019,AIMIM,100,Maharashtra
+17,1605,10th Pass,4,23,2019,BJP,17.39,Maharashtra
+17,1605,12th Pass,3,23,2019,BJP,13.04,Maharashtra
+17,1605,5th Pass,1,23,2019,BJP,4.35,Maharashtra
+17,1605,Doctorate,1,23,2019,BJP,4.35,Maharashtra
+17,1605,Graduate,5,23,2019,BJP,21.74,Maharashtra
+17,1605,Graduate Professional,4,23,2019,BJP,17.39,Maharashtra
+17,1605,Others,2,23,2019,BJP,8.7,Maharashtra
+17,1605,Post Graduate,3,23,2019,BJP,13.04,Maharashtra
+17,3482,12th Pass,1,1,2019,INC,100,Maharashtra
+17,10809,10th Pass,1,1,2019,IND,100,Maharashtra
+17,5792,12th Pass,1,4,2019,NCP,25,Maharashtra
+17,5792,Graduate,1,4,2019,NCP,25,Maharashtra
+17,5792,Graduate Professional,1,4,2019,NCP,25,Maharashtra
+17,5792,Others,1,4,2019,NCP,25,Maharashtra
+17,18691,10th Pass,2,18,2019,SHS,11.11,Maharashtra
+17,18691,12th Pass,3,18,2019,SHS,16.67,Maharashtra
+17,18691,8th Pass,1,18,2019,SHS,5.56,Maharashtra
+17,18691,Graduate,7,18,2019,SHS,38.89,Maharashtra
+17,18691,Others,2,18,2019,SHS,11.11,Maharashtra
+17,18691,Post Graduate,3,18,2019,SHS,16.67,Maharashtra
+17,1605,Doctorate,1,1,2019,BJP,100,Manipur
+17,5545,Graduate Professional,1,1,2019,NPF,100,Manipur
+17,3482,Graduate Professional,1,1,2019,INC,100,Meghalaya
+17,5671,Post Graduate,1,1,2019,NPEP,100,Meghalaya
+17,5430,Graduate,1,1,2019,MNF,100,Mizoram
+17,5798,Graduate,1,1,2019,NDPP,100,Nagaland
+17,9079,10th Pass,1,12,2019,BJD,8.33,Odisha
+17,9079,12th Pass,1,12,2019,BJD,8.33,Odisha
+17,9079,5th Pass,1,12,2019,BJD,8.33,Odisha
+17,9079,Doctorate,1,12,2019,BJD,8.33,Odisha
+17,9079,Graduate,3,12,2019,BJD,25,Odisha
+17,9079,Graduate Professional,3,12,2019,BJD,25,Odisha
+17,9079,Post Graduate,2,12,2019,BJD,16.67,Odisha
+17,1605,10th Pass,1,8,2019,BJP,12.5,Odisha
+17,1605,12th Pass,2,8,2019,BJP,25,Odisha
+17,1605,Graduate,3,8,2019,BJP,37.5,Odisha
+17,1605,Others,1,8,2019,BJP,12.5,Odisha
+17,1605,Post Graduate,1,8,2019,BJP,12.5,Odisha
+17,3482,Graduate Professional,1,1,2019,INC,100,Odisha
+17,3482,Graduate,1,1,2019,INC,100,Puducherry
+17,13,12th Pass,1,1,2019,AAAP,100,Punjab
+17,1605,Others,1,2,2019,BJP,50,Punjab
+17,1605,Post Graduate,1,2,2019,BJP,50,Punjab
+17,3482,12th Pass,2,8,2019,INC,25,Punjab
+17,3482,5th Pass,1,8,2019,INC,12.5,Punjab
+17,3482,Graduate,1,8,2019,INC,12.5,Punjab
+17,3482,Graduate Professional,2,8,2019,INC,25,Punjab
+17,3482,Others,1,8,2019,INC,12.5,Punjab
+17,3482,Post Graduate,1,8,2019,INC,12.5,Punjab
+17,16994,10th Pass,1,2,2019,SAD,50,Punjab
+17,16994,Post Graduate,1,2,2019,SAD,50,Punjab
+17,1605,10th Pass,2,24,2019,BJP,8.33,Rajasthan
+17,1605,12th Pass,3,24,2019,BJP,12.5,Rajasthan
+17,1605,8th Pass,1,24,2019,BJP,4.17,Rajasthan
+17,1605,Graduate,7,24,2019,BJP,29.17,Rajasthan
+17,1605,Graduate Professional,2,24,2019,BJP,8.33,Rajasthan
+17,1605,Others,1,24,2019,BJP,4.17,Rajasthan
+17,1605,Post Graduate,8,24,2019,BJP,33.33,Rajasthan
+17,6715,Graduate Professional,1,1,2019,RLTP,100,Rajasthan
+17,16569,Post Graduate,1,1,2019,SKM,100,Sikkim
+17,930,Post Graduate,1,1,2019,ADMK,100,Tamil_Nadu
+17,2444,10th Pass,1,2,2019,CPI,50,Tamil_Nadu
+17,2444,12th Pass,1,2,2019,CPI,50,Tamil_Nadu
+17,14635,12th Pass,2,2,2019,CPM,100,Tamil_Nadu
+17,10192,10th Pass,2,24,2019,DMK,8.33,Tamil_Nadu
+17,10192,Doctorate,2,24,2019,DMK,8.33,Tamil_Nadu
+17,10192,Graduate,6,24,2019,DMK,25,Tamil_Nadu
+17,10192,Graduate Professional,6,24,2019,DMK,25,Tamil_Nadu
+17,10192,Illiterate,1,24,2019,DMK,4.17,Tamil_Nadu
+17,10192,Post Graduate,6,24,2019,DMK,25,Tamil_Nadu
+17,10192,Unknown,1,24,2019,DMK,4.17,Tamil_Nadu
+17,3482,Doctorate,1,8,2019,INC,12.5,Tamil_Nadu
+17,3482,Graduate Professional,2,8,2019,INC,25,Tamil_Nadu
+17,3482,Post Graduate,4,8,2019,INC,50,Tamil_Nadu
+17,3482,Unknown,1,8,2019,INC,12.5,Tamil_Nadu
+17,3952,Unknown,1,1,2019,IUML,100,Tamil_Nadu
+17,8488,Doctorate,1,1,2019,VCK,100,Tamil_Nadu
+17,706,Graduate Professional,1,1,2019,AIMIM,100,Telangana
+17,1605,12th Pass,1,4,2019,BJP,25,Telangana
+17,1605,Others,1,4,2019,BJP,25,Telangana
+17,1605,Post Graduate,2,4,2019,BJP,50,Telangana
+17,3482,12th Pass,1,3,2019,INC,33.33,Telangana
+17,3482,Graduate,2,3,2019,INC,66.67,Telangana
+17,8284,12th Pass,2,9,2019,TRS,22.22,Telangana
+17,8284,Doctorate,1,9,2019,TRS,11.11,Telangana
+17,8284,Graduate,5,9,2019,TRS,55.56,Telangana
+17,8284,Post Graduate,1,9,2019,TRS,11.11,Telangana
+17,1605,Graduate,1,2,2019,BJP,50,Tripura
+17,1605,Post Graduate,1,2,2019,BJP,50,Tripura
+17,956,Literate,1,2,2019,ADAL,50,Uttar_Pradesh
+17,956,Post Graduate,1,2,2019,ADAL,50,Uttar_Pradesh
+17,1605,10th Pass,4,62,2019,BJP,6.45,Uttar_Pradesh
+17,1605,12th Pass,10,62,2019,BJP,16.13,Uttar_Pradesh
+17,1605,8th Pass,1,62,2019,BJP,1.61,Uttar_Pradesh
+17,1605,Doctorate,8,62,2019,BJP,12.9,Uttar_Pradesh
+17,1605,Graduate,11,62,2019,BJP,17.74,Uttar_Pradesh
+17,1605,Graduate Professional,9,62,2019,BJP,14.52,Uttar_Pradesh
+17,1605,Post Graduate,18,62,2019,BJP,29.03,Uttar_Pradesh
+17,1605,Unknown,1,62,2019,BJP,1.61,Uttar_Pradesh
+17,16651,12th Pass,1,10,2019,BSP,10,Uttar_Pradesh
+17,16651,Graduate,5,10,2019,BSP,50,Uttar_Pradesh
+17,16651,Graduate Professional,2,10,2019,BSP,20,Uttar_Pradesh
+17,16651,Post Graduate,2,10,2019,BSP,20,Uttar_Pradesh
+17,3482,Others,1,1,2019,INC,100,Uttar_Pradesh
+17,7425,Graduate,1,5,2019,SP,20,Uttar_Pradesh
+17,7425,Graduate Professional,2,5,2019,SP,40,Uttar_Pradesh
+17,7425,Post Graduate,2,5,2019,SP,40,Uttar_Pradesh
+17,1605,12th Pass,2,5,2019,BJP,40,Uttarakhand
+17,1605,Doctorate,1,5,2019,BJP,20,Uttarakhand
+17,1605,Graduate Professional,1,5,2019,BJP,20,Uttarakhand
+17,1605,Post Graduate,1,5,2019,BJP,20,Uttarakhand
+17,18228,10th Pass,1,22,2019,AITC,4.55,West_Bengal
+17,18228,12th Pass,2,22,2019,AITC,9.09,West_Bengal
+17,18228,8th Pass,1,22,2019,AITC,4.55,West_Bengal
+17,18228,Graduate,9,22,2019,AITC,40.91,West_Bengal
+17,18228,Graduate Professional,3,22,2019,AITC,13.64,West_Bengal
+17,18228,Others,1,22,2019,AITC,4.55,West_Bengal
+17,18228,Post Graduate,5,22,2019,AITC,22.73,West_Bengal
+17,1605,10th Pass,2,18,2019,BJP,11.11,West_Bengal
+17,1605,12th Pass,1,18,2019,BJP,5.56,West_Bengal
+17,1605,8th Pass,2,18,2019,BJP,11.11,West_Bengal
+17,1605,Doctorate,1,18,2019,BJP,5.56,West_Bengal
+17,1605,Graduate,5,18,2019,BJP,27.78,West_Bengal
+17,1605,Graduate Professional,6,18,2019,BJP,33.33,West_Bengal
+17,1605,Post Graduate,1,18,2019,BJP,5.56,West_Bengal
+17,3482,10th Pass,1,2,2019,INC,50,West_Bengal
+17,3482,Doctorate,1,2,2019,INC,50,West_Bengal
+16,1605,Graduate,1,1,2014,BJP,100,Andaman_&_Nicobar_Islands
+16,706,Graduate Professional,1,1,2014,AIMIM,100,Andhra_Pradesh
+16,1605,Doctorate,1,3,2014,BJP,33.33,Andhra_Pradesh
+16,1605,Graduate,2,3,2014,BJP,66.67,Andhra_Pradesh
+16,3482,12th Pass,2,2,2014,INC,100,Andhra_Pradesh
+16,8300,10th Pass,3,16,2014,TDP,18.75,Andhra_Pradesh
+16,8300,12th Pass,4,16,2014,TDP,25,Andhra_Pradesh
+16,8300,Graduate,4,16,2014,TDP,25,Andhra_Pradesh
+16,8300,Graduate Professional,2,16,2014,TDP,12.5,Andhra_Pradesh
+16,8300,Illiterate,1,16,2014,TDP,6.25,Andhra_Pradesh
+16,8300,Post Graduate,2,16,2014,TDP,12.5,Andhra_Pradesh
+16,8284,Doctorate,1,11,2014,TRS,9.09,Andhra_Pradesh
+16,8284,Graduate,3,11,2014,TRS,27.27,Andhra_Pradesh
+16,8284,Graduate Professional,2,11,2014,TRS,18.18,Andhra_Pradesh
+16,8284,Post Graduate,5,11,2014,TRS,45.45,Andhra_Pradesh
+16,8615,10th Pass,1,9,2014,YSRCP,11.11,Andhra_Pradesh
+16,8615,12th Pass,1,9,2014,YSRCP,11.11,Andhra_Pradesh
+16,8615,Doctorate,1,9,2014,YSRCP,11.11,Andhra_Pradesh
+16,8615,Graduate Professional,2,9,2014,YSRCP,22.22,Andhra_Pradesh
+16,8615,Post Graduate,4,9,2014,YSRCP,44.44,Andhra_Pradesh
+16,1605,Graduate Professional,1,1,2014,BJP,100,Arunachal_Pradesh
+16,3482,Graduate,1,1,2014,INC,100,Arunachal_Pradesh
+16,795,12th Pass,1,3,2014,AIUDF,33.33,Assam
+16,795,Graduate,1,3,2014,AIUDF,33.33,Assam
+16,795,Post Graduate,1,3,2014,AIUDF,33.33,Assam
+16,1605,10th Pass,1,7,2014,BJP,14.29,Assam
+16,1605,Graduate,1,7,2014,BJP,14.29,Assam
+16,1605,Graduate Professional,3,7,2014,BJP,42.86,Assam
+16,1605,Post Graduate,2,7,2014,BJP,28.57,Assam
+16,3482,Post Graduate,3,3,2014,INC,100,Assam
+16,10809,12th Pass,1,1,2014,IND,100,Assam
+16,1605,10th Pass,1,22,2014,BJP,4.55,Bihar
+16,1605,8th Pass,1,22,2014,BJP,4.55,Bihar
+16,1605,Doctorate,1,22,2014,BJP,4.55,Bihar
+16,1605,Graduate,11,22,2014,BJP,50,Bihar
+16,1605,Graduate Professional,2,22,2014,BJP,9.09,Bihar
+16,1605,Post Graduate,6,22,2014,BJP,27.27,Bihar
+16,16433,Doctorate,1,3,2014,BLSP,33.33,Bihar
+16,16433,Post Graduate,2,3,2014,BLSP,66.67,Bihar
+16,3482,12th Pass,1,2,2014,INC,50,Bihar
+16,3482,Post Graduate,1,2,2014,INC,50,Bihar
+16,11002,12th Pass,2,2,2014,JD(U),100,Bihar
+16,5029,10th Pass,1,6,2014,LJP,16.67,Bihar
+16,5029,12th Pass,1,6,2014,LJP,16.67,Bihar
+16,5029,8th Pass,1,6,2014,LJP,16.67,Bihar
+16,5029,Graduate,2,6,2014,LJP,33.33,Bihar
+16,5029,Post Graduate,1,6,2014,LJP,16.67,Bihar
+16,5792,Graduate,1,1,2014,NCP,100,Bihar
+16,12103,12th Pass,1,4,2014,RJD,25,Bihar
+16,12103,Graduate,1,4,2014,RJD,25,Bihar
+16,12103,Literate,1,4,2014,RJD,25,Bihar
+16,12103,Post Graduate,1,4,2014,RJD,25,Bihar
+16,1605,Post Graduate,1,1,2014,BJP,100,Chandigarh
+16,1605,10th Pass,2,10,2014,BJP,20,Chhattisgarh
+16,1605,12th Pass,2,10,2014,BJP,20,Chhattisgarh
+16,1605,Graduate Professional,3,10,2014,BJP,30,Chhattisgarh
+16,1605,Post Graduate,3,10,2014,BJP,30,Chhattisgarh
+16,3482,12th Pass,1,1,2014,INC,100,Chhattisgarh
+16,1605,5th Pass,1,1,2014,BJP,100,Dadra_&_Nagar_Haveli
+16,1605,8th Pass,1,1,2014,BJP,100,Daman_&_Diu
+16,1605,10th Pass,1,7,2014,BJP,14.29,Delhi
+16,1605,Doctorate,1,7,2014,BJP,14.29,Delhi
+16,1605,Graduate Professional,2,7,2014,BJP,28.57,Delhi
+16,1605,Post Graduate,3,7,2014,BJP,42.86,Delhi
+16,1605,Graduate,1,2,2014,BJP,50,Goa
+16,1605,Graduate Professional,1,2,2014,BJP,50,Goa
+16,1605,10th Pass,4,26,2014,BJP,15.38,Gujarat
+16,1605,12th Pass,4,26,2014,BJP,15.38,Gujarat
+16,1605,8th Pass,2,26,2014,BJP,7.69,Gujarat
+16,1605,Graduate,4,26,2014,BJP,15.38,Gujarat
+16,1605,Graduate Professional,6,26,2014,BJP,23.08,Gujarat
+16,1605,Literate,1,26,2014,BJP,3.85,Gujarat
+16,1605,Others,1,26,2014,BJP,3.85,Gujarat
+16,1605,Post Graduate,4,26,2014,BJP,15.38,Gujarat
+16,1605,Graduate,3,7,2014,BJP,42.86,Haryana
+16,1605,Graduate Professional,3,7,2014,BJP,42.86,Haryana
+16,1605,Post Graduate,1,7,2014,BJP,14.29,Haryana
+16,3482,Post Graduate,1,1,2014,INC,100,Haryana
+16,3863,10th Pass,1,2,2014,INLD,50,Haryana
+16,3863,Graduate,1,2,2014,INLD,50,Haryana
+16,1605,10th Pass,1,4,2014,BJP,25,Himachal_Pradesh
+16,1605,Graduate,1,4,2014,BJP,25,Himachal_Pradesh
+16,1605,Graduate Professional,1,4,2014,BJP,25,Himachal_Pradesh
+16,1605,Post Graduate,1,4,2014,BJP,25,Himachal_Pradesh
+16,1605,10th Pass,1,3,2014,BJP,33.33,Jammu_&_Kashmir
+16,1605,Graduate Professional,2,3,2014,BJP,66.67,Jammu_&_Kashmir
+16,11133,Graduate Professional,2,3,2014,JKPDP,66.67,Jammu_&_Kashmir
+16,11133,Post Graduate,1,3,2014,JKPDP,33.33,Jammu_&_Kashmir
+16,1605,10th Pass,1,12,2014,BJP,8.33,Jharkhand
+16,1605,12th Pass,2,12,2014,BJP,16.67,Jharkhand
+16,1605,Doctorate,1,12,2014,BJP,8.33,Jharkhand
+16,1605,Graduate,4,12,2014,BJP,33.33,Jharkhand
+16,1605,Post Graduate,4,12,2014,BJP,33.33,Jharkhand
+16,4653,10th Pass,1,2,2014,JMM,50,Jharkhand
+16,4653,5th Pass,1,2,2014,JMM,50,Jharkhand
+16,1605,10th Pass,3,17,2014,BJP,17.65,Karnataka
+16,1605,12th Pass,3,17,2014,BJP,17.65,Karnataka
+16,1605,Graduate,4,17,2014,BJP,23.53,Karnataka
+16,1605,Graduate Professional,5,17,2014,BJP,29.41,Karnataka
+16,1605,Post Graduate,2,17,2014,BJP,11.76,Karnataka
+16,3482,12th Pass,2,9,2014,INC,22.22,Karnataka
+16,3482,Graduate Professional,5,9,2014,INC,55.56,Karnataka
+16,3482,Post Graduate,2,9,2014,INC,22.22,Karnataka
+16,10979,12th Pass,1,2,2014,JD(S),50,Karnataka
+16,10979,Others,1,2,2014,JD(S),50,Karnataka
+16,2444,Post Graduate,1,1,2014,CPI,100,Kerala
+16,14635,Doctorate,1,5,2014,CPM,20,Kerala
+16,14635,Graduate Professional,1,5,2014,CPM,20,Kerala
+16,14635,Others,1,5,2014,CPM,20,Kerala
+16,14635,Post Graduate,2,5,2014,CPM,40,Kerala
+16,3482,Doctorate,1,8,2014,INC,12.5,Kerala
+16,3482,Graduate,2,8,2014,INC,25,Kerala
+16,3482,Graduate Professional,1,8,2014,INC,12.5,Kerala
+16,3482,Post Graduate,4,8,2014,INC,50,Kerala
+16,10809,8th Pass,1,2,2014,IND,50,Kerala
+16,10809,Post Graduate,1,2,2014,IND,50,Kerala
+16,3952,10th Pass,1,2,2014,IUML,50,Kerala
+16,3952,Graduate Professional,1,2,2014,IUML,50,Kerala
+16,11341,Post Graduate,1,1,2014,KEC(M),100,Kerala
+16,12053,Graduate Professional,1,1,2014,RSP,100,Kerala
+16,5792,Post Graduate,1,1,2014,NCP,100,Lakshadweep
+16,13,12th Pass,1,4,2014,AAAP,25,Lok_Sabha
+16,13,Graduate Professional,1,4,2014,AAAP,25,Lok_Sabha
+16,13,Post Graduate,2,4,2014,AAAP,50,Lok_Sabha
+16,954,Graduate,1,2,2014,AD,50,Lok_Sabha
+16,954,Post Graduate,1,2,2014,AD,50,Lok_Sabha
+16,930,10th Pass,2,37,2014,ADMK,5.41,Lok_Sabha
+16,930,12th Pass,3,37,2014,ADMK,8.11,Lok_Sabha
+16,930,Doctorate,1,37,2014,ADMK,2.7,Lok_Sabha
+16,930,Graduate,6,37,2014,ADMK,16.22,Lok_Sabha
+16,930,Graduate Professional,11,37,2014,ADMK,29.73,Lok_Sabha
+16,930,Post Graduate,14,37,2014,ADMK,37.84,Lok_Sabha
+16,706,Graduate Professional,1,1,2014,AIMIM,100,Lok_Sabha
+16,737,Post Graduate,1,1,2014,AINRC,100,Lok_Sabha
+16,18228,10th Pass,1,34,2014,AITC,2.94,Lok_Sabha
+16,18228,12th Pass,2,34,2014,AITC,5.88,Lok_Sabha
+16,18228,Doctorate,3,34,2014,AITC,8.82,Lok_Sabha
+16,18228,Graduate,8,34,2014,AITC,23.53,Lok_Sabha
+16,18228,Graduate Professional,9,34,2014,AITC,26.47,Lok_Sabha
+16,18228,Literate,1,34,2014,AITC,2.94,Lok_Sabha
+16,18228,Post Graduate,10,34,2014,AITC,29.41,Lok_Sabha
+16,795,12th Pass,1,3,2014,AIUDF,33.33,Lok_Sabha
+16,795,Graduate,1,3,2014,AIUDF,33.33,Lok_Sabha
+16,795,Post Graduate,1,3,2014,AIUDF,33.33,Lok_Sabha
+16,9079,10th Pass,1,20,2014,BJD,5,Lok_Sabha
+16,9079,12th Pass,1,20,2014,BJD,5,Lok_Sabha
+16,9079,Doctorate,1,20,2014,BJD,5,Lok_Sabha
+16,9079,Graduate,7,20,2014,BJD,35,Lok_Sabha
+16,9079,Graduate Professional,4,20,2014,BJD,20,Lok_Sabha
+16,9079,Others,1,20,2014,BJD,5,Lok_Sabha
+16,9079,Post Graduate,5,20,2014,BJD,25,Lok_Sabha
+16,1605,10th Pass,27,282,2014,BJP,9.57,Lok_Sabha
+16,1605,12th Pass,27,282,2014,BJP,9.57,Lok_Sabha
+16,1605,5th Pass,5,282,2014,BJP,1.77,Lok_Sabha
+16,1605,8th Pass,5,282,2014,BJP,1.77,Lok_Sabha
+16,1605,Doctorate,21,282,2014,BJP,7.45,Lok_Sabha
+16,1605,Graduate,66,282,2014,BJP,23.4,Lok_Sabha
+16,1605,Graduate Professional,55,282,2014,BJP,19.5,Lok_Sabha
+16,1605,Literate,3,282,2014,BJP,1.06,Lok_Sabha
+16,1605,Others,4,282,2014,BJP,1.42,Lok_Sabha
+16,1605,Post Graduate,69,282,2014,BJP,24.47,Lok_Sabha
+16,16433,Doctorate,1,3,2014,BLSP,33.33,Lok_Sabha
+16,16433,Post Graduate,2,3,2014,BLSP,66.67,Lok_Sabha
+16,2444,Post Graduate,1,1,2014,CPI,100,Lok_Sabha
+16,14635,12th Pass,1,9,2014,CPM,11.11,Lok_Sabha
+16,14635,Doctorate,1,9,2014,CPM,11.11,Lok_Sabha
+16,14635,Graduate,1,9,2014,CPM,11.11,Lok_Sabha
+16,14635,Graduate Professional,2,9,2014,CPM,22.22,Lok_Sabha
+16,14635,Others,1,9,2014,CPM,11.11,Lok_Sabha
+16,14635,Post Graduate,3,9,2014,CPM,33.33,Lok_Sabha
+16,3482,10th Pass,1,44,2014,INC,2.27,Lok_Sabha
+16,3482,12th Pass,7,44,2014,INC,15.91,Lok_Sabha
+16,3482,Doctorate,3,44,2014,INC,6.82,Lok_Sabha
+16,3482,Graduate,6,44,2014,INC,13.64,Lok_Sabha
+16,3482,Graduate Professional,11,44,2014,INC,25,Lok_Sabha
+16,3482,Others,1,44,2014,INC,2.27,Lok_Sabha
+16,3482,Post Graduate,15,44,2014,INC,34.09,Lok_Sabha
+16,10809,12th Pass,1,3,2014,IND,33.33,Lok_Sabha
+16,10809,8th Pass,1,3,2014,IND,33.33,Lok_Sabha
+16,10809,Post Graduate,1,3,2014,IND,33.33,Lok_Sabha
+16,3863,10th Pass,1,2,2014,INLD,50,Lok_Sabha
+16,3863,Graduate,1,2,2014,INLD,50,Lok_Sabha
+16,3952,10th Pass,1,2,2014,IUML,50,Lok_Sabha
+16,3952,Graduate Professional,1,2,2014,IUML,50,Lok_Sabha
+16,10979,12th Pass,1,2,2014,JD(S),50,Lok_Sabha
+16,10979,Others,1,2,2014,JD(S),50,Lok_Sabha
+16,11002,12th Pass,2,2,2014,JD(U),100,Lok_Sabha
+16,11133,Graduate Professional,2,3,2014,JKPDP,66.67,Lok_Sabha
+16,11133,Post Graduate,1,3,2014,JKPDP,33.33,Lok_Sabha
+16,4653,10th Pass,1,2,2014,JMM,50,Lok_Sabha
+16,4653,5th Pass,1,2,2014,JMM,50,Lok_Sabha
+16,11341,Post Graduate,1,1,2014,KEC(M),100,Lok_Sabha
+16,5029,10th Pass,1,6,2014,LJP,16.67,Lok_Sabha
+16,5029,12th Pass,1,6,2014,LJP,16.67,Lok_Sabha
+16,5029,8th Pass,1,6,2014,LJP,16.67,Lok_Sabha
+16,5029,Graduate,2,6,2014,LJP,33.33,Lok_Sabha
+16,5029,Post Graduate,1,6,2014,LJP,16.67,Lok_Sabha
+16,5792,10th Pass,1,6,2014,NCP,16.67,Lok_Sabha
+16,5792,12th Pass,1,6,2014,NCP,16.67,Lok_Sabha
+16,5792,Graduate,3,6,2014,NCP,50,Lok_Sabha
+16,5792,Post Graduate,1,6,2014,NCP,16.67,Lok_Sabha
+16,5671,Post Graduate,1,1,2014,NPEP,100,Lok_Sabha
+16,5545,Graduate,1,1,2014,NPF,100,Lok_Sabha
+16,11891,Graduate Professional,1,1,2014,PMK,100,Lok_Sabha
+16,12103,12th Pass,1,4,2014,RJD,25,Lok_Sabha
+16,12103,Graduate,1,4,2014,RJD,25,Lok_Sabha
+16,12103,Literate,1,4,2014,RJD,25,Lok_Sabha
+16,12103,Post Graduate,1,4,2014,RJD,25,Lok_Sabha
+16,12053,Graduate Professional,1,1,2014,RSP,100,Lok_Sabha
+16,16994,10th Pass,2,4,2014,SAD,50,Lok_Sabha
+16,16994,8th Pass,1,4,2014,SAD,25,Lok_Sabha
+16,16994,Post Graduate,1,4,2014,SAD,25,Lok_Sabha
+16,7925,Post Graduate,1,1,2014,SDF,100,Lok_Sabha
+16,18691,10th Pass,4,18,2014,SHS,22.22,Lok_Sabha
+16,18691,12th Pass,3,18,2014,SHS,16.67,Lok_Sabha
+16,18691,8th Pass,1,18,2014,SHS,5.56,Lok_Sabha
+16,18691,Graduate,5,18,2014,SHS,27.78,Lok_Sabha
+16,18691,Graduate Professional,1,18,2014,SHS,5.56,Lok_Sabha
+16,18691,Others,2,18,2014,SHS,11.11,Lok_Sabha
+16,18691,Post Graduate,2,18,2014,SHS,11.11,Lok_Sabha
+16,7425,Graduate,2,5,2014,SP,40,Lok_Sabha
+16,7425,Post Graduate,3,5,2014,SP,60,Lok_Sabha
+16,12961,10th Pass,1,1,2014,SWP,100,Lok_Sabha
+16,8300,10th Pass,3,16,2014,TDP,18.75,Lok_Sabha
+16,8300,12th Pass,4,16,2014,TDP,25,Lok_Sabha
+16,8300,Graduate,4,16,2014,TDP,25,Lok_Sabha
+16,8300,Graduate Professional,2,16,2014,TDP,12.5,Lok_Sabha
+16,8300,Illiterate,1,16,2014,TDP,6.25,Lok_Sabha
+16,8300,Post Graduate,2,16,2014,TDP,12.5,Lok_Sabha
+16,8284,Doctorate,1,11,2014,TRS,9.09,Lok_Sabha
+16,8284,Graduate,3,11,2014,TRS,27.27,Lok_Sabha
+16,8284,Graduate Professional,2,11,2014,TRS,18.18,Lok_Sabha
+16,8284,Post Graduate,5,11,2014,TRS,45.45,Lok_Sabha
+16,8615,10th Pass,1,9,2014,YSRCP,11.11,Lok_Sabha
+16,8615,12th Pass,1,9,2014,YSRCP,11.11,Lok_Sabha
+16,8615,Doctorate,1,9,2014,YSRCP,11.11,Lok_Sabha
+16,8615,Graduate Professional,2,9,2014,YSRCP,22.22,Lok_Sabha
+16,8615,Post Graduate,4,9,2014,YSRCP,44.44,Lok_Sabha
+16,1605,10th Pass,2,27,2014,BJP,7.41,Madhya_Pradesh
+16,1605,12th Pass,2,27,2014,BJP,7.41,Madhya_Pradesh
+16,1605,Doctorate,3,27,2014,BJP,11.11,Madhya_Pradesh
+16,1605,Graduate,6,27,2014,BJP,22.22,Madhya_Pradesh
+16,1605,Graduate Professional,6,27,2014,BJP,22.22,Madhya_Pradesh
+16,1605,Post Graduate,8,27,2014,BJP,29.63,Madhya_Pradesh
+16,3482,Graduate,1,2,2014,INC,50,Madhya_Pradesh
+16,3482,Post Graduate,1,2,2014,INC,50,Madhya_Pradesh
+16,1605,10th Pass,4,23,2014,BJP,17.39,Maharashtra
+16,1605,12th Pass,1,23,2014,BJP,4.35,Maharashtra
+16,1605,5th Pass,1,23,2014,BJP,4.35,Maharashtra
+16,1605,Doctorate,2,23,2014,BJP,8.7,Maharashtra
+16,1605,Graduate,7,23,2014,BJP,30.43,Maharashtra
+16,1605,Graduate Professional,6,23,2014,BJP,26.09,Maharashtra
+16,1605,Others,1,23,2014,BJP,4.35,Maharashtra
+16,1605,Post Graduate,1,23,2014,BJP,4.35,Maharashtra
+16,3482,Graduate Professional,1,2,2014,INC,50,Maharashtra
+16,3482,Post Graduate,1,2,2014,INC,50,Maharashtra
+16,5792,10th Pass,1,4,2014,NCP,25,Maharashtra
+16,5792,12th Pass,1,4,2014,NCP,25,Maharashtra
+16,5792,Graduate,2,4,2014,NCP,50,Maharashtra
+16,18691,10th Pass,4,18,2014,SHS,22.22,Maharashtra
+16,18691,12th Pass,3,18,2014,SHS,16.67,Maharashtra
+16,18691,8th Pass,1,18,2014,SHS,5.56,Maharashtra
+16,18691,Graduate,5,18,2014,SHS,27.78,Maharashtra
+16,18691,Graduate Professional,1,18,2014,SHS,5.56,Maharashtra
+16,18691,Others,2,18,2014,SHS,11.11,Maharashtra
+16,18691,Post Graduate,2,18,2014,SHS,11.11,Maharashtra
+16,12961,10th Pass,1,1,2014,SWP,100,Maharashtra
+16,3482,Doctorate,1,2,2014,INC,50,Manipur
+16,3482,Post Graduate,1,2,2014,INC,50,Manipur
+16,3482,Graduate Professional,1,1,2014,INC,100,Meghalaya
+16,5671,Post Graduate,1,1,2014,NPEP,100,Meghalaya
+16,3482,Graduate,1,1,2014,INC,100,Mizoram
+16,5545,Graduate,1,1,2014,NPF,100,Nagaland
+16,9079,10th Pass,1,20,2014,BJD,5,Odisha
+16,9079,12th Pass,1,20,2014,BJD,5,Odisha
+16,9079,Doctorate,1,20,2014,BJD,5,Odisha
+16,9079,Graduate,7,20,2014,BJD,35,Odisha
+16,9079,Graduate Professional,4,20,2014,BJD,20,Odisha
+16,9079,Others,1,20,2014,BJD,5,Odisha
+16,9079,Post Graduate,5,20,2014,BJD,25,Odisha
+16,1605,Others,1,1,2014,BJP,100,Odisha
+16,737,Post Graduate,1,1,2014,AINRC,100,Puducherry
+16,13,12th Pass,1,4,2014,AAAP,25,Punjab
+16,13,Graduate Professional,1,4,2014,AAAP,25,Punjab
+16,13,Post Graduate,2,4,2014,AAAP,50,Punjab
+16,1605,10th Pass,1,2,2014,BJP,50,Punjab
+16,1605,Graduate,1,2,2014,BJP,50,Punjab
+16,3482,12th Pass,1,3,2014,INC,33.33,Punjab
+16,3482,Graduate,1,3,2014,INC,33.33,Punjab
+16,3482,Graduate Professional,1,3,2014,INC,33.33,Punjab
+16,16994,10th Pass,2,4,2014,SAD,50,Punjab
+16,16994,8th Pass,1,4,2014,SAD,25,Punjab
+16,16994,Post Graduate,1,4,2014,SAD,25,Punjab
+16,1605,10th Pass,1,25,2014,BJP,4,Rajasthan
+16,1605,12th Pass,2,25,2014,BJP,8,Rajasthan
+16,1605,8th Pass,1,25,2014,BJP,4,Rajasthan
+16,1605,Doctorate,1,25,2014,BJP,4,Rajasthan
+16,1605,Graduate,8,25,2014,BJP,32,Rajasthan
+16,1605,Graduate Professional,2,25,2014,BJP,8,Rajasthan
+16,1605,Literate,1,25,2014,BJP,4,Rajasthan
+16,1605,Others,1,25,2014,BJP,4,Rajasthan
+16,1605,Post Graduate,8,25,2014,BJP,32,Rajasthan
+16,7925,Post Graduate,1,1,2014,SDF,100,Sikkim
+16,930,10th Pass,2,37,2014,ADMK,5.41,Tamil_Nadu
+16,930,12th Pass,3,37,2014,ADMK,8.11,Tamil_Nadu
+16,930,Doctorate,1,37,2014,ADMK,2.7,Tamil_Nadu
+16,930,Graduate,6,37,2014,ADMK,16.22,Tamil_Nadu
+16,930,Graduate Professional,11,37,2014,ADMK,29.73,Tamil_Nadu
+16,930,Post Graduate,14,37,2014,ADMK,37.84,Tamil_Nadu
+16,1605,Graduate Professional,1,1,2014,BJP,100,Tamil_Nadu
+16,11891,Graduate Professional,1,1,2014,PMK,100,Tamil_Nadu
+16,14635,12th Pass,1,2,2014,CPM,50,Tripura
+16,14635,Graduate,1,2,2014,CPM,50,Tripura
+16,954,Graduate,1,2,2014,AD,50,Uttar_Pradesh
+16,954,Post Graduate,1,2,2014,AD,50,Uttar_Pradesh
+16,1605,10th Pass,4,71,2014,BJP,5.63,Uttar_Pradesh
+16,1605,12th Pass,9,71,2014,BJP,12.68,Uttar_Pradesh
+16,1605,5th Pass,3,71,2014,BJP,4.23,Uttar_Pradesh
+16,1605,Doctorate,10,71,2014,BJP,14.08,Uttar_Pradesh
+16,1605,Graduate,11,71,2014,BJP,15.49,Uttar_Pradesh
+16,1605,Graduate Professional,9,71,2014,BJP,12.68,Uttar_Pradesh
+16,1605,Literate,1,71,2014,BJP,1.41,Uttar_Pradesh
+16,1605,Post Graduate,24,71,2014,BJP,33.8,Uttar_Pradesh
+16,3482,Others,1,2,2014,INC,50,Uttar_Pradesh
+16,3482,Post Graduate,1,2,2014,INC,50,Uttar_Pradesh
+16,7425,Graduate,2,5,2014,SP,40,Uttar_Pradesh
+16,7425,Post Graduate,3,5,2014,SP,60,Uttar_Pradesh
+16,1605,12th Pass,2,5,2014,BJP,40,Uttarakhand
+16,1605,Doctorate,1,5,2014,BJP,20,Uttarakhand
+16,1605,Graduate Professional,1,5,2014,BJP,20,Uttarakhand
+16,1605,Post Graduate,1,5,2014,BJP,20,Uttarakhand
+16,18228,10th Pass,1,34,2014,AITC,2.94,West_Bengal
+16,18228,12th Pass,2,34,2014,AITC,5.88,West_Bengal
+16,18228,Doctorate,3,34,2014,AITC,8.82,West_Bengal
+16,18228,Graduate,8,34,2014,AITC,23.53,West_Bengal
+16,18228,Graduate Professional,9,34,2014,AITC,26.47,West_Bengal
+16,18228,Literate,1,34,2014,AITC,2.94,West_Bengal
+16,18228,Post Graduate,10,34,2014,AITC,29.41,West_Bengal
+16,1605,Graduate,1,2,2014,BJP,50,West_Bengal
+16,1605,Graduate Professional,1,2,2014,BJP,50,West_Bengal
+16,14635,Graduate Professional,1,2,2014,CPM,50,West_Bengal
+16,14635,Post Graduate,1,2,2014,CPM,50,West_Bengal
+16,3482,10th Pass,1,4,2014,INC,25,West_Bengal
+16,3482,Doctorate,1,4,2014,INC,25,West_Bengal
+16,3482,Graduate Professional,2,4,2014,INC,50,West_Bengal
+15,1605,Graduate,1,1,2009,BJP,100,Andaman_&_Nicobar_Islands
+15,706,Graduate Professional,1,1,2009,AIMIM,100,Andhra_Pradesh
+15,3482,10th Pass,1,33,2009,INC,3.03,Andhra_Pradesh
+15,3482,12th Pass,4,33,2009,INC,12.12,Andhra_Pradesh
+15,3482,Graduate,9,33,2009,INC,27.27,Andhra_Pradesh
+15,3482,Graduate Professional,10,33,2009,INC,30.3,Andhra_Pradesh
+15,3482,Post Graduate,9,33,2009,INC,27.27,Andhra_Pradesh
+15,8300,12th Pass,3,6,2009,TDP,50,Andhra_Pradesh
+15,8300,Graduate,1,6,2009,TDP,16.67,Andhra_Pradesh
+15,8300,Graduate Professional,2,6,2009,TDP,33.33,Andhra_Pradesh
+15,8284,10th Pass,1,2,2009,TRS,50,Andhra_Pradesh
+15,8284,Graduate,1,2,2009,TRS,50,Andhra_Pradesh
+15,3482,Graduate,2,2,2009,INC,100,Arunachal_Pradesh
+15,978,10th Pass,1,1,2009,AGP,100,Assam
+15,988,Literate,1,1,2009,AUDF,100,Assam
+15,1605,Graduate,1,4,2009,BJP,25,Assam
+15,1605,Graduate Professional,1,4,2009,BJP,25,Assam
+15,1605,Post Graduate,2,4,2009,BJP,50,Assam
+15,9451,Graduate,1,1,2009,BOPF,100,Assam
+15,3482,Graduate,3,7,2009,INC,42.86,Assam
+15,3482,Post Graduate,4,7,2009,INC,57.14,Assam
+15,1605,10th Pass,2,12,2009,BJP,16.67,Bihar
+15,1605,12th Pass,1,12,2009,BJP,8.33,Bihar
+15,1605,8th Pass,1,12,2009,BJP,8.33,Bihar
+15,1605,Doctorate,1,12,2009,BJP,8.33,Bihar
+15,1605,Graduate,5,12,2009,BJP,41.67,Bihar
+15,1605,Graduate Professional,1,12,2009,BJP,8.33,Bihar
+15,1605,Post Graduate,1,12,2009,BJP,8.33,Bihar
+15,3482,Post Graduate,2,2,2009,INC,100,Bihar
+15,10809,Graduate,1,2,2009,IND,50,Bihar
+15,10809,Unknown,1,2,2009,IND,50,Bihar
+15,11002,10th Pass,3,20,2009,JD(U),15,Bihar
+15,11002,12th Pass,2,20,2009,JD(U),10,Bihar
+15,11002,5th Pass,1,20,2009,JD(U),5,Bihar
+15,11002,8th Pass,1,20,2009,JD(U),5,Bihar
+15,11002,Doctorate,3,20,2009,JD(U),15,Bihar
+15,11002,Graduate,1,20,2009,JD(U),5,Bihar
+15,11002,Graduate Professional,2,20,2009,JD(U),10,Bihar
+15,11002,Others,1,20,2009,JD(U),5,Bihar
+15,11002,Post Graduate,4,20,2009,JD(U),20,Bihar
+15,11002,Unknown,2,20,2009,JD(U),10,Bihar
+15,12103,10th Pass,1,4,2009,RJD,25,Bihar
+15,12103,Doctorate,1,4,2009,RJD,25,Bihar
+15,12103,Graduate Professional,1,4,2009,RJD,25,Bihar
+15,12103,Unknown,1,4,2009,RJD,25,Bihar
+15,3482,Graduate Professional,1,1,2009,INC,100,Chandigarh
+15,1605,10th Pass,1,10,2009,BJP,10,Chhattisgarh
+15,1605,12th Pass,2,10,2009,BJP,20,Chhattisgarh
+15,1605,8th Pass,1,10,2009,BJP,10,Chhattisgarh
+15,1605,Graduate Professional,1,10,2009,BJP,10,Chhattisgarh
+15,1605,Post Graduate,2,10,2009,BJP,20,Chhattisgarh
+15,1605,Unknown,3,10,2009,BJP,30,Chhattisgarh
+15,3482,Doctorate,1,1,2009,INC,100,Chhattisgarh
+15,1605,5th Pass,1,1,2009,BJP,100,Dadra_&_Nagar_Haveli
+15,1605,10th Pass,1,1,2009,BJP,100,Daman_&_Diu
+15,3482,10th Pass,1,7,2009,INC,14.29,Delhi
+15,3482,12th Pass,1,7,2009,INC,14.29,Delhi
+15,3482,Graduate,1,7,2009,INC,14.29,Delhi
+15,3482,Graduate Professional,1,7,2009,INC,14.29,Delhi
+15,3482,Post Graduate,3,7,2009,INC,42.86,Delhi
+15,1605,Graduate,1,1,2009,BJP,100,Goa
+15,3482,Graduate Professional,1,1,2009,INC,100,Goa
+15,1605,10th Pass,4,15,2009,BJP,26.67,Gujarat
+15,1605,12th Pass,1,15,2009,BJP,6.67,Gujarat
+15,1605,5th Pass,1,15,2009,BJP,6.67,Gujarat
+15,1605,Graduate,4,15,2009,BJP,26.67,Gujarat
+15,1605,Graduate Professional,4,15,2009,BJP,26.67,Gujarat
+15,1605,Post Graduate,1,15,2009,BJP,6.67,Gujarat
+15,3482,10th Pass,2,11,2009,INC,18.18,Gujarat
+15,3482,12th Pass,1,11,2009,INC,9.09,Gujarat
+15,3482,5th Pass,1,11,2009,INC,9.09,Gujarat
+15,3482,Graduate,4,11,2009,INC,36.36,Gujarat
+15,3482,Graduate Professional,1,11,2009,INC,9.09,Gujarat
+15,3482,Unknown,2,11,2009,INC,18.18,Gujarat
+15,3185,12th Pass,1,1,2009,HJCBL,100,Haryana
+15,3482,8th Pass,1,9,2009,INC,11.11,Haryana
+15,3482,Graduate Professional,3,9,2009,INC,33.33,Haryana
+15,3482,Post Graduate,5,9,2009,INC,55.56,Haryana
+15,1605,Graduate,1,3,2009,BJP,33.33,Himachal_Pradesh
+15,1605,Graduate Professional,1,3,2009,BJP,33.33,Himachal_Pradesh
+15,1605,Post Graduate,1,3,2009,BJP,33.33,Himachal_Pradesh
+15,3482,Post Graduate,1,1,2009,INC,100,Himachal_Pradesh
+15,3482,10th Pass,1,2,2009,INC,50,Jammu_&_Kashmir
+15,3482,Graduate,1,2,2009,INC,50,Jammu_&_Kashmir
+15,10809,Graduate,1,1,2009,IND,100,Jammu_&_Kashmir
+15,11089,Graduate Professional,2,3,2009,JKN,66.67,Jammu_&_Kashmir
+15,11089,Post Graduate,1,3,2009,JKN,33.33,Jammu_&_Kashmir
+15,1605,10th Pass,1,8,2009,BJP,12.5,Jharkhand
+15,1605,Graduate,3,8,2009,BJP,37.5,Jharkhand
+15,1605,Graduate Professional,1,8,2009,BJP,12.5,Jharkhand
+15,1605,Post Graduate,3,8,2009,BJP,37.5,Jharkhand
+15,3482,Graduate,1,1,2009,INC,100,Jharkhand
+15,10809,Graduate,1,2,2009,IND,50,Jharkhand
+15,10809,Graduate Professional,1,2,2009,IND,50,Jharkhand
+15,4653,10th Pass,2,2,2009,JMM,100,Jharkhand
+15,4736,Graduate,1,1,2009,JVM,100,Jharkhand
+15,1605,10th Pass,2,19,2009,BJP,10.53,Karnataka
+15,1605,12th Pass,4,19,2009,BJP,21.05,Karnataka
+15,1605,5th Pass,1,19,2009,BJP,5.26,Karnataka
+15,1605,Graduate,3,19,2009,BJP,15.79,Karnataka
+15,1605,Graduate Professional,8,19,2009,BJP,42.11,Karnataka
+15,1605,Post Graduate,1,19,2009,BJP,5.26,Karnataka
+15,3482,Graduate,1,6,2009,INC,16.67,Karnataka
+15,3482,Graduate Professional,3,6,2009,INC,50,Karnataka
+15,3482,Post Graduate,2,6,2009,INC,33.33,Karnataka
+15,10979,12th Pass,1,3,2009,JD(S),33.33,Karnataka
+15,10979,Graduate,1,3,2009,JD(S),33.33,Karnataka
+15,10979,Others,1,3,2009,JD(S),33.33,Karnataka
+15,14635,Post Graduate,4,4,2009,CPM,100,Kerala
+15,3482,Doctorate,1,13,2009,INC,7.69,Kerala
+15,3482,Graduate,4,13,2009,INC,30.77,Kerala
+15,3482,Graduate Professional,1,13,2009,INC,7.69,Kerala
+15,3482,Post Graduate,7,13,2009,INC,53.85,Kerala
+15,11341,Post Graduate,1,1,2009,KEC(M),100,Kerala
+15,5501,10th Pass,1,2,2009,MUL,50,Kerala
+15,5501,Post Graduate,1,2,2009,MUL,50,Kerala
+15,3482,Graduate Professional,1,1,2009,INC,100,Lakshadweep
+15,930,12th Pass,2,9,2009,ADMK,22.22,Lok_Sabha
+15,930,Doctorate,1,9,2009,ADMK,11.11,Lok_Sabha
+15,930,Graduate,1,9,2009,ADMK,11.11,Lok_Sabha
+15,930,Graduate Professional,4,9,2009,ADMK,44.44,Lok_Sabha
+15,930,Post Graduate,1,9,2009,ADMK,11.11,Lok_Sabha
+15,978,10th Pass,1,1,2009,AGP,100,Lok_Sabha
+15,3040,Graduate,1,2,2009,AIFB,50,Lok_Sabha
+15,3040,Post Graduate,1,2,2009,AIFB,50,Lok_Sabha
+15,706,Graduate Professional,1,1,2009,AIMIM,100,Lok_Sabha
+15,18228,12th Pass,3,19,2009,AITC,15.79,Lok_Sabha
+15,18228,Graduate,5,19,2009,AITC,26.32,Lok_Sabha
+15,18228,Graduate Professional,5,19,2009,AITC,26.32,Lok_Sabha
+15,18228,Post Graduate,6,19,2009,AITC,31.58,Lok_Sabha
+15,988,Literate,1,1,2009,AUDF,100,Lok_Sabha
+15,9079,10th Pass,1,14,2009,BJD,7.14,Lok_Sabha
+15,9079,12th Pass,1,14,2009,BJD,7.14,Lok_Sabha
+15,9079,Graduate,5,14,2009,BJD,35.71,Lok_Sabha
+15,9079,Graduate Professional,1,14,2009,BJD,7.14,Lok_Sabha
+15,9079,Post Graduate,6,14,2009,BJD,42.86,Lok_Sabha
+15,1605,10th Pass,16,116,2009,BJP,13.79,Lok_Sabha
+15,1605,12th Pass,12,116,2009,BJP,10.34,Lok_Sabha
+15,1605,5th Pass,4,116,2009,BJP,3.45,Lok_Sabha
+15,1605,8th Pass,2,116,2009,BJP,1.72,Lok_Sabha
+15,1605,Doctorate,4,116,2009,BJP,3.45,Lok_Sabha
+15,1605,Graduate,29,116,2009,BJP,25,Lok_Sabha
+15,1605,Graduate Professional,23,116,2009,BJP,19.83,Lok_Sabha
+15,1605,Post Graduate,19,116,2009,BJP,16.38,Lok_Sabha
+15,1605,Unknown,7,116,2009,BJP,6.03,Lok_Sabha
+15,9451,Graduate,1,1,2009,BOPF,100,Lok_Sabha
+15,16651,10th Pass,3,21,2009,BSP,14.29,Lok_Sabha
+15,16651,12th Pass,3,21,2009,BSP,14.29,Lok_Sabha
+15,16651,8th Pass,2,21,2009,BSP,9.52,Lok_Sabha
+15,16651,Doctorate,1,21,2009,BSP,4.76,Lok_Sabha
+15,16651,Graduate,5,21,2009,BSP,23.81,Lok_Sabha
+15,16651,Graduate Professional,2,21,2009,BSP,9.52,Lok_Sabha
+15,16651,Literate,1,21,2009,BSP,4.76,Lok_Sabha
+15,16651,Post Graduate,4,21,2009,BSP,19.05,Lok_Sabha
+15,9677,8th Pass,1,1,2009,BVA,100,Lok_Sabha
+15,2444,Graduate,2,4,2009,CPI,50,Lok_Sabha
+15,2444,Post Graduate,2,4,2009,CPI,50,Lok_Sabha
+15,14635,Graduate,3,16,2009,CPM,18.75,Lok_Sabha
+15,14635,Graduate Professional,4,16,2009,CPM,25,Lok_Sabha
+15,14635,Post Graduate,9,16,2009,CPM,56.25,Lok_Sabha
+15,10192,10th Pass,1,18,2009,DMK,5.56,Lok_Sabha
+15,10192,12th Pass,2,18,2009,DMK,11.11,Lok_Sabha
+15,10192,Graduate,6,18,2009,DMK,33.33,Lok_Sabha
+15,10192,Graduate Professional,4,18,2009,DMK,22.22,Lok_Sabha
+15,10192,Others,1,18,2009,DMK,5.56,Lok_Sabha
+15,10192,Post Graduate,2,18,2009,DMK,11.11,Lok_Sabha
+15,10192,Unknown,2,18,2009,DMK,11.11,Lok_Sabha
+15,3185,12th Pass,1,1,2009,HJCBL,100,Lok_Sabha
+15,3482,10th Pass,10,206,2009,INC,4.85,Lok_Sabha
+15,3482,12th Pass,15,206,2009,INC,7.28,Lok_Sabha
+15,3482,5th Pass,3,206,2009,INC,1.46,Lok_Sabha
+15,3482,8th Pass,2,206,2009,INC,0.97,Lok_Sabha
+15,3482,Doctorate,13,206,2009,INC,6.31,Lok_Sabha
+15,3482,Graduate,54,206,2009,INC,26.21,Lok_Sabha
+15,3482,Graduate Professional,45,206,2009,INC,21.84,Lok_Sabha
+15,3482,Literate,1,206,2009,INC,0.49,Lok_Sabha
+15,3482,Others,2,206,2009,INC,0.97,Lok_Sabha
+15,3482,Post Graduate,54,206,2009,INC,26.21,Lok_Sabha
+15,3482,Unknown,7,206,2009,INC,3.4,Lok_Sabha
+15,10809,Graduate,4,9,2009,IND,44.44,Lok_Sabha
+15,10809,Graduate Professional,2,9,2009,IND,22.22,Lok_Sabha
+15,10809,Illiterate,1,9,2009,IND,11.11,Lok_Sabha
+15,10809,Unknown,2,9,2009,IND,22.22,Lok_Sabha
+15,10979,12th Pass,1,3,2009,JD(S),33.33,Lok_Sabha
+15,10979,Graduate,1,3,2009,JD(S),33.33,Lok_Sabha
+15,10979,Others,1,3,2009,JD(S),33.33,Lok_Sabha
+15,11002,10th Pass,3,20,2009,JD(U),15,Lok_Sabha
+15,11002,12th Pass,2,20,2009,JD(U),10,Lok_Sabha
+15,11002,5th Pass,1,20,2009,JD(U),5,Lok_Sabha
+15,11002,8th Pass,1,20,2009,JD(U),5,Lok_Sabha
+15,11002,Doctorate,3,20,2009,JD(U),15,Lok_Sabha
+15,11002,Graduate,1,20,2009,JD(U),5,Lok_Sabha
+15,11002,Graduate Professional,2,20,2009,JD(U),10,Lok_Sabha
+15,11002,Others,1,20,2009,JD(U),5,Lok_Sabha
+15,11002,Post Graduate,4,20,2009,JD(U),20,Lok_Sabha
+15,11002,Unknown,2,20,2009,JD(U),10,Lok_Sabha
+15,11089,Graduate Professional,2,3,2009,JKN,66.67,Lok_Sabha
+15,11089,Post Graduate,1,3,2009,JKN,33.33,Lok_Sabha
+15,4653,10th Pass,2,2,2009,JMM,100,Lok_Sabha
+15,4736,Graduate,1,1,2009,JVM,100,Lok_Sabha
+15,11341,Post Graduate,1,1,2009,KEC(M),100,Lok_Sabha
+15,11601,Graduate,1,1,2009,MDMK,100,Lok_Sabha
+15,5501,10th Pass,1,2,2009,MUL,50,Lok_Sabha
+15,5501,Post Graduate,1,2,2009,MUL,50,Lok_Sabha
+15,5792,10th Pass,2,9,2009,NCP,22.22,Lok_Sabha
+15,5792,12th Pass,1,9,2009,NCP,11.11,Lok_Sabha
+15,5792,Graduate,2,9,2009,NCP,22.22,Lok_Sabha
+15,5792,Graduate Professional,1,9,2009,NCP,11.11,Lok_Sabha
+15,5792,Others,1,9,2009,NCP,11.11,Lok_Sabha
+15,5792,Post Graduate,1,9,2009,NCP,11.11,Lok_Sabha
+15,5792,Unknown,1,9,2009,NCP,11.11,Lok_Sabha
+15,5552,Unknown,1,1,2009,NPF,100,Lok_Sabha
+15,12103,10th Pass,1,4,2009,RJD,25,Lok_Sabha
+15,12103,Doctorate,1,4,2009,RJD,25,Lok_Sabha
+15,12103,Graduate Professional,1,4,2009,RJD,25,Lok_Sabha
+15,12103,Unknown,1,4,2009,RJD,25,Lok_Sabha
+15,12169,Graduate,1,5,2009,RLD,20,Lok_Sabha
+15,12169,Graduate Professional,1,5,2009,RLD,20,Lok_Sabha
+15,12169,Post Graduate,3,5,2009,RLD,60,Lok_Sabha
+15,12053,10th Pass,1,2,2009,RSP,50,Lok_Sabha
+15,12053,Post Graduate,1,2,2009,RSP,50,Lok_Sabha
+15,16994,10th Pass,2,4,2009,SAD,50,Lok_Sabha
+15,16994,Graduate Professional,1,4,2009,SAD,25,Lok_Sabha
+15,16994,Post Graduate,1,4,2009,SAD,25,Lok_Sabha
+15,7925,Post Graduate,1,1,2009,SDF,100,Lok_Sabha
+15,18691,10th Pass,2,11,2009,SHS,18.18,Lok_Sabha
+15,18691,12th Pass,1,11,2009,SHS,9.09,Lok_Sabha
+15,18691,Graduate,3,11,2009,SHS,27.27,Lok_Sabha
+15,18691,Graduate Professional,1,11,2009,SHS,9.09,Lok_Sabha
+15,18691,Literate,1,11,2009,SHS,9.09,Lok_Sabha
+15,18691,Post Graduate,3,11,2009,SHS,27.27,Lok_Sabha
+15,7425,12th Pass,3,23,2009,SP,13.04,Lok_Sabha
+15,7425,5th Pass,1,23,2009,SP,4.35,Lok_Sabha
+15,7425,Graduate,7,23,2009,SP,30.43,Lok_Sabha
+15,7425,Graduate Professional,5,23,2009,SP,21.74,Lok_Sabha
+15,7425,Literate,1,23,2009,SP,4.35,Lok_Sabha
+15,7425,Post Graduate,6,23,2009,SP,26.09,Lok_Sabha
+15,12961,10th Pass,1,1,2009,SWP,100,Lok_Sabha
+15,8300,12th Pass,3,6,2009,TDP,50,Lok_Sabha
+15,8300,Graduate,1,6,2009,TDP,16.67,Lok_Sabha
+15,8300,Graduate Professional,2,6,2009,TDP,33.33,Lok_Sabha
+15,8284,10th Pass,1,2,2009,TRS,50,Lok_Sabha
+15,8284,Graduate,1,2,2009,TRS,50,Lok_Sabha
+15,8488,Post Graduate,1,1,2009,VCK,100,Lok_Sabha
+15,1605,10th Pass,1,16,2009,BJP,6.25,Madhya_Pradesh
+15,1605,12th Pass,2,16,2009,BJP,12.5,Madhya_Pradesh
+15,1605,5th Pass,1,16,2009,BJP,6.25,Madhya_Pradesh
+15,1605,Doctorate,1,16,2009,BJP,6.25,Madhya_Pradesh
+15,1605,Graduate,2,16,2009,BJP,12.5,Madhya_Pradesh
+15,1605,Graduate Professional,2,16,2009,BJP,12.5,Madhya_Pradesh
+15,1605,Post Graduate,4,16,2009,BJP,25,Madhya_Pradesh
+15,1605,Unknown,3,16,2009,BJP,18.75,Madhya_Pradesh
+15,16651,Post Graduate,1,1,2009,BSP,100,Madhya_Pradesh
+15,3482,12th Pass,1,12,2009,INC,8.33,Madhya_Pradesh
+15,3482,5th Pass,1,12,2009,INC,8.33,Madhya_Pradesh
+15,3482,8th Pass,1,12,2009,INC,8.33,Madhya_Pradesh
+15,3482,Graduate,2,12,2009,INC,16.67,Madhya_Pradesh
+15,3482,Graduate Professional,1,12,2009,INC,8.33,Madhya_Pradesh
+15,3482,Post Graduate,4,12,2009,INC,33.33,Madhya_Pradesh
+15,3482,Unknown,2,12,2009,INC,16.67,Madhya_Pradesh
+15,1605,10th Pass,2,9,2009,BJP,22.22,Maharashtra
+15,1605,12th Pass,1,9,2009,BJP,11.11,Maharashtra
+15,1605,Graduate,3,9,2009,BJP,33.33,Maharashtra
+15,1605,Graduate Professional,3,9,2009,BJP,33.33,Maharashtra
+15,9677,8th Pass,1,1,2009,BVA,100,Maharashtra
+15,3482,10th Pass,2,17,2009,INC,11.76,Maharashtra
+15,3482,5th Pass,1,17,2009,INC,5.88,Maharashtra
+15,3482,Doctorate,1,17,2009,INC,5.88,Maharashtra
+15,3482,Graduate,7,17,2009,INC,41.18,Maharashtra
+15,3482,Graduate Professional,3,17,2009,INC,17.65,Maharashtra
+15,3482,Others,1,17,2009,INC,5.88,Maharashtra
+15,3482,Post Graduate,2,17,2009,INC,11.76,Maharashtra
+15,10809,Graduate,1,1,2009,IND,100,Maharashtra
+15,5792,10th Pass,2,8,2009,NCP,25,Maharashtra
+15,5792,12th Pass,1,8,2009,NCP,12.5,Maharashtra
+15,5792,Graduate,2,8,2009,NCP,25,Maharashtra
+15,5792,Graduate Professional,1,8,2009,NCP,12.5,Maharashtra
+15,5792,Others,1,8,2009,NCP,12.5,Maharashtra
+15,5792,Unknown,1,8,2009,NCP,12.5,Maharashtra
+15,18691,10th Pass,2,11,2009,SHS,18.18,Maharashtra
+15,18691,12th Pass,1,11,2009,SHS,9.09,Maharashtra
+15,18691,Graduate,3,11,2009,SHS,27.27,Maharashtra
+15,18691,Graduate Professional,1,11,2009,SHS,9.09,Maharashtra
+15,18691,Literate,1,11,2009,SHS,9.09,Maharashtra
+15,18691,Post Graduate,3,11,2009,SHS,27.27,Maharashtra
+15,12961,10th Pass,1,1,2009,SWP,100,Maharashtra
+15,3482,Doctorate,1,2,2009,INC,50,Manipur
+15,3482,Post Graduate,1,2,2009,INC,50,Manipur
+15,3482,Graduate Professional,1,1,2009,INC,100,Meghalaya
+15,5792,Post Graduate,1,1,2009,NCP,100,Meghalaya
+15,3482,Graduate Professional,1,1,2009,INC,100,Mizoram
+15,5552,Unknown,1,1,2009,NPF,100,Nagaland
+15,9079,10th Pass,1,14,2009,BJD,7.14,Odisha
+15,9079,12th Pass,1,14,2009,BJD,7.14,Odisha
+15,9079,Graduate,5,14,2009,BJD,35.71,Odisha
+15,9079,Graduate Professional,1,14,2009,BJD,7.14,Odisha
+15,9079,Post Graduate,6,14,2009,BJD,42.86,Odisha
+15,2444,Post Graduate,1,1,2009,CPI,100,Odisha
+15,3482,12th Pass,1,6,2009,INC,16.67,Odisha
+15,3482,Graduate,4,6,2009,INC,66.67,Odisha
+15,3482,Graduate Professional,1,6,2009,INC,16.67,Odisha
+15,3482,Post Graduate,1,1,2009,INC,100,Puducherry
+15,1605,Graduate,1,1,2009,BJP,100,Punjab
+15,3482,10th Pass,1,8,2009,INC,12.5,Punjab
+15,3482,12th Pass,2,8,2009,INC,25,Punjab
+15,3482,Graduate,2,8,2009,INC,25,Punjab
+15,3482,Graduate Professional,3,8,2009,INC,37.5,Punjab
+15,16994,10th Pass,2,4,2009,SAD,50,Punjab
+15,16994,Graduate Professional,1,4,2009,SAD,25,Punjab
+15,16994,Post Graduate,1,4,2009,SAD,25,Punjab
+15,1605,10th Pass,1,4,2009,BJP,25,Rajasthan
+15,1605,Graduate Professional,1,4,2009,BJP,25,Rajasthan
+15,1605,Post Graduate,2,4,2009,BJP,50,Rajasthan
+15,3482,10th Pass,1,20,2009,INC,5,Rajasthan
+15,3482,12th Pass,1,20,2009,INC,5,Rajasthan
+15,3482,Doctorate,3,20,2009,INC,15,Rajasthan
+15,3482,Graduate,4,20,2009,INC,20,Rajasthan
+15,3482,Graduate Professional,4,20,2009,INC,20,Rajasthan
+15,3482,Literate,1,20,2009,INC,5,Rajasthan
+15,3482,Post Graduate,4,20,2009,INC,20,Rajasthan
+15,3482,Unknown,2,20,2009,INC,10,Rajasthan
+15,10809,Unknown,1,1,2009,IND,100,Rajasthan
+15,7925,Post Graduate,1,1,2009,SDF,100,Sikkim
+15,930,12th Pass,2,9,2009,ADMK,22.22,Tamil_Nadu
+15,930,Doctorate,1,9,2009,ADMK,11.11,Tamil_Nadu
+15,930,Graduate,1,9,2009,ADMK,11.11,Tamil_Nadu
+15,930,Graduate Professional,4,9,2009,ADMK,44.44,Tamil_Nadu
+15,930,Post Graduate,1,9,2009,ADMK,11.11,Tamil_Nadu
+15,2444,Graduate,1,1,2009,CPI,100,Tamil_Nadu
+15,14635,Graduate,1,1,2009,CPM,100,Tamil_Nadu
+15,10192,10th Pass,1,18,2009,DMK,5.56,Tamil_Nadu
+15,10192,12th Pass,2,18,2009,DMK,11.11,Tamil_Nadu
+15,10192,Graduate,6,18,2009,DMK,33.33,Tamil_Nadu
+15,10192,Graduate Professional,4,18,2009,DMK,22.22,Tamil_Nadu
+15,10192,Others,1,18,2009,DMK,5.56,Tamil_Nadu
+15,10192,Post Graduate,2,18,2009,DMK,11.11,Tamil_Nadu
+15,10192,Unknown,2,18,2009,DMK,11.11,Tamil_Nadu
+15,3482,12th Pass,1,8,2009,INC,12.5,Tamil_Nadu
+15,3482,Graduate,3,8,2009,INC,37.5,Tamil_Nadu
+15,3482,Graduate Professional,2,8,2009,INC,25,Tamil_Nadu
+15,3482,Post Graduate,2,8,2009,INC,25,Tamil_Nadu
+15,11601,Graduate,1,1,2009,MDMK,100,Tamil_Nadu
+15,8488,Post Graduate,1,1,2009,VCK,100,Tamil_Nadu
+15,14635,Graduate,1,2,2009,CPM,50,Tripura
+15,14635,Post Graduate,1,2,2009,CPM,50,Tripura
+15,1605,10th Pass,1,10,2009,BJP,10,Uttar_Pradesh
+15,1605,12th Pass,1,10,2009,BJP,10,Uttar_Pradesh
+15,1605,Doctorate,2,10,2009,BJP,20,Uttar_Pradesh
+15,1605,Graduate,3,10,2009,BJP,30,Uttar_Pradesh
+15,1605,Post Graduate,2,10,2009,BJP,20,Uttar_Pradesh
+15,1605,Unknown,1,10,2009,BJP,10,Uttar_Pradesh
+15,16651,10th Pass,3,20,2009,BSP,15,Uttar_Pradesh
+15,16651,12th Pass,3,20,2009,BSP,15,Uttar_Pradesh
+15,16651,8th Pass,2,20,2009,BSP,10,Uttar_Pradesh
+15,16651,Doctorate,1,20,2009,BSP,5,Uttar_Pradesh
+15,16651,Graduate,5,20,2009,BSP,25,Uttar_Pradesh
+15,16651,Graduate Professional,2,20,2009,BSP,10,Uttar_Pradesh
+15,16651,Literate,1,20,2009,BSP,5,Uttar_Pradesh
+15,16651,Post Graduate,3,20,2009,BSP,15,Uttar_Pradesh
+15,3482,12th Pass,1,21,2009,INC,4.76,Uttar_Pradesh
+15,3482,Doctorate,4,21,2009,INC,19.05,Uttar_Pradesh
+15,3482,Graduate,5,21,2009,INC,23.81,Uttar_Pradesh
+15,3482,Graduate Professional,4,21,2009,INC,19.05,Uttar_Pradesh
+15,3482,Others,1,21,2009,INC,4.76,Uttar_Pradesh
+15,3482,Post Graduate,5,21,2009,INC,23.81,Uttar_Pradesh
+15,3482,Unknown,1,21,2009,INC,4.76,Uttar_Pradesh
+15,10809,Illiterate,1,1,2009,IND,100,Uttar_Pradesh
+15,12169,Graduate,1,5,2009,RLD,20,Uttar_Pradesh
+15,12169,Graduate Professional,1,5,2009,RLD,20,Uttar_Pradesh
+15,12169,Post Graduate,3,5,2009,RLD,60,Uttar_Pradesh
+15,7425,12th Pass,3,23,2009,SP,13.04,Uttar_Pradesh
+15,7425,5th Pass,1,23,2009,SP,4.35,Uttar_Pradesh
+15,7425,Graduate,7,23,2009,SP,30.43,Uttar_Pradesh
+15,7425,Graduate Professional,5,23,2009,SP,21.74,Uttar_Pradesh
+15,7425,Literate,1,23,2009,SP,4.35,Uttar_Pradesh
+15,7425,Post Graduate,6,23,2009,SP,26.09,Uttar_Pradesh
+15,3482,12th Pass,2,5,2009,INC,40,Uttarakhand
+15,3482,Graduate Professional,2,5,2009,INC,40,Uttarakhand
+15,3482,Post Graduate,1,5,2009,INC,20,Uttarakhand
+15,3040,Graduate,1,2,2009,AIFB,50,West_Bengal
+15,3040,Post Graduate,1,2,2009,AIFB,50,West_Bengal
+15,18228,12th Pass,3,19,2009,AITC,15.79,West_Bengal
+15,18228,Graduate,5,19,2009,AITC,26.32,West_Bengal
+15,18228,Graduate Professional,5,19,2009,AITC,26.32,West_Bengal
+15,18228,Post Graduate,6,19,2009,AITC,31.58,West_Bengal
+15,1605,Graduate,1,1,2009,BJP,100,West_Bengal
+15,2444,Graduate,1,2,2009,CPI,50,West_Bengal
+15,2444,Post Graduate,1,2,2009,CPI,50,West_Bengal
+15,14635,Graduate,1,9,2009,CPM,11.11,West_Bengal
+15,14635,Graduate Professional,4,9,2009,CPM,44.44,West_Bengal
+15,14635,Post Graduate,4,9,2009,CPM,44.44,West_Bengal
+15,3482,10th Pass,1,6,2009,INC,16.67,West_Bengal
+15,3482,Doctorate,2,6,2009,INC,33.33,West_Bengal
+15,3482,Graduate,1,6,2009,INC,16.67,West_Bengal
+15,3482,Graduate Professional,1,6,2009,INC,16.67,West_Bengal
+15,3482,Post Graduate,1,6,2009,INC,16.67,West_Bengal
+15,10809,Graduate Professional,1,1,2009,IND,100,West_Bengal
+15,12053,10th Pass,1,2,2009,RSP,50,West_Bengal
+15,12053,Post Graduate,1,2,2009,RSP,50,West_Bengal
+14,3482,Post Graduate,1,1,2004,INC,100,Andaman_&_Nicobar_Islands
+14,706,Graduate Professional,1,1,2004,AIMIM,100,Andhra_Pradesh
+14,2444,Graduate Professional,1,1,2004,CPI,100,Andhra_Pradesh
+14,14635,Graduate Professional,1,1,2004,CPM,100,Andhra_Pradesh
+14,3482,10th Pass,1,29,2004,INC,3.45,Andhra_Pradesh
+14,3482,12th Pass,3,29,2004,INC,10.34,Andhra_Pradesh
+14,3482,Graduate,6,29,2004,INC,20.69,Andhra_Pradesh
+14,3482,Graduate Professional,6,29,2004,INC,20.69,Andhra_Pradesh
+14,3482,Others,1,29,2004,INC,3.45,Andhra_Pradesh
+14,3482,Post Graduate,6,29,2004,INC,20.69,Andhra_Pradesh
+14,3482,Unknown,6,29,2004,INC,20.69,Andhra_Pradesh
+14,8300,Graduate,1,5,2004,TDP,20,Andhra_Pradesh
+14,8300,Post Graduate,1,5,2004,TDP,20,Andhra_Pradesh
+14,8300,Unknown,3,5,2004,TDP,60,Andhra_Pradesh
+14,8284,Graduate,3,5,2004,TRS,60,Andhra_Pradesh
+14,8284,Graduate Professional,1,5,2004,TRS,20,Andhra_Pradesh
+14,8284,Unknown,1,5,2004,TRS,20,Andhra_Pradesh
+14,1605,Graduate,1,2,2004,BJP,50,Arunachal_Pradesh
+14,1605,Post Graduate,1,2,2004,BJP,50,Arunachal_Pradesh
+14,978,Graduate Professional,1,2,2004,AGP,50,Assam
+14,978,Unknown,1,2,2004,AGP,50,Assam
+14,1605,Graduate,1,2,2004,BJP,50,Assam
+14,1605,Graduate Professional,1,2,2004,BJP,50,Assam
+14,3482,8th Pass,1,9,2004,INC,11.11,Assam
+14,3482,Graduate,2,9,2004,INC,22.22,Assam
+14,3482,Graduate Professional,2,9,2004,INC,22.22,Assam
+14,3482,Post Graduate,4,9,2004,INC,44.44,Assam
+14,10809,Graduate,1,1,2004,IND,100,Assam
+14,1605,10th Pass,1,5,2004,BJP,20,Bihar
+14,1605,12th Pass,2,5,2004,BJP,40,Bihar
+14,1605,Graduate,1,5,2004,BJP,20,Bihar
+14,1605,Post Graduate,1,5,2004,BJP,20,Bihar
+14,3482,Graduate Professional,1,3,2004,INC,33.33,Bihar
+14,3482,Post Graduate,2,3,2004,INC,66.67,Bihar
+14,11002,12th Pass,1,6,2004,JD(U),16.67,Bihar
+14,11002,Graduate,2,6,2004,JD(U),33.33,Bihar
+14,11002,Others,1,6,2004,JD(U),16.67,Bihar
+14,11002,Post Graduate,1,6,2004,JD(U),16.67,Bihar
+14,11002,Unknown,1,6,2004,JD(U),16.67,Bihar
+14,5029,10th Pass,1,4,2004,LJNSP,25,Bihar
+14,5029,12th Pass,1,4,2004,LJNSP,25,Bihar
+14,5029,Literate,1,4,2004,LJNSP,25,Bihar
+14,5029,Post Graduate,1,4,2004,LJNSP,25,Bihar
+14,12103,12th Pass,1,22,2004,RJD,4.55,Bihar
+14,12103,8th Pass,1,22,2004,RJD,4.55,Bihar
+14,12103,Doctorate,2,22,2004,RJD,9.09,Bihar
+14,12103,Graduate,5,22,2004,RJD,22.73,Bihar
+14,12103,Graduate Professional,5,22,2004,RJD,22.73,Bihar
+14,12103,Literate,1,22,2004,RJD,4.55,Bihar
+14,12103,Post Graduate,7,22,2004,RJD,31.82,Bihar
+14,3482,Graduate Professional,1,1,2004,INC,100,Chandigarh
+14,1605,12th Pass,3,10,2004,BJP,30,Chhattisgarh
+14,1605,8th Pass,1,10,2004,BJP,10,Chhattisgarh
+14,1605,Graduate,1,10,2004,BJP,10,Chhattisgarh
+14,1605,Graduate Professional,1,10,2004,BJP,10,Chhattisgarh
+14,1605,Post Graduate,3,10,2004,BJP,30,Chhattisgarh
+14,1605,Unknown,1,10,2004,BJP,10,Chhattisgarh
+14,3482,Graduate Professional,1,1,2004,INC,100,Chhattisgarh
+14,1748,12th Pass,1,1,2004,BNP,100,Dadra_&_Nagar_Haveli
+14,3482,12th Pass,1,1,2004,INC,100,Daman_&_Diu
+14,1605,Doctorate,1,1,2004,BJP,100,Delhi
+14,3482,Graduate Professional,1,6,2004,INC,16.67,Delhi
+14,3482,Literate,1,6,2004,INC,16.67,Delhi
+14,3482,Post Graduate,3,6,2004,INC,50,Delhi
+14,3482,Unknown,1,6,2004,INC,16.67,Delhi
+14,1605,Graduate,1,1,2004,BJP,100,Goa
+14,3482,12th Pass,1,1,2004,INC,100,Goa
+14,1605,8th Pass,1,14,2004,BJP,7.14,Gujarat
+14,1605,Graduate,1,14,2004,BJP,7.14,Gujarat
+14,1605,Graduate Professional,7,14,2004,BJP,50,Gujarat
+14,1605,Literate,1,14,2004,BJP,7.14,Gujarat
+14,1605,Post Graduate,2,14,2004,BJP,14.29,Gujarat
+14,1605,Unknown,2,14,2004,BJP,14.29,Gujarat
+14,3482,10th Pass,4,12,2004,INC,33.33,Gujarat
+14,3482,Graduate,3,12,2004,INC,25,Gujarat
+14,3482,Graduate Professional,2,12,2004,INC,16.67,Gujarat
+14,3482,Post Graduate,3,12,2004,INC,25,Gujarat
+14,1605,Post Graduate,1,1,2004,BJP,100,Haryana
+14,3482,12th Pass,1,9,2004,INC,11.11,Haryana
+14,3482,5th Pass,1,9,2004,INC,11.11,Haryana
+14,3482,8th Pass,1,9,2004,INC,11.11,Haryana
+14,3482,Graduate,1,9,2004,INC,11.11,Haryana
+14,3482,Graduate Professional,2,9,2004,INC,22.22,Haryana
+14,3482,Post Graduate,3,9,2004,INC,33.33,Haryana
+14,1605,Post Graduate,1,1,2004,BJP,100,Himachal_Pradesh
+14,3482,Doctorate,1,3,2004,INC,33.33,Himachal_Pradesh
+14,3482,Graduate,1,3,2004,INC,33.33,Himachal_Pradesh
+14,3482,Post Graduate,1,3,2004,INC,33.33,Himachal_Pradesh
+14,3482,10th Pass,1,2,2004,INC,50,Jammu_&_Kashmir
+14,3482,Graduate,1,2,2004,INC,50,Jammu_&_Kashmir
+14,10809,Graduate Professional,1,1,2004,IND,100,Jammu_&_Kashmir
+14,11089,Graduate,1,2,2004,JKN,50,Jammu_&_Kashmir
+14,11089,Post Graduate,1,2,2004,JKN,50,Jammu_&_Kashmir
+14,11133,Graduate Professional,1,1,2004,JKPDP,100,Jammu_&_Kashmir
+14,1605,Graduate,1,1,2004,BJP,100,Jharkhand
+14,2444,12th Pass,1,1,2004,CPI,100,Jharkhand
+14,3482,10th Pass,2,6,2004,INC,33.33,Jharkhand
+14,3482,Doctorate,1,6,2004,INC,16.67,Jharkhand
+14,3482,Graduate,2,6,2004,INC,33.33,Jharkhand
+14,3482,Post Graduate,1,6,2004,INC,16.67,Jharkhand
+14,4653,10th Pass,1,4,2004,JMM,25,Jharkhand
+14,4653,Graduate,2,4,2004,JMM,50,Jharkhand
+14,4653,Unknown,1,4,2004,JMM,25,Jharkhand
+14,12103,Doctorate,1,2,2004,RJD,50,Jharkhand
+14,12103,Graduate,1,2,2004,RJD,50,Jharkhand
+14,1605,10th Pass,2,18,2004,BJP,11.11,Karnataka
+14,1605,12th Pass,1,18,2004,BJP,5.56,Karnataka
+14,1605,Graduate,7,18,2004,BJP,38.89,Karnataka
+14,1605,Graduate Professional,4,18,2004,BJP,22.22,Karnataka
+14,1605,Literate,1,18,2004,BJP,5.56,Karnataka
+14,1605,Post Graduate,2,18,2004,BJP,11.11,Karnataka
+14,1605,Unknown,1,18,2004,BJP,5.56,Karnataka
+14,3482,10th Pass,1,8,2004,INC,12.5,Karnataka
+14,3482,12th Pass,1,8,2004,INC,12.5,Karnataka
+14,3482,Graduate,2,8,2004,INC,25,Karnataka
+14,3482,Graduate Professional,1,8,2004,INC,12.5,Karnataka
+14,3482,Post Graduate,2,8,2004,INC,25,Karnataka
+14,3482,Unknown,1,8,2004,INC,12.5,Karnataka
+14,10979,Graduate,1,2,2004,JD(S),50,Karnataka
+14,10979,Others,1,2,2004,JD(S),50,Karnataka
+14,2444,Graduate,2,3,2004,CPI,66.67,Kerala
+14,2444,Unknown,1,3,2004,CPI,33.33,Kerala
+14,14635,12th Pass,1,12,2004,CPM,8.33,Kerala
+14,14635,Doctorate,1,12,2004,CPM,8.33,Kerala
+14,14635,Graduate,1,12,2004,CPM,8.33,Kerala
+14,14635,Graduate Professional,5,12,2004,CPM,41.67,Kerala
+14,14635,Others,1,12,2004,CPM,8.33,Kerala
+14,14635,Post Graduate,2,12,2004,CPM,16.67,Kerala
+14,14635,Unknown,1,12,2004,CPM,8.33,Kerala
+14,3420,Graduate Professional,1,1,2004,IFDP,100,Kerala
+14,10809,Doctorate,1,1,2004,IND,100,Kerala
+14,10979,Post Graduate,1,1,2004,JD(S),100,Kerala
+14,4807,Graduate Professional,1,1,2004,KEC,100,Kerala
+14,5501,Unknown,1,1,2004,MUL,100,Kerala
+14,11002,Graduate Professional,1,1,2004,JD(U),100,Lakshadweep
+14,978,Graduate Professional,1,2,2004,AGP,50,Lok_Sabha
+14,978,Unknown,1,2,2004,AGP,50,Lok_Sabha
+14,3040,12th Pass,1,3,2004,AIFB,33.33,Lok_Sabha
+14,3040,Graduate,1,3,2004,AIFB,33.33,Lok_Sabha
+14,3040,Post Graduate,1,3,2004,AIFB,33.33,Lok_Sabha
+14,706,Graduate Professional,1,1,2004,AIMIM,100,Lok_Sabha
+14,18228,Post Graduate,2,2,2004,AITC,100,Lok_Sabha
+14,9079,12th Pass,1,11,2004,BJD,9.09,Lok_Sabha
+14,9079,Graduate,1,11,2004,BJD,9.09,Lok_Sabha
+14,9079,Graduate Professional,1,11,2004,BJD,9.09,Lok_Sabha
+14,9079,Others,1,11,2004,BJD,9.09,Lok_Sabha
+14,9079,Post Graduate,6,11,2004,BJD,54.55,Lok_Sabha
+14,9079,Unknown,1,11,2004,BJD,9.09,Lok_Sabha
+14,1605,10th Pass,8,138,2004,BJP,5.8,Lok_Sabha
+14,1605,12th Pass,16,138,2004,BJP,11.59,Lok_Sabha
+14,1605,8th Pass,4,138,2004,BJP,2.9,Lok_Sabha
+14,1605,Doctorate,3,138,2004,BJP,2.17,Lok_Sabha
+14,1605,Graduate,33,138,2004,BJP,23.91,Lok_Sabha
+14,1605,Graduate Professional,28,138,2004,BJP,20.29,Lok_Sabha
+14,1605,Literate,2,138,2004,BJP,1.45,Lok_Sabha
+14,1605,Others,1,138,2004,BJP,0.72,Lok_Sabha
+14,1605,Post Graduate,34,138,2004,BJP,24.64,Lok_Sabha
+14,1605,Unknown,9,138,2004,BJP,6.52,Lok_Sabha
+14,1748,12th Pass,1,1,2004,BNP,100,Lok_Sabha
+14,16651,10th Pass,2,19,2004,BSP,10.53,Lok_Sabha
+14,16651,12th Pass,3,19,2004,BSP,15.79,Lok_Sabha
+14,16651,5th Pass,1,19,2004,BSP,5.26,Lok_Sabha
+14,16651,Graduate,6,19,2004,BSP,31.58,Lok_Sabha
+14,16651,Graduate Professional,3,19,2004,BSP,15.79,Lok_Sabha
+14,16651,Literate,1,19,2004,BSP,5.26,Lok_Sabha
+14,16651,Post Graduate,3,19,2004,BSP,15.79,Lok_Sabha
+14,2444,12th Pass,1,10,2004,CPI,10,Lok_Sabha
+14,2444,Graduate,4,10,2004,CPI,40,Lok_Sabha
+14,2444,Graduate Professional,2,10,2004,CPI,20,Lok_Sabha
+14,2444,Post Graduate,1,10,2004,CPI,10,Lok_Sabha
+14,2444,Unknown,2,10,2004,CPI,20,Lok_Sabha
+14,14635,10th Pass,1,43,2004,CPM,2.33,Lok_Sabha
+14,14635,12th Pass,4,43,2004,CPM,9.3,Lok_Sabha
+14,14635,Doctorate,3,43,2004,CPM,6.98,Lok_Sabha
+14,14635,Graduate,6,43,2004,CPM,13.95,Lok_Sabha
+14,14635,Graduate Professional,9,43,2004,CPM,20.93,Lok_Sabha
+14,14635,Literate,1,43,2004,CPM,2.33,Lok_Sabha
+14,14635,Others,1,43,2004,CPM,2.33,Lok_Sabha
+14,14635,Post Graduate,14,43,2004,CPM,32.56,Lok_Sabha
+14,14635,Unknown,4,43,2004,CPM,9.3,Lok_Sabha
+14,10192,12th Pass,2,16,2004,DMK,12.5,Lok_Sabha
+14,10192,5th Pass,1,16,2004,DMK,6.25,Lok_Sabha
+14,10192,8th Pass,1,16,2004,DMK,6.25,Lok_Sabha
+14,10192,Graduate,2,16,2004,DMK,12.5,Lok_Sabha
+14,10192,Graduate Professional,6,16,2004,DMK,37.5,Lok_Sabha
+14,10192,Others,1,16,2004,DMK,6.25,Lok_Sabha
+14,10192,Post Graduate,2,16,2004,DMK,12.5,Lok_Sabha
+14,10192,Unknown,1,16,2004,DMK,6.25,Lok_Sabha
+14,3420,Graduate Professional,1,1,2004,IFDP,100,Lok_Sabha
+14,3482,10th Pass,17,145,2004,INC,11.72,Lok_Sabha
+14,3482,12th Pass,9,145,2004,INC,6.21,Lok_Sabha
+14,3482,5th Pass,2,145,2004,INC,1.38,Lok_Sabha
+14,3482,8th Pass,3,145,2004,INC,2.07,Lok_Sabha
+14,3482,Doctorate,4,145,2004,INC,2.76,Lok_Sabha
+14,3482,Graduate,32,145,2004,INC,22.07,Lok_Sabha
+14,3482,Graduate Professional,20,145,2004,INC,13.79,Lok_Sabha
+14,3482,Literate,1,145,2004,INC,0.69,Lok_Sabha
+14,3482,Others,2,145,2004,INC,1.38,Lok_Sabha
+14,3482,Post Graduate,42,145,2004,INC,28.97,Lok_Sabha
+14,3482,Unknown,13,145,2004,INC,8.97,Lok_Sabha
+14,10809,10th Pass,1,5,2004,IND,20,Lok_Sabha
+14,10809,Doctorate,1,5,2004,IND,20,Lok_Sabha
+14,10809,Graduate,2,5,2004,IND,40,Lok_Sabha
+14,10809,Graduate Professional,1,5,2004,IND,20,Lok_Sabha
+14,10979,Graduate,1,3,2004,JD(S),33.33,Lok_Sabha
+14,10979,Others,1,3,2004,JD(S),33.33,Lok_Sabha
+14,10979,Post Graduate,1,3,2004,JD(S),33.33,Lok_Sabha
+14,11002,12th Pass,1,8,2004,JD(U),12.5,Lok_Sabha
+14,11002,Graduate,2,8,2004,JD(U),25,Lok_Sabha
+14,11002,Graduate Professional,2,8,2004,JD(U),25,Lok_Sabha
+14,11002,Others,1,8,2004,JD(U),12.5,Lok_Sabha
+14,11002,Post Graduate,1,8,2004,JD(U),12.5,Lok_Sabha
+14,11002,Unknown,1,8,2004,JD(U),12.5,Lok_Sabha
+14,11089,Graduate,1,2,2004,JKN,50,Lok_Sabha
+14,11089,Post Graduate,1,2,2004,JKN,50,Lok_Sabha
+14,11133,Graduate Professional,1,1,2004,JKPDP,100,Lok_Sabha
+14,4653,10th Pass,1,5,2004,JMM,20,Lok_Sabha
+14,4653,12th Pass,1,5,2004,JMM,20,Lok_Sabha
+14,4653,Graduate,2,5,2004,JMM,40,Lok_Sabha
+14,4653,Unknown,1,5,2004,JMM,20,Lok_Sabha
+14,4807,Graduate Professional,1,1,2004,KEC,100,Lok_Sabha
+14,5029,10th Pass,1,4,2004,LJNSP,25,Lok_Sabha
+14,5029,12th Pass,1,4,2004,LJNSP,25,Lok_Sabha
+14,5029,Literate,1,4,2004,LJNSP,25,Lok_Sabha
+14,5029,Post Graduate,1,4,2004,LJNSP,25,Lok_Sabha
+14,11601,Graduate,1,4,2004,MDMK,25,Lok_Sabha
+14,11601,Graduate Professional,2,4,2004,MDMK,50,Lok_Sabha
+14,11601,Unknown,1,4,2004,MDMK,25,Lok_Sabha
+14,5430,Post Graduate,1,1,2004,MNF,100,Lok_Sabha
+14,5501,Unknown,1,1,2004,MUL,100,Lok_Sabha
+14,5792,10th Pass,3,9,2004,NCP,33.33,Lok_Sabha
+14,5792,Graduate,4,9,2004,NCP,44.44,Lok_Sabha
+14,5792,Post Graduate,1,9,2004,NCP,11.11,Lok_Sabha
+14,5792,Unknown,1,9,2004,NCP,11.11,Lok_Sabha
+14,5631,Graduate,1,1,2004,NLP,100,Lok_Sabha
+14,5552,Post Graduate,1,1,2004,NPF,100,Lok_Sabha
+14,11891,Doctorate,2,6,2004,PMK,33.33,Lok_Sabha
+14,11891,Post Graduate,3,6,2004,PMK,50,Lok_Sabha
+14,11891,Unknown,1,6,2004,PMK,16.67,Lok_Sabha
+14,12103,12th Pass,1,24,2004,RJD,4.17,Lok_Sabha
+14,12103,8th Pass,1,24,2004,RJD,4.17,Lok_Sabha
+14,12103,Doctorate,3,24,2004,RJD,12.5,Lok_Sabha
+14,12103,Graduate,6,24,2004,RJD,25,Lok_Sabha
+14,12103,Graduate Professional,5,24,2004,RJD,20.83,Lok_Sabha
+14,12103,Literate,1,24,2004,RJD,4.17,Lok_Sabha
+14,12103,Post Graduate,7,24,2004,RJD,29.17,Lok_Sabha
+14,12169,Graduate,1,3,2004,RLD,33.33,Lok_Sabha
+14,12169,Others,1,3,2004,RLD,33.33,Lok_Sabha
+14,12169,Post Graduate,1,3,2004,RLD,33.33,Lok_Sabha
+14,12285,Graduate,1,1,2004,RPI(A),100,Lok_Sabha
+14,12053,10th Pass,1,3,2004,RSP,33.33,Lok_Sabha
+14,12053,Graduate,1,3,2004,RSP,33.33,Lok_Sabha
+14,12053,Graduate Professional,1,3,2004,RSP,33.33,Lok_Sabha
+14,16994,10th Pass,2,8,2004,SAD,25,Lok_Sabha
+14,16994,Graduate,1,8,2004,SAD,12.5,Lok_Sabha
+14,16994,Graduate Professional,3,8,2004,SAD,37.5,Lok_Sabha
+14,16994,Post Graduate,2,8,2004,SAD,25,Lok_Sabha
+14,7925,Graduate,1,1,2004,SDF,100,Lok_Sabha
+14,18691,10th Pass,2,12,2004,SHS,16.67,Lok_Sabha
+14,18691,12th Pass,1,12,2004,SHS,8.33,Lok_Sabha
+14,18691,Doctorate,1,12,2004,SHS,8.33,Lok_Sabha
+14,18691,Graduate,5,12,2004,SHS,41.67,Lok_Sabha
+14,18691,Graduate Professional,1,12,2004,SHS,8.33,Lok_Sabha
+14,18691,Post Graduate,2,12,2004,SHS,16.67,Lok_Sabha
+14,7408,Post Graduate,1,1,2004,SJP(R),100,Lok_Sabha
+14,7425,10th Pass,2,36,2004,SP,5.56,Lok_Sabha
+14,7425,12th Pass,3,36,2004,SP,8.33,Lok_Sabha
+14,7425,8th Pass,2,36,2004,SP,5.56,Lok_Sabha
+14,7425,Doctorate,2,36,2004,SP,5.56,Lok_Sabha
+14,7425,Graduate,7,36,2004,SP,19.44,Lok_Sabha
+14,7425,Graduate Professional,5,36,2004,SP,13.89,Lok_Sabha
+14,7425,Literate,1,36,2004,SP,2.78,Lok_Sabha
+14,7425,Post Graduate,12,36,2004,SP,33.33,Lok_Sabha
+14,7425,Unknown,2,36,2004,SP,5.56,Lok_Sabha
+14,8300,Graduate,1,5,2004,TDP,20,Lok_Sabha
+14,8300,Post Graduate,1,5,2004,TDP,20,Lok_Sabha
+14,8300,Unknown,3,5,2004,TDP,60,Lok_Sabha
+14,8284,Graduate,3,5,2004,TRS,60,Lok_Sabha
+14,8284,Graduate Professional,1,5,2004,TRS,20,Lok_Sabha
+14,8284,Unknown,1,5,2004,TRS,20,Lok_Sabha
+14,1605,10th Pass,1,25,2004,BJP,4,Madhya_Pradesh
+14,1605,12th Pass,2,25,2004,BJP,8,Madhya_Pradesh
+14,1605,8th Pass,1,25,2004,BJP,4,Madhya_Pradesh
+14,1605,Doctorate,2,25,2004,BJP,8,Madhya_Pradesh
+14,1605,Graduate,7,25,2004,BJP,28,Madhya_Pradesh
+14,1605,Graduate Professional,3,25,2004,BJP,12,Madhya_Pradesh
+14,1605,Post Graduate,9,25,2004,BJP,36,Madhya_Pradesh
+14,3482,5th Pass,1,4,2004,INC,25,Madhya_Pradesh
+14,3482,Graduate,1,4,2004,INC,25,Madhya_Pradesh
+14,3482,Post Graduate,2,4,2004,INC,50,Madhya_Pradesh
+14,1605,10th Pass,3,13,2004,BJP,23.08,Maharashtra
+14,1605,12th Pass,1,13,2004,BJP,7.69,Maharashtra
+14,1605,Graduate,3,13,2004,BJP,23.08,Maharashtra
+14,1605,Graduate Professional,2,13,2004,BJP,15.38,Maharashtra
+14,1605,Post Graduate,3,13,2004,BJP,23.08,Maharashtra
+14,1605,Unknown,1,13,2004,BJP,7.69,Maharashtra
+14,3482,10th Pass,3,13,2004,INC,23.08,Maharashtra
+14,3482,Graduate,6,13,2004,INC,46.15,Maharashtra
+14,3482,Graduate Professional,2,13,2004,INC,15.38,Maharashtra
+14,3482,Unknown,2,13,2004,INC,15.38,Maharashtra
+14,5792,10th Pass,3,9,2004,NCP,33.33,Maharashtra
+14,5792,Graduate,4,9,2004,NCP,44.44,Maharashtra
+14,5792,Post Graduate,1,9,2004,NCP,11.11,Maharashtra
+14,5792,Unknown,1,9,2004,NCP,11.11,Maharashtra
+14,12285,Graduate,1,1,2004,RPI(A),100,Maharashtra
+14,18691,10th Pass,2,12,2004,SHS,16.67,Maharashtra
+14,18691,12th Pass,1,12,2004,SHS,8.33,Maharashtra
+14,18691,Doctorate,1,12,2004,SHS,8.33,Maharashtra
+14,18691,Graduate,5,12,2004,SHS,41.67,Maharashtra
+14,18691,Graduate Professional,1,12,2004,SHS,8.33,Maharashtra
+14,18691,Post Graduate,2,12,2004,SHS,16.67,Maharashtra
+14,3482,Doctorate,1,1,2004,INC,100,Manipur
+14,10809,Graduate,1,1,2004,IND,100,Manipur
+14,18228,Post Graduate,1,1,2004,AITC,100,Meghalaya
+14,3482,Graduate,1,1,2004,INC,100,Meghalaya
+14,5430,Post Graduate,1,1,2004,MNF,100,Mizoram
+14,5552,Post Graduate,1,1,2004,NPF,100,Nagaland
+14,9079,12th Pass,1,11,2004,BJD,9.09,Odisha
+14,9079,Graduate,1,11,2004,BJD,9.09,Odisha
+14,9079,Graduate Professional,1,11,2004,BJD,9.09,Odisha
+14,9079,Others,1,11,2004,BJD,9.09,Odisha
+14,9079,Post Graduate,6,11,2004,BJD,54.55,Odisha
+14,9079,Unknown,1,11,2004,BJD,9.09,Odisha
+14,1605,10th Pass,1,7,2004,BJP,14.29,Odisha
+14,1605,12th Pass,1,7,2004,BJP,14.29,Odisha
+14,1605,Graduate,3,7,2004,BJP,42.86,Odisha
+14,1605,Post Graduate,2,7,2004,BJP,28.57,Odisha
+14,3482,Graduate,1,2,2004,INC,50,Odisha
+14,3482,Graduate Professional,1,2,2004,INC,50,Odisha
+14,4653,12th Pass,1,1,2004,JMM,100,Odisha
+14,11891,Doctorate,1,1,2004,PMK,100,Puducherry
+14,1605,Graduate,2,3,2004,BJP,66.67,Punjab
+14,1605,Graduate Professional,1,3,2004,BJP,33.33,Punjab
+14,3482,10th Pass,1,2,2004,INC,50,Punjab
+14,3482,Graduate,1,2,2004,INC,50,Punjab
+14,16994,10th Pass,2,8,2004,SAD,25,Punjab
+14,16994,Graduate,1,8,2004,SAD,12.5,Punjab
+14,16994,Graduate Professional,3,8,2004,SAD,37.5,Punjab
+14,16994,Post Graduate,2,8,2004,SAD,25,Punjab
+14,1605,12th Pass,3,21,2004,BJP,14.29,Rajasthan
+14,1605,8th Pass,1,21,2004,BJP,4.76,Rajasthan
+14,1605,Graduate,3,21,2004,BJP,14.29,Rajasthan
+14,1605,Graduate Professional,6,21,2004,BJP,28.57,Rajasthan
+14,1605,Post Graduate,6,21,2004,BJP,28.57,Rajasthan
+14,1605,Unknown,2,21,2004,BJP,9.52,Rajasthan
+14,3482,10th Pass,1,4,2004,INC,25,Rajasthan
+14,3482,Post Graduate,3,4,2004,INC,75,Rajasthan
+14,7925,Graduate,1,1,2004,SDF,100,Sikkim
+14,2444,Graduate,1,2,2004,CPI,50,Tamil_Nadu
+14,2444,Unknown,1,2,2004,CPI,50,Tamil_Nadu
+14,14635,Post Graduate,1,2,2004,CPM,50,Tamil_Nadu
+14,14635,Unknown,1,2,2004,CPM,50,Tamil_Nadu
+14,10192,12th Pass,2,16,2004,DMK,12.5,Tamil_Nadu
+14,10192,5th Pass,1,16,2004,DMK,6.25,Tamil_Nadu
+14,10192,8th Pass,1,16,2004,DMK,6.25,Tamil_Nadu
+14,10192,Graduate,2,16,2004,DMK,12.5,Tamil_Nadu
+14,10192,Graduate Professional,6,16,2004,DMK,37.5,Tamil_Nadu
+14,10192,Others,1,16,2004,DMK,6.25,Tamil_Nadu
+14,10192,Post Graduate,2,16,2004,DMK,12.5,Tamil_Nadu
+14,10192,Unknown,1,16,2004,DMK,6.25,Tamil_Nadu
+14,3482,10th Pass,1,10,2004,INC,10,Tamil_Nadu
+14,3482,Graduate,2,10,2004,INC,20,Tamil_Nadu
+14,3482,Post Graduate,6,10,2004,INC,60,Tamil_Nadu
+14,3482,Unknown,1,10,2004,INC,10,Tamil_Nadu
+14,11601,Graduate,1,4,2004,MDMK,25,Tamil_Nadu
+14,11601,Graduate Professional,2,4,2004,MDMK,50,Tamil_Nadu
+14,11601,Unknown,1,4,2004,MDMK,25,Tamil_Nadu
+14,11891,Doctorate,1,5,2004,PMK,20,Tamil_Nadu
+14,11891,Post Graduate,3,5,2004,PMK,60,Tamil_Nadu
+14,11891,Unknown,1,5,2004,PMK,20,Tamil_Nadu
+14,14635,Graduate,1,2,2004,CPM,50,Tripura
+14,14635,Post Graduate,1,2,2004,CPM,50,Tripura
+14,1605,12th Pass,2,10,2004,BJP,20,Uttar_Pradesh
+14,1605,Graduate,1,10,2004,BJP,10,Uttar_Pradesh
+14,1605,Graduate Professional,2,10,2004,BJP,20,Uttar_Pradesh
+14,1605,Others,1,10,2004,BJP,10,Uttar_Pradesh
+14,1605,Post Graduate,3,10,2004,BJP,30,Uttar_Pradesh
+14,1605,Unknown,1,10,2004,BJP,10,Uttar_Pradesh
+14,16651,10th Pass,2,19,2004,BSP,10.53,Uttar_Pradesh
+14,16651,12th Pass,3,19,2004,BSP,15.79,Uttar_Pradesh
+14,16651,5th Pass,1,19,2004,BSP,5.26,Uttar_Pradesh
+14,16651,Graduate,6,19,2004,BSP,31.58,Uttar_Pradesh
+14,16651,Graduate Professional,3,19,2004,BSP,15.79,Uttar_Pradesh
+14,16651,Literate,1,19,2004,BSP,5.26,Uttar_Pradesh
+14,16651,Post Graduate,3,19,2004,BSP,15.79,Uttar_Pradesh
+14,3482,10th Pass,1,9,2004,INC,11.11,Uttar_Pradesh
+14,3482,12th Pass,1,9,2004,INC,11.11,Uttar_Pradesh
+14,3482,8th Pass,1,9,2004,INC,11.11,Uttar_Pradesh
+14,3482,Graduate,1,9,2004,INC,11.11,Uttar_Pradesh
+14,3482,Others,1,9,2004,INC,11.11,Uttar_Pradesh
+14,3482,Post Graduate,3,9,2004,INC,33.33,Uttar_Pradesh
+14,3482,Unknown,1,9,2004,INC,11.11,Uttar_Pradesh
+14,10809,10th Pass,1,1,2004,IND,100,Uttar_Pradesh
+14,11002,Graduate Professional,1,1,2004,JD(U),100,Uttar_Pradesh
+14,5631,Graduate,1,1,2004,NLP,100,Uttar_Pradesh
+14,12169,Graduate,1,3,2004,RLD,33.33,Uttar_Pradesh
+14,12169,Others,1,3,2004,RLD,33.33,Uttar_Pradesh
+14,12169,Post Graduate,1,3,2004,RLD,33.33,Uttar_Pradesh
+14,7408,Post Graduate,1,1,2004,SJP(R),100,Uttar_Pradesh
+14,7425,10th Pass,2,35,2004,SP,5.71,Uttar_Pradesh
+14,7425,12th Pass,3,35,2004,SP,8.57,Uttar_Pradesh
+14,7425,8th Pass,1,35,2004,SP,2.86,Uttar_Pradesh
+14,7425,Doctorate,2,35,2004,SP,5.71,Uttar_Pradesh
+14,7425,Graduate,7,35,2004,SP,20,Uttar_Pradesh
+14,7425,Graduate Professional,5,35,2004,SP,14.29,Uttar_Pradesh
+14,7425,Literate,1,35,2004,SP,2.86,Uttar_Pradesh
+14,7425,Post Graduate,12,35,2004,SP,34.29,Uttar_Pradesh
+14,7425,Unknown,2,35,2004,SP,5.71,Uttar_Pradesh
+14,1605,12th Pass,1,3,2004,BJP,33.33,Uttarakhand
+14,1605,Graduate Professional,1,3,2004,BJP,33.33,Uttarakhand
+14,1605,Unknown,1,3,2004,BJP,33.33,Uttarakhand
+14,3482,12th Pass,1,1,2004,INC,100,Uttarakhand
+14,7425,8th Pass,1,1,2004,SP,100,Uttarakhand
+14,3040,12th Pass,1,3,2004,AIFB,33.33,West_Bengal
+14,3040,Graduate,1,3,2004,AIFB,33.33,West_Bengal
+14,3040,Post Graduate,1,3,2004,AIFB,33.33,West_Bengal
+14,18228,Post Graduate,1,1,2004,AITC,100,West_Bengal
+14,2444,Graduate,1,3,2004,CPI,33.33,West_Bengal
+14,2444,Graduate Professional,1,3,2004,CPI,33.33,West_Bengal
+14,2444,Post Graduate,1,3,2004,CPI,33.33,West_Bengal
+14,14635,10th Pass,1,26,2004,CPM,3.85,West_Bengal
+14,14635,12th Pass,3,26,2004,CPM,11.54,West_Bengal
+14,14635,Doctorate,2,26,2004,CPM,7.69,West_Bengal
+14,14635,Graduate,4,26,2004,CPM,15.38,West_Bengal
+14,14635,Graduate Professional,3,26,2004,CPM,11.54,West_Bengal
+14,14635,Literate,1,26,2004,CPM,3.85,West_Bengal
+14,14635,Post Graduate,10,26,2004,CPM,38.46,West_Bengal
+14,14635,Unknown,2,26,2004,CPM,7.69,West_Bengal
+14,3482,10th Pass,1,6,2004,INC,16.67,West_Bengal
+14,3482,Doctorate,1,6,2004,INC,16.67,West_Bengal
+14,3482,Graduate,1,6,2004,INC,16.67,West_Bengal
+14,3482,Post Graduate,2,6,2004,INC,33.33,West_Bengal
+14,3482,Unknown,1,6,2004,INC,16.67,West_Bengal
+14,12053,10th Pass,1,3,2004,RSP,33.33,West_Bengal
+14,12053,Graduate,1,3,2004,RSP,33.33,West_Bengal
+14,12053,Graduate Professional,1,3,2004,RSP,33.33,West_Bengal

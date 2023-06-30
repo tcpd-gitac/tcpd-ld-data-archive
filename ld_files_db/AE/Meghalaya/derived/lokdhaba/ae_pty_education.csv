@@ -1,0 +1,108 @@
+Assembly_No,Party_ID,MyNeta_education,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+11,18228,Graduate,3,5,2023,AITC,60
+11,18228,Graduate Professional,2,5,2023,AITC,40
+11,1605,10th Pass,1,2,2023,BJP,50
+11,1605,12th Pass,1,2,2023,BJP,50
+11,3208,Others,1,2,2023,Hill State People's Democratic Party,50
+11,3208,Post Graduate,1,2,2023,Hill State People's Democratic Party,50
+11,3482,12th Pass,1,5,2023,INC,20
+11,3482,8th Pass,1,5,2023,INC,20
+11,3482,Graduate Professional,1,5,2023,INC,20
+11,3482,Post Graduate,2,5,2023,INC,40
+11,10809,10th Pass,1,2,2023,IND,50
+11,10809,Post Graduate,1,2,2023,IND,50
+11,5671,10th Pass,2,26,2023,NPP,7.69
+11,5671,12th Pass,6,26,2023,NPP,23.08
+11,5671,8th Pass,1,26,2023,NPP,3.85
+11,5671,Doctorate,1,26,2023,NPP,3.85
+11,5671,Graduate,8,26,2023,NPP,30.77
+11,5671,Graduate Professional,2,26,2023,NPP,7.69
+11,5671,Others,2,26,2023,NPP,7.69
+11,5671,Post Graduate,4,26,2023,NPP,15.38
+11,11858,Graduate,1,2,2023,People's Democratic Front,50
+11,11858,Graduate Professional,1,2,2023,People's Democratic Front,50
+11,8377,10th Pass,2,11,2023,United Democratic Party,18.18
+11,8377,12th Pass,1,11,2023,United Democratic Party,9.09
+11,8377,Graduate,4,11,2023,United Democratic Party,36.36
+11,8377,Graduate Professional,1,11,2023,United Democratic Party,9.09
+11,8377,Post Graduate,3,11,2023,United Democratic Party,27.27
+11,,Graduate,3,4,2023,Voice of the People Party,75
+11,,Post Graduate,1,4,2023,Voice of the People Party,25
+10,1605,10th Pass,1,2,2018,BJP,50
+10,1605,12th Pass,1,2,2018,BJP,50
+10,3208,Graduate,2,2,2018,HSPDP,100
+10,3482,10th Pass,2,21,2018,INC,9.52
+10,3482,12th Pass,3,21,2018,INC,14.29
+10,3482,Doctorate,1,21,2018,INC,4.76
+10,3482,Graduate,9,21,2018,INC,42.86
+10,3482,Graduate Professional,5,21,2018,INC,23.81
+10,3482,Post Graduate,1,21,2018,INC,4.76
+10,10809,12th Pass,1,3,2018,IND,33.33
+10,10809,Graduate,1,3,2018,IND,33.33
+10,10809,Graduate Professional,1,3,2018,IND,33.33
+10,4845,12th Pass,1,1,2018,KHNAM,100
+10,5792,Post Graduate,1,1,2018,NCP,100
+10,5671,10th Pass,2,19,2018,NPEP,10.53
+10,5671,12th Pass,5,19,2018,NPEP,26.32
+10,5671,8th Pass,1,19,2018,NPEP,5.26
+10,5671,Graduate,6,19,2018,NPEP,31.58
+10,5671,Graduate Professional,3,19,2018,NPEP,15.79
+10,5671,Post Graduate,2,19,2018,NPEP,10.53
+10,,12th Pass,1,1,2018,NPP,100
+10,11858,12th Pass,1,4,2018,PDF,25
+10,11858,Graduate,2,4,2018,PDF,50
+10,11858,Graduate Professional,1,4,2018,PDF,25
+10,8377,10th Pass,3,6,2018,UDP,50
+10,8377,Doctorate,1,6,2018,UDP,16.67
+10,8377,Graduate,2,6,2018,UDP,33.33
+9,3091,10th Pass,1,1,2013,GNC,100
+9,3208,12th Pass,1,4,2013,HSPDP,25
+9,3208,Graduate,2,4,2013,HSPDP,50
+9,3208,Post Graduate,1,4,2013,HSPDP,25
+9,3482,10th Pass,3,29,2013,INC,10.34
+9,3482,12th Pass,6,29,2013,INC,20.69
+9,3482,8th Pass,2,29,2013,INC,6.9
+9,3482,Doctorate,2,29,2013,INC,6.9
+9,3482,Graduate,12,29,2013,INC,41.38
+9,3482,Graduate Professional,2,29,2013,INC,6.9
+9,3482,Post Graduate,2,29,2013,INC,6.9
+9,10809,10th Pass,2,13,2013,IND,15.38
+9,10809,12th Pass,4,13,2013,IND,30.77
+9,10809,Graduate,4,13,2013,IND,30.77
+9,10809,Graduate Professional,1,13,2013,IND,7.69
+9,10809,Post Graduate,2,13,2013,IND,15.38
+9,5792,12th Pass,1,2,2013,NCP,50
+9,5792,Graduate,1,2,2013,NCP,50
+9,5923,10th Pass,1,1,2013,NESDP,100
+9,5671,Graduate,1,2,2013,NPP,50
+9,5671,Graduate Professional,1,2,2013,NPP,50
+9,8377,10th Pass,2,8,2013,UDP,25
+9,8377,12th Pass,1,8,2013,UDP,12.5
+9,8377,Doctorate,2,8,2013,UDP,25
+9,8377,Graduate,2,8,2013,UDP,25
+9,8377,Post Graduate,1,8,2013,UDP,12.5
+8,1605,12th Pass,1,1,2008,BJP,100
+8,3208,12th Pass,1,2,2008,HSPDP,50
+8,3208,Graduate Professional,1,2,2008,HSPDP,50
+8,3482,10th Pass,2,25,2008,INC,8
+8,3482,12th Pass,3,25,2008,INC,12
+8,3482,5th Pass,1,25,2008,INC,4
+8,3482,8th Pass,1,25,2008,INC,4
+8,3482,Doctorate,1,25,2008,INC,4
+8,3482,Graduate,14,25,2008,INC,56
+8,3482,Graduate Professional,1,25,2008,INC,4
+8,3482,Post Graduate,2,25,2008,INC,8
+8,10809,10th Pass,2,5,2008,IND,40
+8,10809,Graduate,2,5,2008,IND,40
+8,10809,Graduate Professional,1,5,2008,IND,20
+8,4845,Post Graduate,1,1,2008,KHNAM,100
+8,5792,12th Pass,6,15,2008,NCP,40
+8,5792,Graduate,5,15,2008,NCP,33.33
+8,5792,Graduate Professional,1,15,2008,NCP,6.67
+8,5792,Post Graduate,2,15,2008,NCP,13.33
+8,5792,Unknown,1,15,2008,NCP,6.67
+8,8377,10th Pass,1,11,2008,UDP,9.09
+8,8377,12th Pass,3,11,2008,UDP,27.27
+8,8377,Doctorate,2,11,2008,UDP,18.18
+8,8377,Graduate,3,11,2008,UDP,27.27
+8,8377,Graduate Professional,2,11,2008,UDP,18.18

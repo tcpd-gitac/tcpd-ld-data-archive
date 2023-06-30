@@ -1,0 +1,443 @@
+Assembly_No,TCPD_Prof_Main,MLAs_var,State_Name
+17,Business,1,Andaman_&_Nicobar_Islands
+17,Agriculture,2,Andhra_Pradesh
+17,Business,12,Andhra_Pradesh
+17,Education,1,Andhra_Pradesh
+17,Former Government,1,Andhra_Pradesh
+17,Liberal Profession or Professional,3,Andhra_Pradesh
+17,Other,1,Andhra_Pradesh
+17,Politics,2,Andhra_Pradesh
+17,Small Business or Self-employed,1,Andhra_Pradesh
+17,Social Work,2,Andhra_Pradesh
+17,Politics,1,Arunachal_Pradesh
+17,Social Work,1,Arunachal_Pradesh
+17,Agriculture,1,Assam
+17,Business,4,Assam
+17,Liberal Profession or Professional,1,Assam
+17,Other,1,Assam
+17,Politics,3,Assam
+17,Retired or Pension,1,Assam
+17,Salaried Work or Employed,2,Assam
+17,Social Work,1,Assam
+17,Agriculture,8,Bihar
+17,Business,9,Bihar
+17,Liberal Profession or Professional,2,Bihar
+17,Other,1,Bihar
+17,Politics,8,Bihar
+17,Retired or Pension,3,Bihar
+17,Salaried Work or Employed,2,Bihar
+17,Social Work,7,Bihar
+17,Liberal Profession or Professional,1,Chandigarh
+17,Agriculture,4,Chhattisgarh
+17,Business,4,Chhattisgarh
+17,Liberal Profession or Professional,1,Chhattisgarh
+17,Politics,1,Chhattisgarh
+17,Retired or Pension,1,Chhattisgarh
+17,Politics,1,Dadra_&_Nagar_Haveli
+17,Agriculture,1,Daman_&_Diu
+17,Business,3,Delhi
+17,Former Government,1,Delhi
+17,Liberal Profession or Professional,3,Delhi
+17,Business,1,Goa
+17,Social Work,1,Goa
+17,Agriculture,7,Gujarat
+17,Business,8,Gujarat
+17,Liberal Profession or Professional,4,Gujarat
+17,Other,3,Gujarat
+17,Politics,1,Gujarat
+17,Salaried Work or Employed,1,Gujarat
+17,Social Work,2,Gujarat
+17,Agriculture,2,Haryana
+17,Business,2,Haryana
+17,Former Government,1,Haryana
+17,Liberal Profession or Professional,1,Haryana
+17,Other,1,Haryana
+17,Politics,1,Haryana
+17,Retired or Pension,1,Haryana
+17,Small Business or Self-employed,1,Haryana
+17,Business,2,Himachal_Pradesh
+17,Politics,2,Himachal_Pradesh
+17,Business,2,Jammu_&_Kashmir
+17,Liberal Profession or Professional,2,Jammu_&_Kashmir
+17,Politics,1,Jammu_&_Kashmir
+17,Retired or Pension,1,Jammu_&_Kashmir
+17,Business,4,Jharkhand
+17,Politics,8,Jharkhand
+17,Retired or Pension,1,Jharkhand
+17,Salaried Work or Employed,1,Jharkhand
+17,Agriculture,5,Karnataka
+17,Business,11,Karnataka
+17,Liberal Profession or Professional,5,Karnataka
+17,Politics,7,Karnataka
+17,Liberal Profession or Professional,3,Kerala
+17,Other,1,Kerala
+17,Politics,6,Kerala
+17,Salaried Work or Employed,1,Kerala
+17,Social Work,9,Kerala
+17,Politics,1,Lakshadweep
+17,Agricultural Labour,1,Lok_Sabha
+17,Agriculture,72,Lok_Sabha
+17,Business,169,Lok_Sabha
+17,Education,7,Lok_Sabha
+17,Former Government,15,Lok_Sabha
+17,Liberal Profession or Professional,62,Lok_Sabha
+17,Other,17,Lok_Sabha
+17,Politics,105,Lok_Sabha
+17,Religious Occupation,1,Lok_Sabha
+17,Retired or Pension,22,Lok_Sabha
+17,Salaried Work or Employed,21,Lok_Sabha
+17,Small Business or Self-employed,8,Lok_Sabha
+17,Social Work,40,Lok_Sabha
+17,Traditional Occupation,1,Lok_Sabha
+17,Unemployed,1,Lok_Sabha
+17,Unknown,1,Lok_Sabha
+17,Agriculture,6,Madhya_Pradesh
+17,Business,5,Madhya_Pradesh
+17,Former Government,1,Madhya_Pradesh
+17,Other,1,Madhya_Pradesh
+17,Politics,6,Madhya_Pradesh
+17,Retired or Pension,2,Madhya_Pradesh
+17,Salaried Work or Employed,4,Madhya_Pradesh
+17,Small Business or Self-employed,1,Madhya_Pradesh
+17,Social Work,2,Madhya_Pradesh
+17,Unemployed,1,Madhya_Pradesh
+17,Agriculture,10,Maharashtra
+17,Business,25,Maharashtra
+17,Other,1,Maharashtra
+17,Politics,5,Maharashtra
+17,Retired or Pension,1,Maharashtra
+17,Salaried Work or Employed,2,Maharashtra
+17,Small Business or Self-employed,2,Maharashtra
+17,Social Work,1,Maharashtra
+17,Traditional Occupation,1,Maharashtra
+17,Business,1,Manipur
+17,Small Business or Self-employed,1,Manipur
+17,Politics,2,Meghalaya
+17,Retired or Pension,1,Mizoram
+17,Politics,1,Nagaland
+17,Agriculture,2,Odisha
+17,Business,4,Odisha
+17,Former Government,2,Odisha
+17,Liberal Profession or Professional,5,Odisha
+17,Politics,3,Odisha
+17,Salaried Work or Employed,1,Odisha
+17,Social Work,4,Odisha
+17,Agriculture,1,Puducherry
+17,Agriculture,2,Punjab
+17,Business,3,Punjab
+17,Former Government,3,Punjab
+17,Liberal Profession or Professional,3,Punjab
+17,Politics,1,Punjab
+17,Small Business or Self-employed,1,Punjab
+17,Agriculture,1,Rajasthan
+17,Business,10,Rajasthan
+17,Former Government,1,Rajasthan
+17,Liberal Profession or Professional,1,Rajasthan
+17,Other,2,Rajasthan
+17,Politics,9,Rajasthan
+17,Small Business or Self-employed,1,Rajasthan
+17,Social Work,1,Sikkim
+17,Agriculture,6,Tamil_Nadu
+17,Business,12,Tamil_Nadu
+17,Education,1,Tamil_Nadu
+17,Liberal Profession or Professional,10,Tamil_Nadu
+17,Other,2,Tamil_Nadu
+17,Politics,2,Tamil_Nadu
+17,Salaried Work or Employed,1,Tamil_Nadu
+17,Social Work,4,Tamil_Nadu
+17,Unknown,1,Tamil_Nadu
+17,Agriculture,3,Telangana
+17,Business,5,Telangana
+17,Former Government,1,Telangana
+17,Other,1,Telangana
+17,Politics,7,Telangana
+17,Education,1,Tripura
+17,Social Work,1,Tripura
+17,Agriculture,9,Uttar_Pradesh
+17,Business,33,Uttar_Pradesh
+17,Education,1,Uttar_Pradesh
+17,Former Government,2,Uttar_Pradesh
+17,Liberal Profession or Professional,8,Uttar_Pradesh
+17,Other,1,Uttar_Pradesh
+17,Politics,16,Uttar_Pradesh
+17,Retired or Pension,8,Uttar_Pradesh
+17,Salaried Work or Employed,1,Uttar_Pradesh
+17,Social Work,1,Uttar_Pradesh
+17,Agriculture,1,Uttarakhand
+17,Business,2,Uttarakhand
+17,Liberal Profession or Professional,1,Uttarakhand
+17,Politics,1,Uttarakhand
+17,Agricultural Labour,1,West_Bengal
+17,Agriculture,1,West_Bengal
+17,Business,6,West_Bengal
+17,Education,3,West_Bengal
+17,Former Government,2,West_Bengal
+17,Liberal Profession or Professional,8,West_Bengal
+17,Other,1,West_Bengal
+17,Politics,9,West_Bengal
+17,Religious Occupation,1,West_Bengal
+17,Retired or Pension,2,West_Bengal
+17,Salaried Work or Employed,5,West_Bengal
+17,Social Work,3,West_Bengal
+16,Social Work,1,Andaman_&_Nicobar_Islands
+16,Agriculture,10,Andhra_Pradesh
+16,Business,18,Andhra_Pradesh
+16,Education,1,Andhra_Pradesh
+16,Former Government,1,Andhra_Pradesh
+16,Liberal Profession or Professional,2,Andhra_Pradesh
+16,Other,1,Andhra_Pradesh
+16,Politics,6,Andhra_Pradesh
+16,Retired or Pension,1,Andhra_Pradesh
+16,Small Business or Self-employed,1,Andhra_Pradesh
+16,Social Work,1,Andhra_Pradesh
+16,Politics,2,Arunachal_Pradesh
+16,Agriculture,1,Assam
+16,Business,5,Assam
+16,Liberal Profession or Professional,2,Assam
+16,Politics,3,Assam
+16,Retired or Pension,1,Assam
+16,Salaried Work or Employed,1,Assam
+16,Social Work,1,Assam
+16,Agriculture,6,Bihar
+16,Business,6,Bihar
+16,Education,1,Bihar
+16,Liberal Profession or Professional,4,Bihar
+16,Other,1,Bihar
+16,Politics,10,Bihar
+16,Retired or Pension,2,Bihar
+16,Social Work,10,Bihar
+16,Liberal Profession or Professional,1,Chandigarh
+16,Agriculture,2,Chhattisgarh
+16,Business,1,Chhattisgarh
+16,Education,1,Chhattisgarh
+16,Liberal Profession or Professional,2,Chhattisgarh
+16,Politics,4,Chhattisgarh
+16,Retired or Pension,1,Chhattisgarh
+16,Business,1,Dadra_&_Nagar_Haveli
+16,Business,1,Daman_&_Diu
+16,Business,4,Delhi
+16,Liberal Profession or Professional,3,Delhi
+16,Business,1,Goa
+16,Liberal Profession or Professional,1,Goa
+16,Agriculture,10,Gujarat
+16,Business,8,Gujarat
+16,Liberal Profession or Professional,4,Gujarat
+16,Politics,3,Gujarat
+16,Traditional Occupation,1,Gujarat
+16,Agriculture,2,Haryana
+16,Business,3,Haryana
+16,Liberal Profession or Professional,2,Haryana
+16,Politics,2,Haryana
+16,Small Business or Self-employed,1,Haryana
+16,Agriculture,2,Himachal_Pradesh
+16,Business,2,Himachal_Pradesh
+16,Business,1,Jammu_&_Kashmir
+16,Liberal Profession or Professional,3,Jammu_&_Kashmir
+16,Politics,1,Jammu_&_Kashmir
+16,Social Work,1,Jammu_&_Kashmir
+16,Agriculture,1,Jharkhand
+16,Business,3,Jharkhand
+16,Education,1,Jharkhand
+16,Former Government,1,Jharkhand
+16,Politics,5,Jharkhand
+16,Salaried Work or Employed,1,Jharkhand
+16,Social Work,2,Jharkhand
+16,Agriculture,6,Karnataka
+16,Business,12,Karnataka
+16,Liberal Profession or Professional,4,Karnataka
+16,Politics,4,Karnataka
+16,Salaried Work or Employed,1,Karnataka
+16,Social Work,1,Karnataka
+16,Business,1,Kerala
+16,Liberal Profession or Professional,5,Kerala
+16,Other,2,Kerala
+16,Politics,5,Kerala
+16,Retired or Pension,1,Kerala
+16,Social Work,6,Kerala
+16,Business,1,Lakshadweep
+16,Agriculture,88,Lok_Sabha
+16,Business,161,Lok_Sabha
+16,Education,13,Lok_Sabha
+16,Former Government,8,Lok_Sabha
+16,Liberal Profession or Professional,88,Lok_Sabha
+16,Other,12,Lok_Sabha
+16,Politics,80,Lok_Sabha
+16,Religious Occupation,1,Lok_Sabha
+16,Retired or Pension,29,Lok_Sabha
+16,Salaried Work or Employed,12,Lok_Sabha
+16,Small Business or Self-employed,8,Lok_Sabha
+16,Social Work,42,Lok_Sabha
+16,Traditional Occupation,1,Lok_Sabha
+16,Agriculture,8,Madhya_Pradesh
+16,Business,5,Madhya_Pradesh
+16,Education,1,Madhya_Pradesh
+16,Liberal Profession or Professional,1,Madhya_Pradesh
+16,Other,2,Madhya_Pradesh
+16,Politics,7,Madhya_Pradesh
+16,Retired or Pension,4,Madhya_Pradesh
+16,Social Work,1,Madhya_Pradesh
+16,Agriculture,13,Maharashtra
+16,Business,24,Maharashtra
+16,Liberal Profession or Professional,4,Maharashtra
+16,Other,1,Maharashtra
+16,Salaried Work or Employed,2,Maharashtra
+16,Small Business or Self-employed,1,Maharashtra
+16,Social Work,3,Maharashtra
+16,Politics,1,Manipur
+16,Social Work,1,Manipur
+16,Politics,2,Meghalaya
+16,Politics,1,Mizoram
+16,Politics,1,Nagaland
+16,Agriculture,3,Odisha
+16,Business,2,Odisha
+16,Former Government,1,Odisha
+16,Liberal Profession or Professional,6,Odisha
+16,Other,1,Odisha
+16,Politics,2,Odisha
+16,Small Business or Self-employed,1,Odisha
+16,Social Work,5,Odisha
+16,Business,1,Puducherry
+16,Agriculture,3,Punjab
+16,Business,3,Punjab
+16,Liberal Profession or Professional,3,Punjab
+16,Politics,1,Punjab
+16,Retired or Pension,1,Punjab
+16,Small Business or Self-employed,1,Punjab
+16,Social Work,1,Punjab
+16,Agriculture,1,Rajasthan
+16,Business,13,Rajasthan
+16,Education,1,Rajasthan
+16,Former Government,2,Rajasthan
+16,Liberal Profession or Professional,1,Rajasthan
+16,Politics,3,Rajasthan
+16,Religious Occupation,1,Rajasthan
+16,Retired or Pension,3,Rajasthan
+16,Salaried Work or Employed,1,Sikkim
+16,Agriculture,5,Tamil_Nadu
+16,Business,9,Tamil_Nadu
+16,Education,1,Tamil_Nadu
+16,Liberal Profession or Professional,19,Tamil_Nadu
+16,Other,2,Tamil_Nadu
+16,Politics,1,Tamil_Nadu
+16,Retired or Pension,2,Tamil_Nadu
+16,Retired or Pension,1,Tripura
+16,Social Work,1,Tripura
+16,Agriculture,15,Uttar_Pradesh
+16,Business,29,Uttar_Pradesh
+16,Education,1,Uttar_Pradesh
+16,Former Government,2,Uttar_Pradesh
+16,Liberal Profession or Professional,6,Uttar_Pradesh
+16,Other,1,Uttar_Pradesh
+16,Politics,11,Uttar_Pradesh
+16,Retired or Pension,8,Uttar_Pradesh
+16,Salaried Work or Employed,3,Uttar_Pradesh
+16,Small Business or Self-employed,2,Uttar_Pradesh
+16,Social Work,2,Uttar_Pradesh
+16,Business,3,Uttarakhand
+16,Politics,1,Uttarakhand
+16,Retired or Pension,1,Uttarakhand
+16,Business,4,West_Bengal
+16,Education,5,West_Bengal
+16,Former Government,1,West_Bengal
+16,Liberal Profession or Professional,15,West_Bengal
+16,Other,1,West_Bengal
+16,Politics,4,West_Bengal
+16,Retired or Pension,3,West_Bengal
+16,Salaried Work or Employed,3,West_Bengal
+16,Small Business or Self-employed,1,West_Bengal
+16,Social Work,5,West_Bengal
+15,Other,1,Andaman_&_Nicobar_Islands
+15,Other,42,Andhra_Pradesh
+15,Other,2,Arunachal_Pradesh
+15,Other,14,Assam
+15,Other,36,Bihar
+15,Unknown,4,Bihar
+15,Other,1,Chandigarh
+15,Other,8,Chhattisgarh
+15,Unknown,3,Chhattisgarh
+15,Other,1,Dadra_&_Nagar_Haveli
+15,Other,1,Daman_&_Diu
+15,Other,7,Delhi
+15,Other,2,Goa
+15,Other,24,Gujarat
+15,Unknown,2,Gujarat
+15,Other,10,Haryana
+15,Other,4,Himachal_Pradesh
+15,Other,6,Jammu_&_Kashmir
+15,Other,14,Jharkhand
+15,Other,28,Karnataka
+15,Other,20,Kerala
+15,Other,1,Lakshadweep
+15,Other,520,Lok_Sabha
+15,Unknown,23,Lok_Sabha
+15,Other,24,Madhya_Pradesh
+15,Unknown,5,Madhya_Pradesh
+15,Other,47,Maharashtra
+15,Unknown,1,Maharashtra
+15,Other,2,Manipur
+15,Other,2,Meghalaya
+15,Other,1,Mizoram
+15,Unknown,1,Nagaland
+15,Other,21,Odisha
+15,Other,1,Puducherry
+15,Other,13,Punjab
+15,Other,22,Rajasthan
+15,Unknown,3,Rajasthan
+15,Other,1,Sikkim
+15,Other,37,Tamil_Nadu
+15,Unknown,2,Tamil_Nadu
+15,Other,2,Tripura
+15,Other,78,Uttar_Pradesh
+15,Unknown,2,Uttar_Pradesh
+15,Other,5,Uttarakhand
+15,Other,42,West_Bengal
+14,Other,1,Andaman_&_Nicobar_Islands
+14,Other,36,Andhra_Pradesh
+14,Unknown,6,Andhra_Pradesh
+14,Other,2,Arunachal_Pradesh
+14,Other,14,Assam
+14,Other,39,Bihar
+14,Unknown,1,Bihar
+14,Other,1,Chandigarh
+14,Other,10,Chhattisgarh
+14,Unknown,1,Chhattisgarh
+14,Other,1,Dadra_&_Nagar_Haveli
+14,Other,1,Daman_&_Diu
+14,Other,6,Delhi
+14,Unknown,1,Delhi
+14,Other,2,Goa
+14,Other,24,Gujarat
+14,Unknown,2,Gujarat
+14,Other,10,Haryana
+14,Other,4,Himachal_Pradesh
+14,Other,6,Jammu_&_Kashmir
+14,Other,14,Jharkhand
+14,Other,27,Karnataka
+14,Unknown,1,Karnataka
+14,Other,17,Kerala
+14,Unknown,3,Kerala
+14,Other,1,Lakshadweep
+14,Other,513,Lok_Sabha
+14,Unknown,30,Lok_Sabha
+14,Other,29,Madhya_Pradesh
+14,Other,44,Maharashtra
+14,Unknown,4,Maharashtra
+14,Other,2,Manipur
+14,Other,2,Meghalaya
+14,Other,1,Mizoram
+14,Other,1,Nagaland
+14,Other,20,Odisha
+14,Unknown,1,Odisha
+14,Other,1,Puducherry
+14,Other,13,Punjab
+14,Other,24,Rajasthan
+14,Unknown,1,Rajasthan
+14,Other,1,Sikkim
+14,Other,33,Tamil_Nadu
+14,Unknown,6,Tamil_Nadu
+14,Other,2,Tripura
+14,Other,80,Uttar_Pradesh
+14,Other,4,Uttarakhand
+14,Unknown,1,Uttarakhand
+14,Other,40,West_Bengal
+14,Unknown,2,West_Bengal

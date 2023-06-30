@@ -1,0 +1,661 @@
+Assembly_No,MyNeta_education,MLAs_var,State_Name
+17,Graduate Professional,1,Andaman_&_Nicobar_Islands
+17,10th Pass,2,Andhra_Pradesh
+17,12th Pass,1,Andhra_Pradesh
+17,8th Pass,1,Andhra_Pradesh
+17,Doctorate,1,Andhra_Pradesh
+17,Graduate,6,Andhra_Pradesh
+17,Graduate Professional,5,Andhra_Pradesh
+17,Post Graduate,9,Andhra_Pradesh
+17,Graduate Professional,1,Arunachal_Pradesh
+17,Post Graduate,1,Arunachal_Pradesh
+17,10th Pass,1,Assam
+17,12th Pass,2,Assam
+17,Graduate,5,Assam
+17,Post Graduate,6,Assam
+17,10th Pass,6,Bihar
+17,12th Pass,3,Bihar
+17,8th Pass,2,Bihar
+17,Doctorate,1,Bihar
+17,Graduate,13,Bihar
+17,Graduate Professional,6,Bihar
+17,Post Graduate,8,Bihar
+17,Unknown,1,Bihar
+17,Post Graduate,1,Chandigarh
+17,12th Pass,2,Chhattisgarh
+17,Graduate,3,Chhattisgarh
+17,Graduate Professional,3,Chhattisgarh
+17,Post Graduate,3,Chhattisgarh
+17,Graduate,1,Dadra_&_Nagar_Haveli
+17,8th Pass,1,Daman_&_Diu
+17,10th Pass,1,Delhi
+17,12th Pass,1,Delhi
+17,Graduate Professional,2,Delhi
+17,Post Graduate,3,Delhi
+17,Graduate,1,Goa
+17,Graduate Professional,1,Goa
+17,10th Pass,2,Gujarat
+17,12th Pass,6,Gujarat
+17,8th Pass,2,Gujarat
+17,Graduate,3,Gujarat
+17,Graduate Professional,5,Gujarat
+17,Others,4,Gujarat
+17,Post Graduate,4,Gujarat
+17,Graduate,2,Haryana
+17,Graduate Professional,4,Haryana
+17,Post Graduate,4,Haryana
+17,10th Pass,1,Himachal_Pradesh
+17,12th Pass,1,Himachal_Pradesh
+17,Graduate,1,Himachal_Pradesh
+17,Post Graduate,1,Himachal_Pradesh
+17,10th Pass,1,Jammu_&_Kashmir
+17,Graduate,1,Jammu_&_Kashmir
+17,Graduate Professional,2,Jammu_&_Kashmir
+17,Post Graduate,2,Jammu_&_Kashmir
+17,10th Pass,1,Jharkhand
+17,12th Pass,3,Jharkhand
+17,Doctorate,1,Jharkhand
+17,Graduate,4,Jharkhand
+17,Graduate Professional,1,Jharkhand
+17,Post Graduate,4,Jharkhand
+17,10th Pass,4,Karnataka
+17,12th Pass,6,Karnataka
+17,5th Pass,1,Karnataka
+17,Graduate,4,Karnataka
+17,Graduate Professional,9,Karnataka
+17,Post Graduate,4,Karnataka
+17,10th Pass,2,Kerala
+17,12th Pass,1,Kerala
+17,Doctorate,1,Kerala
+17,Graduate,8,Kerala
+17,Graduate Professional,4,Kerala
+17,Post Graduate,4,Kerala
+17,Post Graduate,1,Lakshadweep
+17,10th Pass,44,Lok_Sabha
+17,12th Pass,68,Lok_Sabha
+17,5th Pass,4,Lok_Sabha
+17,8th Pass,12,Lok_Sabha
+17,Doctorate,24,Lok_Sabha
+17,Graduate,133,Lok_Sabha
+17,Graduate Professional,100,Lok_Sabha
+17,Illiterate,1,Lok_Sabha
+17,Literate,1,Lok_Sabha
+17,Others,17,Lok_Sabha
+17,Post Graduate,133,Lok_Sabha
+17,Unknown,6,Lok_Sabha
+17,12th Pass,2,Madhya_Pradesh
+17,Doctorate,1,Madhya_Pradesh
+17,Graduate,6,Madhya_Pradesh
+17,Graduate Professional,8,Madhya_Pradesh
+17,Others,1,Madhya_Pradesh
+17,Post Graduate,10,Madhya_Pradesh
+17,Unknown,1,Madhya_Pradesh
+17,10th Pass,7,Maharashtra
+17,12th Pass,8,Maharashtra
+17,5th Pass,1,Maharashtra
+17,8th Pass,1,Maharashtra
+17,Doctorate,1,Maharashtra
+17,Graduate,13,Maharashtra
+17,Graduate Professional,5,Maharashtra
+17,Others,5,Maharashtra
+17,Post Graduate,7,Maharashtra
+17,Doctorate,1,Manipur
+17,Graduate Professional,1,Manipur
+17,Graduate Professional,1,Meghalaya
+17,Post Graduate,1,Meghalaya
+17,Graduate,1,Mizoram
+17,Graduate,1,Nagaland
+17,10th Pass,2,Odisha
+17,12th Pass,3,Odisha
+17,5th Pass,1,Odisha
+17,Doctorate,1,Odisha
+17,Graduate,6,Odisha
+17,Graduate Professional,4,Odisha
+17,Others,1,Odisha
+17,Post Graduate,3,Odisha
+17,Graduate,1,Puducherry
+17,10th Pass,1,Punjab
+17,12th Pass,3,Punjab
+17,5th Pass,1,Punjab
+17,Graduate,1,Punjab
+17,Graduate Professional,2,Punjab
+17,Others,2,Punjab
+17,Post Graduate,3,Punjab
+17,10th Pass,2,Rajasthan
+17,12th Pass,3,Rajasthan
+17,8th Pass,1,Rajasthan
+17,Graduate,7,Rajasthan
+17,Graduate Professional,3,Rajasthan
+17,Others,1,Rajasthan
+17,Post Graduate,8,Rajasthan
+17,Post Graduate,1,Sikkim
+17,10th Pass,3,Tamil_Nadu
+17,12th Pass,3,Tamil_Nadu
+17,Doctorate,4,Tamil_Nadu
+17,Graduate,6,Tamil_Nadu
+17,Graduate Professional,8,Tamil_Nadu
+17,Illiterate,1,Tamil_Nadu
+17,Post Graduate,11,Tamil_Nadu
+17,Unknown,3,Tamil_Nadu
+17,12th Pass,4,Telangana
+17,Doctorate,1,Telangana
+17,Graduate,7,Telangana
+17,Graduate Professional,1,Telangana
+17,Others,1,Telangana
+17,Post Graduate,3,Telangana
+17,Graduate,1,Tripura
+17,Post Graduate,1,Tripura
+17,10th Pass,4,Uttar_Pradesh
+17,12th Pass,11,Uttar_Pradesh
+17,8th Pass,1,Uttar_Pradesh
+17,Doctorate,8,Uttar_Pradesh
+17,Graduate,17,Uttar_Pradesh
+17,Graduate Professional,13,Uttar_Pradesh
+17,Literate,1,Uttar_Pradesh
+17,Others,1,Uttar_Pradesh
+17,Post Graduate,23,Uttar_Pradesh
+17,Unknown,1,Uttar_Pradesh
+17,12th Pass,2,Uttarakhand
+17,Doctorate,1,Uttarakhand
+17,Graduate Professional,1,Uttarakhand
+17,Post Graduate,1,Uttarakhand
+17,10th Pass,4,West_Bengal
+17,12th Pass,3,West_Bengal
+17,8th Pass,3,West_Bengal
+17,Doctorate,2,West_Bengal
+17,Graduate,14,West_Bengal
+17,Graduate Professional,9,West_Bengal
+17,Others,1,West_Bengal
+17,Post Graduate,6,West_Bengal
+16,Graduate,1,Andaman_&_Nicobar_Islands
+16,10th Pass,4,Andhra_Pradesh
+16,12th Pass,7,Andhra_Pradesh
+16,Doctorate,3,Andhra_Pradesh
+16,Graduate,9,Andhra_Pradesh
+16,Graduate Professional,7,Andhra_Pradesh
+16,Illiterate,1,Andhra_Pradesh
+16,Post Graduate,11,Andhra_Pradesh
+16,Graduate,1,Arunachal_Pradesh
+16,Graduate Professional,1,Arunachal_Pradesh
+16,10th Pass,1,Assam
+16,12th Pass,2,Assam
+16,Graduate,2,Assam
+16,Graduate Professional,3,Assam
+16,Post Graduate,6,Assam
+16,10th Pass,2,Bihar
+16,12th Pass,5,Bihar
+16,8th Pass,2,Bihar
+16,Doctorate,2,Bihar
+16,Graduate,15,Bihar
+16,Graduate Professional,2,Bihar
+16,Literate,1,Bihar
+16,Post Graduate,11,Bihar
+16,Post Graduate,1,Chandigarh
+16,10th Pass,2,Chhattisgarh
+16,12th Pass,3,Chhattisgarh
+16,Graduate Professional,3,Chhattisgarh
+16,Post Graduate,3,Chhattisgarh
+16,5th Pass,1,Dadra_&_Nagar_Haveli
+16,8th Pass,1,Daman_&_Diu
+16,10th Pass,1,Delhi
+16,Doctorate,1,Delhi
+16,Graduate Professional,2,Delhi
+16,Post Graduate,3,Delhi
+16,Graduate,1,Goa
+16,Graduate Professional,1,Goa
+16,10th Pass,4,Gujarat
+16,12th Pass,4,Gujarat
+16,8th Pass,2,Gujarat
+16,Graduate,4,Gujarat
+16,Graduate Professional,6,Gujarat
+16,Literate,1,Gujarat
+16,Others,1,Gujarat
+16,Post Graduate,4,Gujarat
+16,10th Pass,1,Haryana
+16,Graduate,4,Haryana
+16,Graduate Professional,3,Haryana
+16,Post Graduate,2,Haryana
+16,10th Pass,1,Himachal_Pradesh
+16,Graduate,1,Himachal_Pradesh
+16,Graduate Professional,1,Himachal_Pradesh
+16,Post Graduate,1,Himachal_Pradesh
+16,10th Pass,1,Jammu_&_Kashmir
+16,Graduate Professional,4,Jammu_&_Kashmir
+16,Post Graduate,1,Jammu_&_Kashmir
+16,10th Pass,2,Jharkhand
+16,12th Pass,2,Jharkhand
+16,5th Pass,1,Jharkhand
+16,Doctorate,1,Jharkhand
+16,Graduate,4,Jharkhand
+16,Post Graduate,4,Jharkhand
+16,10th Pass,3,Karnataka
+16,12th Pass,6,Karnataka
+16,Graduate,4,Karnataka
+16,Graduate Professional,10,Karnataka
+16,Others,1,Karnataka
+16,Post Graduate,4,Karnataka
+16,10th Pass,1,Kerala
+16,8th Pass,1,Kerala
+16,Doctorate,2,Kerala
+16,Graduate,2,Kerala
+16,Graduate Professional,4,Kerala
+16,Others,1,Kerala
+16,Post Graduate,9,Kerala
+16,Post Graduate,1,Lakshadweep
+16,10th Pass,48,Lok_Sabha
+16,12th Pass,58,Lok_Sabha
+16,5th Pass,6,Lok_Sabha
+16,8th Pass,9,Lok_Sabha
+16,Doctorate,33,Lok_Sabha
+16,Graduate,118,Lok_Sabha
+16,Graduate Professional,106,Lok_Sabha
+16,Illiterate,1,Lok_Sabha
+16,Literate,5,Lok_Sabha
+16,Others,10,Lok_Sabha
+16,Post Graduate,149,Lok_Sabha
+16,10th Pass,2,Madhya_Pradesh
+16,12th Pass,2,Madhya_Pradesh
+16,Doctorate,3,Madhya_Pradesh
+16,Graduate,7,Madhya_Pradesh
+16,Graduate Professional,6,Madhya_Pradesh
+16,Post Graduate,9,Madhya_Pradesh
+16,10th Pass,10,Maharashtra
+16,12th Pass,5,Maharashtra
+16,5th Pass,1,Maharashtra
+16,8th Pass,1,Maharashtra
+16,Doctorate,2,Maharashtra
+16,Graduate,14,Maharashtra
+16,Graduate Professional,8,Maharashtra
+16,Others,3,Maharashtra
+16,Post Graduate,4,Maharashtra
+16,Doctorate,1,Manipur
+16,Post Graduate,1,Manipur
+16,Graduate Professional,1,Meghalaya
+16,Post Graduate,1,Meghalaya
+16,Graduate,1,Mizoram
+16,Graduate,1,Nagaland
+16,10th Pass,1,Odisha
+16,12th Pass,1,Odisha
+16,Doctorate,1,Odisha
+16,Graduate,7,Odisha
+16,Graduate Professional,4,Odisha
+16,Others,2,Odisha
+16,Post Graduate,5,Odisha
+16,Post Graduate,1,Puducherry
+16,10th Pass,3,Punjab
+16,12th Pass,2,Punjab
+16,8th Pass,1,Punjab
+16,Graduate,2,Punjab
+16,Graduate Professional,2,Punjab
+16,Post Graduate,3,Punjab
+16,10th Pass,1,Rajasthan
+16,12th Pass,2,Rajasthan
+16,8th Pass,1,Rajasthan
+16,Doctorate,1,Rajasthan
+16,Graduate,8,Rajasthan
+16,Graduate Professional,2,Rajasthan
+16,Literate,1,Rajasthan
+16,Others,1,Rajasthan
+16,Post Graduate,8,Rajasthan
+16,Post Graduate,1,Sikkim
+16,10th Pass,2,Tamil_Nadu
+16,12th Pass,3,Tamil_Nadu
+16,Doctorate,1,Tamil_Nadu
+16,Graduate,6,Tamil_Nadu
+16,Graduate Professional,13,Tamil_Nadu
+16,Post Graduate,14,Tamil_Nadu
+16,12th Pass,1,Tripura
+16,Graduate,1,Tripura
+16,10th Pass,4,Uttar_Pradesh
+16,12th Pass,9,Uttar_Pradesh
+16,5th Pass,3,Uttar_Pradesh
+16,Doctorate,10,Uttar_Pradesh
+16,Graduate,14,Uttar_Pradesh
+16,Graduate Professional,9,Uttar_Pradesh
+16,Literate,1,Uttar_Pradesh
+16,Others,1,Uttar_Pradesh
+16,Post Graduate,29,Uttar_Pradesh
+16,12th Pass,2,Uttarakhand
+16,Doctorate,1,Uttarakhand
+16,Graduate Professional,1,Uttarakhand
+16,Post Graduate,1,Uttarakhand
+16,10th Pass,2,West_Bengal
+16,12th Pass,2,West_Bengal
+16,Doctorate,4,West_Bengal
+16,Graduate,9,West_Bengal
+16,Graduate Professional,13,West_Bengal
+16,Literate,1,West_Bengal
+16,Post Graduate,11,West_Bengal
+15,Graduate,1,Andaman_&_Nicobar_Islands
+15,10th Pass,2,Andhra_Pradesh
+15,12th Pass,7,Andhra_Pradesh
+15,Graduate,11,Andhra_Pradesh
+15,Graduate Professional,13,Andhra_Pradesh
+15,Post Graduate,9,Andhra_Pradesh
+15,Graduate,2,Arunachal_Pradesh
+15,10th Pass,1,Assam
+15,Graduate,5,Assam
+15,Graduate Professional,1,Assam
+15,Literate,1,Assam
+15,Post Graduate,6,Assam
+15,10th Pass,6,Bihar
+15,12th Pass,3,Bihar
+15,5th Pass,1,Bihar
+15,8th Pass,2,Bihar
+15,Doctorate,5,Bihar
+15,Graduate,7,Bihar
+15,Graduate Professional,4,Bihar
+15,Others,1,Bihar
+15,Post Graduate,7,Bihar
+15,Unknown,4,Bihar
+15,Graduate Professional,1,Chandigarh
+15,10th Pass,1,Chhattisgarh
+15,12th Pass,2,Chhattisgarh
+15,8th Pass,1,Chhattisgarh
+15,Doctorate,1,Chhattisgarh
+15,Graduate Professional,1,Chhattisgarh
+15,Post Graduate,2,Chhattisgarh
+15,Unknown,3,Chhattisgarh
+15,5th Pass,1,Dadra_&_Nagar_Haveli
+15,10th Pass,1,Daman_&_Diu
+15,10th Pass,1,Delhi
+15,12th Pass,1,Delhi
+15,Graduate,1,Delhi
+15,Graduate Professional,1,Delhi
+15,Post Graduate,3,Delhi
+15,Graduate,1,Goa
+15,Graduate Professional,1,Goa
+15,10th Pass,6,Gujarat
+15,12th Pass,2,Gujarat
+15,5th Pass,2,Gujarat
+15,Graduate,8,Gujarat
+15,Graduate Professional,5,Gujarat
+15,Post Graduate,1,Gujarat
+15,Unknown,2,Gujarat
+15,12th Pass,1,Haryana
+15,8th Pass,1,Haryana
+15,Graduate Professional,3,Haryana
+15,Post Graduate,5,Haryana
+15,Graduate,1,Himachal_Pradesh
+15,Graduate Professional,1,Himachal_Pradesh
+15,Post Graduate,2,Himachal_Pradesh
+15,10th Pass,1,Jammu_&_Kashmir
+15,Graduate,2,Jammu_&_Kashmir
+15,Graduate Professional,2,Jammu_&_Kashmir
+15,Post Graduate,1,Jammu_&_Kashmir
+15,10th Pass,3,Jharkhand
+15,Graduate,6,Jharkhand
+15,Graduate Professional,2,Jharkhand
+15,Post Graduate,3,Jharkhand
+15,10th Pass,2,Karnataka
+15,12th Pass,5,Karnataka
+15,5th Pass,1,Karnataka
+15,Graduate,5,Karnataka
+15,Graduate Professional,11,Karnataka
+15,Others,1,Karnataka
+15,Post Graduate,3,Karnataka
+15,10th Pass,1,Kerala
+15,Doctorate,1,Kerala
+15,Graduate,4,Kerala
+15,Graduate Professional,1,Kerala
+15,Post Graduate,13,Kerala
+15,Graduate Professional,1,Lakshadweep
+15,10th Pass,48,Lok_Sabha
+15,12th Pass,50,Lok_Sabha
+15,5th Pass,9,Lok_Sabha
+15,8th Pass,8,Lok_Sabha
+15,Doctorate,23,Lok_Sabha
+15,Graduate,135,Lok_Sabha
+15,Graduate Professional,107,Lok_Sabha
+15,Illiterate,1,Lok_Sabha
+15,Literate,5,Lok_Sabha
+15,Others,6,Lok_Sabha
+15,Post Graduate,128,Lok_Sabha
+15,Unknown,23,Lok_Sabha
+15,10th Pass,1,Madhya_Pradesh
+15,12th Pass,3,Madhya_Pradesh
+15,5th Pass,2,Madhya_Pradesh
+15,8th Pass,1,Madhya_Pradesh
+15,Doctorate,1,Madhya_Pradesh
+15,Graduate,4,Madhya_Pradesh
+15,Graduate Professional,3,Madhya_Pradesh
+15,Post Graduate,9,Madhya_Pradesh
+15,Unknown,5,Madhya_Pradesh
+15,10th Pass,9,Maharashtra
+15,12th Pass,3,Maharashtra
+15,5th Pass,1,Maharashtra
+15,8th Pass,1,Maharashtra
+15,Doctorate,1,Maharashtra
+15,Graduate,16,Maharashtra
+15,Graduate Professional,8,Maharashtra
+15,Literate,1,Maharashtra
+15,Others,2,Maharashtra
+15,Post Graduate,5,Maharashtra
+15,Unknown,1,Maharashtra
+15,Doctorate,1,Manipur
+15,Post Graduate,1,Manipur
+15,Graduate Professional,1,Meghalaya
+15,Post Graduate,1,Meghalaya
+15,Graduate Professional,1,Mizoram
+15,Unknown,1,Nagaland
+15,10th Pass,1,Odisha
+15,12th Pass,2,Odisha
+15,Graduate,9,Odisha
+15,Graduate Professional,2,Odisha
+15,Post Graduate,7,Odisha
+15,Post Graduate,1,Puducherry
+15,10th Pass,3,Punjab
+15,12th Pass,2,Punjab
+15,Graduate,3,Punjab
+15,Graduate Professional,4,Punjab
+15,Post Graduate,1,Punjab
+15,10th Pass,2,Rajasthan
+15,12th Pass,1,Rajasthan
+15,Doctorate,3,Rajasthan
+15,Graduate,4,Rajasthan
+15,Graduate Professional,5,Rajasthan
+15,Literate,1,Rajasthan
+15,Post Graduate,6,Rajasthan
+15,Unknown,3,Rajasthan
+15,Post Graduate,1,Sikkim
+15,10th Pass,1,Tamil_Nadu
+15,12th Pass,5,Tamil_Nadu
+15,Doctorate,1,Tamil_Nadu
+15,Graduate,13,Tamil_Nadu
+15,Graduate Professional,10,Tamil_Nadu
+15,Others,1,Tamil_Nadu
+15,Post Graduate,6,Tamil_Nadu
+15,Unknown,2,Tamil_Nadu
+15,Graduate,1,Tripura
+15,Post Graduate,1,Tripura
+15,10th Pass,4,Uttar_Pradesh
+15,12th Pass,8,Uttar_Pradesh
+15,5th Pass,1,Uttar_Pradesh
+15,8th Pass,2,Uttar_Pradesh
+15,Doctorate,7,Uttar_Pradesh
+15,Graduate,21,Uttar_Pradesh
+15,Graduate Professional,12,Uttar_Pradesh
+15,Illiterate,1,Uttar_Pradesh
+15,Literate,2,Uttar_Pradesh
+15,Others,1,Uttar_Pradesh
+15,Post Graduate,19,Uttar_Pradesh
+15,Unknown,2,Uttar_Pradesh
+15,12th Pass,2,Uttarakhand
+15,Graduate Professional,2,Uttarakhand
+15,Post Graduate,1,Uttarakhand
+15,10th Pass,2,West_Bengal
+15,12th Pass,3,West_Bengal
+15,Doctorate,2,West_Bengal
+15,Graduate,10,West_Bengal
+15,Graduate Professional,11,West_Bengal
+15,Post Graduate,14,West_Bengal
+14,Post Graduate,1,Andaman_&_Nicobar_Islands
+14,10th Pass,1,Andhra_Pradesh
+14,12th Pass,3,Andhra_Pradesh
+14,Graduate,10,Andhra_Pradesh
+14,Graduate Professional,10,Andhra_Pradesh
+14,Others,1,Andhra_Pradesh
+14,Post Graduate,7,Andhra_Pradesh
+14,Unknown,10,Andhra_Pradesh
+14,Graduate,1,Arunachal_Pradesh
+14,Post Graduate,1,Arunachal_Pradesh
+14,8th Pass,1,Assam
+14,Graduate,4,Assam
+14,Graduate Professional,4,Assam
+14,Post Graduate,4,Assam
+14,Unknown,1,Assam
+14,10th Pass,2,Bihar
+14,12th Pass,5,Bihar
+14,8th Pass,1,Bihar
+14,Doctorate,2,Bihar
+14,Graduate,8,Bihar
+14,Graduate Professional,6,Bihar
+14,Literate,2,Bihar
+14,Others,1,Bihar
+14,Post Graduate,12,Bihar
+14,Unknown,1,Bihar
+14,Graduate Professional,1,Chandigarh
+14,12th Pass,3,Chhattisgarh
+14,8th Pass,1,Chhattisgarh
+14,Graduate,1,Chhattisgarh
+14,Graduate Professional,2,Chhattisgarh
+14,Post Graduate,3,Chhattisgarh
+14,Unknown,1,Chhattisgarh
+14,12th Pass,1,Dadra_&_Nagar_Haveli
+14,12th Pass,1,Daman_&_Diu
+14,Doctorate,1,Delhi
+14,Graduate Professional,1,Delhi
+14,Literate,1,Delhi
+14,Post Graduate,3,Delhi
+14,Unknown,1,Delhi
+14,12th Pass,1,Goa
+14,Graduate,1,Goa
+14,10th Pass,4,Gujarat
+14,8th Pass,1,Gujarat
+14,Graduate,4,Gujarat
+14,Graduate Professional,9,Gujarat
+14,Literate,1,Gujarat
+14,Post Graduate,5,Gujarat
+14,Unknown,2,Gujarat
+14,12th Pass,1,Haryana
+14,5th Pass,1,Haryana
+14,8th Pass,1,Haryana
+14,Graduate,1,Haryana
+14,Graduate Professional,2,Haryana
+14,Post Graduate,4,Haryana
+14,Doctorate,1,Himachal_Pradesh
+14,Graduate,1,Himachal_Pradesh
+14,Post Graduate,2,Himachal_Pradesh
+14,10th Pass,1,Jammu_&_Kashmir
+14,Graduate,2,Jammu_&_Kashmir
+14,Graduate Professional,2,Jammu_&_Kashmir
+14,Post Graduate,1,Jammu_&_Kashmir
+14,10th Pass,3,Jharkhand
+14,12th Pass,1,Jharkhand
+14,Doctorate,2,Jharkhand
+14,Graduate,6,Jharkhand
+14,Post Graduate,1,Jharkhand
+14,Unknown,1,Jharkhand
+14,10th Pass,3,Karnataka
+14,12th Pass,2,Karnataka
+14,Graduate,10,Karnataka
+14,Graduate Professional,5,Karnataka
+14,Literate,1,Karnataka
+14,Others,1,Karnataka
+14,Post Graduate,4,Karnataka
+14,Unknown,2,Karnataka
+14,12th Pass,1,Kerala
+14,Doctorate,2,Kerala
+14,Graduate,3,Kerala
+14,Graduate Professional,7,Kerala
+14,Others,1,Kerala
+14,Post Graduate,3,Kerala
+14,Unknown,3,Kerala
+14,Graduate Professional,1,Lakshadweep
+14,10th Pass,41,Lok_Sabha
+14,12th Pass,46,Lok_Sabha
+14,5th Pass,4,Lok_Sabha
+14,8th Pass,11,Lok_Sabha
+14,Doctorate,19,Lok_Sabha
+14,Graduate,126,Lok_Sabha
+14,Graduate Professional,95,Lok_Sabha
+14,Literate,8,Lok_Sabha
+14,Others,9,Lok_Sabha
+14,Post Graduate,141,Lok_Sabha
+14,Unknown,43,Lok_Sabha
+14,10th Pass,1,Madhya_Pradesh
+14,12th Pass,2,Madhya_Pradesh
+14,5th Pass,1,Madhya_Pradesh
+14,8th Pass,1,Madhya_Pradesh
+14,Doctorate,2,Madhya_Pradesh
+14,Graduate,8,Madhya_Pradesh
+14,Graduate Professional,3,Madhya_Pradesh
+14,Post Graduate,11,Madhya_Pradesh
+14,10th Pass,11,Maharashtra
+14,12th Pass,2,Maharashtra
+14,Doctorate,1,Maharashtra
+14,Graduate,19,Maharashtra
+14,Graduate Professional,5,Maharashtra
+14,Post Graduate,6,Maharashtra
+14,Unknown,4,Maharashtra
+14,Doctorate,1,Manipur
+14,Graduate,1,Manipur
+14,Graduate,1,Meghalaya
+14,Post Graduate,1,Meghalaya
+14,Post Graduate,1,Mizoram
+14,Post Graduate,1,Nagaland
+14,10th Pass,1,Odisha
+14,12th Pass,3,Odisha
+14,Graduate,5,Odisha
+14,Graduate Professional,2,Odisha
+14,Others,1,Odisha
+14,Post Graduate,8,Odisha
+14,Unknown,1,Odisha
+14,Doctorate,1,Puducherry
+14,10th Pass,3,Punjab
+14,Graduate,4,Punjab
+14,Graduate Professional,4,Punjab
+14,Post Graduate,2,Punjab
+14,10th Pass,1,Rajasthan
+14,12th Pass,3,Rajasthan
+14,8th Pass,1,Rajasthan
+14,Graduate,3,Rajasthan
+14,Graduate Professional,6,Rajasthan
+14,Post Graduate,9,Rajasthan
+14,Unknown,2,Rajasthan
+14,Graduate,1,Sikkim
+14,10th Pass,1,Tamil_Nadu
+14,12th Pass,2,Tamil_Nadu
+14,5th Pass,1,Tamil_Nadu
+14,8th Pass,1,Tamil_Nadu
+14,Doctorate,1,Tamil_Nadu
+14,Graduate,6,Tamil_Nadu
+14,Graduate Professional,8,Tamil_Nadu
+14,Others,1,Tamil_Nadu
+14,Post Graduate,12,Tamil_Nadu
+14,Unknown,6,Tamil_Nadu
+14,Graduate,1,Tripura
+14,Post Graduate,1,Tripura
+14,10th Pass,6,Uttar_Pradesh
+14,12th Pass,9,Uttar_Pradesh
+14,5th Pass,1,Uttar_Pradesh
+14,8th Pass,2,Uttar_Pradesh
+14,Doctorate,2,Uttar_Pradesh
+14,Graduate,17,Uttar_Pradesh
+14,Graduate Professional,11,Uttar_Pradesh
+14,Literate,2,Uttar_Pradesh
+14,Others,3,Uttar_Pradesh
+14,Post Graduate,23,Uttar_Pradesh
+14,Unknown,4,Uttar_Pradesh
+14,12th Pass,2,Uttarakhand
+14,8th Pass,1,Uttarakhand
+14,Graduate Professional,1,Uttarakhand
+14,Unknown,1,Uttarakhand
+14,10th Pass,3,West_Bengal
+14,12th Pass,4,West_Bengal
+14,Doctorate,3,West_Bengal
+14,Graduate,8,West_Bengal
+14,Graduate Professional,5,West_Bengal
+14,Literate,1,West_Bengal
+14,Post Graduate,15,West_Bengal
+14,Unknown,3,West_Bengal

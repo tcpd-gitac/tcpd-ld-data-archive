@@ -1,0 +1,75 @@
+Assembly_No,Party_ID,TCPD_Prof_Main,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+13,1605,Agriculture,4,40,2019,BJP,10
+13,1605,Business,14,40,2019,BJP,35
+13,1605,Liberal Profession or Professional,6,40,2019,BJP,15
+13,1605,Other,1,40,2019,BJP,2.5
+13,1605,Politics,8,40,2019,BJP,20
+13,1605,Retired or Pension,1,40,2019,BJP,2.5
+13,1605,Salaried Work or Employed,3,40,2019,BJP,7.5
+13,1605,Small Business or Self-employed,1,40,2019,BJP,2.5
+13,1605,Social Work,1,40,2019,BJP,2.5
+13,1605,Unknown,1,40,2019,BJP,2.5
+13,3192,Business,1,1,2019,HaLP,100
+13,3482,Agriculture,3,31,2019,INC,9.68
+13,3482,Business,15,31,2019,INC,48.39
+13,3482,Labourer or Daily Wage,1,31,2019,INC,3.23
+13,3482,Liberal Profession or Professional,7,31,2019,INC,22.58
+13,3482,Other,1,31,2019,INC,3.23
+13,3482,Politics,3,31,2019,INC,9.68
+13,3482,Salaried Work or Employed,1,31,2019,INC,3.23
+13,10809,Agriculture,3,7,2019,IND,42.86
+13,10809,Business,2,7,2019,IND,28.57
+13,10809,Former Government,1,7,2019,IND,14.29
+13,10809,Unknown,1,7,2019,IND,14.29
+13,3863,Business,1,1,2019,INLD,100
+13,18457,Agriculture,2,10,2019,JNJP,20
+13,18457,Business,5,10,2019,JNJP,50
+13,18457,Liberal Profession or Professional,1,10,2019,JNJP,10
+13,18457,Small Business or Self-employed,1,10,2019,JNJP,10
+13,18457,Social Work,1,10,2019,JNJP,10
+12,1605,Agriculture,7,47,2014,BJP,14.89
+12,1605,Business,21,47,2014,BJP,44.68
+12,1605,Education,1,47,2014,BJP,2.13
+12,1605,Labourer or Daily Wage,1,47,2014,BJP,2.13
+12,1605,Liberal Profession or Professional,4,47,2014,BJP,8.51
+12,1605,Politics,5,47,2014,BJP,10.64
+12,1605,Retired or Pension,2,47,2014,BJP,4.26
+12,1605,Salaried Work or Employed,3,47,2014,BJP,6.38
+12,1605,Small Business or Self-employed,1,47,2014,BJP,2.13
+12,1605,Social Work,2,47,2014,BJP,4.26
+12,16651,Business,1,1,2014,BSP,100
+12,3185,Unknown,2,2,2014,HJCBL,100
+12,3482,Agriculture,1,15,2014,INC,6.67
+12,3482,Business,1,15,2014,INC,6.67
+12,3482,Former Government,1,15,2014,INC,6.67
+12,3482,Liberal Profession or Professional,6,15,2014,INC,40
+12,3482,Politics,4,15,2014,INC,26.67
+12,3482,Retired or Pension,1,15,2014,INC,6.67
+12,3482,Social Work,1,15,2014,INC,6.67
+12,10809,Agriculture,1,5,2014,IND,20
+12,10809,Business,3,5,2014,IND,60
+12,10809,Unknown,1,5,2014,IND,20
+12,3863,Agriculture,7,19,2014,INLD,36.84
+12,3863,Business,7,19,2014,INLD,36.84
+12,3863,Liberal Profession or Professional,1,19,2014,INLD,5.26
+12,3863,Politics,1,19,2014,INLD,5.26
+12,3863,Retired or Pension,1,19,2014,INLD,5.26
+12,3863,Small Business or Self-employed,1,19,2014,INLD,5.26
+12,3863,Social Work,1,19,2014,INLD,5.26
+12,16994,Business,1,1,2014,SAD,100
+11,1605,Other,4,4,2009,BJP,100
+11,16651,Other,1,1,2009,BSP,100
+11,3185,Unknown,6,6,2009,HJCBL,100
+11,3482,Other,39,40,2009,INC,97.5
+11,3482,Unknown,1,40,2009,INC,2.5
+11,10809,Other,4,7,2009,IND,57.14
+11,10809,Unknown,3,7,2009,IND,42.86
+11,3863,Other,30,31,2009,INLD,96.77
+11,3863,Unknown,1,31,2009,INLD,3.23
+11,16994,Other,1,1,2009,SAD,100
+10,1605,Other,2,2,2005,BJP,100
+10,16651,Other,1,1,2005,BSP,100
+10,3482,Other,67,67,2005,INC,100
+10,10809,Other,10,10,2005,IND,100
+10,3863,Other,9,9,2005,INLD,100
+10,5792,Other,1,1,2005,NCP,100

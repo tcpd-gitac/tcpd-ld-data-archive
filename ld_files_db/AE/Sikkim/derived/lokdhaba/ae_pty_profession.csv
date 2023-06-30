@@ -1,0 +1,30 @@
+Assembly_No,Party_ID,TCPD_Prof_Main,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+9,7925,Agriculture,2,15,2019,SDF,13.33
+9,7925,Business,1,15,2019,SDF,6.67
+9,7925,Former Government,1,15,2019,SDF,6.67
+9,7925,Liberal Profession or Professional,1,15,2019,SDF,6.67
+9,7925,Politics,7,15,2019,SDF,46.67
+9,7925,Social Work,3,15,2019,SDF,20
+9,16569,Business,3,17,2019,SKM,17.65
+9,16569,Former Government,3,17,2019,SKM,17.65
+9,16569,Liberal Profession or Professional,1,17,2019,SKM,5.88
+9,16569,Other,3,17,2019,SKM,17.65
+9,16569,Small Business or Self-employed,1,17,2019,SKM,5.88
+9,16569,Social Work,6,17,2019,SKM,35.29
+8,7925,Business,1,22,2014,SDF,4.55
+8,7925,Liberal Profession or Professional,2,22,2014,SDF,9.09
+8,7925,Politics,14,22,2014,SDF,63.64
+8,7925,Retired or Pension,1,22,2014,SDF,4.55
+8,7925,Salaried Work or Employed,1,22,2014,SDF,4.55
+8,7925,Social Work,3,22,2014,SDF,13.64
+8,16569,Business,2,10,2014,SKM,20
+8,16569,Former Government,1,10,2014,SKM,10
+8,16569,Liberal Profession or Professional,1,10,2014,SKM,10
+8,16569,Other,1,10,2014,SKM,10
+8,16569,Politics,1,10,2014,SKM,10
+8,16569,Salaried Work or Employed,1,10,2014,SKM,10
+8,16569,Social Work,3,10,2014,SKM,30
+7,7925,Other,32,32,2009,SDF,100
+6,3482,Unknown,1,1,2004,INC,100
+6,7925,Other,3,27,2004,SDF,11.11
+6,7925,Unknown,24,27,2004,SDF,88.89

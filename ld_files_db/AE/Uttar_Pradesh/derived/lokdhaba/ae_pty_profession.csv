@@ -1,0 +1,152 @@
+Assembly_No,Party_ID,TCPD_Prof_Main,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+18,956,Agriculture,1,12,2022,ADS,8.33
+18,956,Business,7,12,2022,ADS,58.33
+18,956,Liberal Profession or Professional,1,12,2022,ADS,8.33
+18,956,Other,1,12,2022,ADS,8.33
+18,956,Politics,1,12,2022,ADS,8.33
+18,956,Salaried Work or Employed,1,12,2022,ADS,8.33
+18,1605,Agriculture,47,255,2022,BJP,18.43
+18,1605,Business,98,255,2022,BJP,38.43
+18,1605,Education,2,255,2022,BJP,0.78
+18,1605,Former Government,1,255,2022,BJP,0.39
+18,1605,Labourer or Daily Wage,1,255,2022,BJP,0.39
+18,1605,Liberal Profession or Professional,17,255,2022,BJP,6.67
+18,1605,Other,31,255,2022,BJP,12.16
+18,1605,Politics,29,255,2022,BJP,11.37
+18,1605,Retired or Pension,6,255,2022,BJP,2.35
+18,1605,Salaried Work or Employed,16,255,2022,BJP,6.27
+18,1605,Small Business or Self-employed,2,255,2022,BJP,0.78
+18,1605,Social Work,3,255,2022,BJP,1.18
+18,1605,Unknown,2,255,2022,BJP,0.78
+18,16651,Business,1,1,2022,BSP,100
+18,3482,Agriculture,1,2,2022,INC,50
+18,3482,Business,1,2,2022,INC,50
+18,25025,Agriculture,2,2,2022,JDL,100
+18,5873,Agriculture,1,6,2022,NINSHAD,16.67
+18,5873,Business,5,6,2022,NINSHAD,83.33
+18,12169,Agriculture,1,8,2022,RLD,12.5
+18,12169,Business,2,8,2022,RLD,25
+18,12169,Liberal Profession or Professional,1,8,2022,RLD,12.5
+18,12169,Politics,1,8,2022,RLD,12.5
+18,12169,Retired or Pension,3,8,2022,RLD,37.5
+18,18721,Agriculture,2,6,2022,SBSP,33.33
+18,18721,Business,4,6,2022,SBSP,66.67
+18,7425,Agriculture,32,111,2022,SP,28.83
+18,7425,Business,40,111,2022,SP,36.04
+18,7425,Liberal Profession or Professional,5,111,2022,SP,4.5
+18,7425,Other,12,111,2022,SP,10.81
+18,7425,Politics,7,111,2022,SP,6.31
+18,7425,Retired or Pension,6,111,2022,SP,5.41
+18,7425,Salaried Work or Employed,5,111,2022,SP,4.5
+18,7425,Social Work,4,111,2022,SP,3.6
+17,956,Unknown,9,9,2017,ADAL,100
+17,1605,Agriculture,68,312,2017,BJP,21.79
+17,1605,Business,126,312,2017,BJP,40.38
+17,1605,Education,10,312,2017,BJP,3.21
+17,1605,Former Government,3,312,2017,BJP,0.96
+17,1605,Labourer or Daily Wage,2,312,2017,BJP,0.64
+17,1605,Liberal Profession or Professional,25,312,2017,BJP,8.01
+17,1605,Other,34,312,2017,BJP,10.9
+17,1605,Politics,12,312,2017,BJP,3.85
+17,1605,Retired or Pension,16,312,2017,BJP,5.13
+17,1605,Salaried Work or Employed,7,312,2017,BJP,2.24
+17,1605,Small Business or Self-employed,3,312,2017,BJP,0.96
+17,1605,Social Work,5,312,2017,BJP,1.6
+17,1605,Unknown,1,312,2017,BJP,0.32
+17,16651,Agriculture,4,19,2017,BSP,21.05
+17,16651,Business,10,19,2017,BSP,52.63
+17,16651,Other,2,19,2017,BSP,10.53
+17,16651,Politics,1,19,2017,BSP,5.26
+17,16651,Small Business or Self-employed,1,19,2017,BSP,5.26
+17,16651,Unknown,1,19,2017,BSP,5.26
+17,3482,Agriculture,2,7,2017,INC,28.57
+17,3482,Business,4,7,2017,INC,57.14
+17,3482,Salaried Work or Employed,1,7,2017,INC,14.29
+17,10809,Agriculture,2,3,2017,IND,66.67
+17,10809,Social Work,1,3,2017,IND,33.33
+17,5873,Unknown,1,1,2017,NINSHAD,100
+17,12169,Business,1,1,2017,RLD,100
+17,18721,Agriculture,2,4,2017,SBSP,50
+17,18721,Business,1,4,2017,SBSP,25
+17,18721,Social Work,1,4,2017,SBSP,25
+17,7425,Agriculture,16,47,2017,SP,34.04
+17,7425,Business,11,47,2017,SP,23.4
+17,7425,Education,2,47,2017,SP,4.26
+17,7425,Liberal Profession or Professional,4,47,2017,SP,8.51
+17,7425,Other,5,47,2017,SP,10.64
+17,7425,Politics,3,47,2017,SP,6.38
+17,7425,Retired or Pension,1,47,2017,SP,2.13
+17,7425,Social Work,4,47,2017,SP,8.51
+17,7425,Unknown,1,47,2017,SP,2.13
+16,954,Business,1,1,2012,AD,100
+16,1605,Agriculture,9,47,2012,BJP,19.15
+16,1605,Business,15,47,2012,BJP,31.91
+16,1605,Education,1,47,2012,BJP,2.13
+16,1605,Former Government,2,47,2012,BJP,4.26
+16,1605,Liberal Profession or Professional,3,47,2012,BJP,6.38
+16,1605,Other,7,47,2012,BJP,14.89
+16,1605,Politics,5,47,2012,BJP,10.64
+16,1605,Retired or Pension,2,47,2012,BJP,4.26
+16,1605,Salaried Work or Employed,1,47,2012,BJP,2.13
+16,1605,Social Work,2,47,2012,BJP,4.26
+16,16651,Agriculture,23,80,2012,BSP,28.75
+16,16651,Business,28,80,2012,BSP,35
+16,16651,Education,1,80,2012,BSP,1.25
+16,16651,Liberal Profession or Professional,2,80,2012,BSP,2.5
+16,16651,Other,11,80,2012,BSP,13.75
+16,16651,Politics,9,80,2012,BSP,11.25
+16,16651,Retired or Pension,1,80,2012,BSP,1.25
+16,16651,Salaried Work or Employed,1,80,2012,BSP,1.25
+16,16651,Small Business or Self-employed,1,80,2012,BSP,1.25
+16,16651,Social Work,3,80,2012,BSP,3.75
+16,3998,Unknown,1,1,2012,IEMC,100
+16,3482,Agriculture,10,28,2012,INC,35.71
+16,3482,Business,5,28,2012,INC,17.86
+16,3482,Education,2,28,2012,INC,7.14
+16,3482,Liberal Profession or Professional,3,28,2012,INC,10.71
+16,3482,Other,3,28,2012,INC,10.71
+16,3482,Politics,1,28,2012,INC,3.57
+16,3482,Retired or Pension,1,28,2012,INC,3.57
+16,3482,Social Work,3,28,2012,INC,10.71
+16,10809,Agriculture,2,6,2012,IND,33.33
+16,10809,Business,2,6,2012,IND,33.33
+16,10809,Other,1,6,2012,IND,16.67
+16,10809,Salaried Work or Employed,1,6,2012,IND,16.67
+16,5792,Agriculture,1,1,2012,NCP,100
+16,5995,Agriculture,1,4,2012,PECP,25
+16,5995,Business,1,4,2012,PECP,25
+16,5995,Liberal Profession or Professional,1,4,2012,PECP,25
+16,5995,Other,1,4,2012,PECP,25
+16,6306,Agriculture,2,2,2012,QED,100
+16,12169,Agriculture,1,9,2012,RLD,11.11
+16,12169,Business,6,9,2012,RLD,66.67
+16,12169,Other,1,9,2012,RLD,11.11
+16,12169,Politics,1,9,2012,RLD,11.11
+16,7425,Agriculture,84,224,2012,SP,37.5
+16,7425,Business,57,224,2012,SP,25.45
+16,7425,Education,4,224,2012,SP,1.79
+16,7425,Former Government,4,224,2012,SP,1.79
+16,7425,Labourer or Daily Wage,1,224,2012,SP,0.45
+16,7425,Liberal Profession or Professional,9,224,2012,SP,4.02
+16,7425,Other,41,224,2012,SP,18.3
+16,7425,Politics,8,224,2012,SP,3.57
+16,7425,Retired or Pension,6,224,2012,SP,2.68
+16,7425,Salaried Work or Employed,2,224,2012,SP,0.89
+16,7425,Social Work,8,224,2012,SP,3.57
+15,412,Unknown,1,1,2007,ABLTC,100
+15,1605,Other,50,51,2007,BJP,98.04
+15,1605,Unknown,1,51,2007,BJP,1.96
+15,1452,Other,1,1,2007,BJSH,100
+15,16651,Other,202,206,2007,BSP,98.06
+15,16651,Unknown,4,206,2007,BSP,1.94
+15,3482,Other,22,22,2007,INC,100
+15,10809,Other,8,9,2007,IND,88.89
+15,10809,Unknown,1,9,2007,IND,11.11
+15,11002,Other,1,1,2007,JD(U),100
+15,4139,Other,1,1,2007,JM,100
+15,12169,Other,10,10,2007,RLD,100
+15,6762,Other,2,2,2007,RPD,100
+15,12378,Other,1,1,2007,RSBP,100
+15,7425,Other,96,97,2007,SP,98.97
+15,7425,Unknown,1,97,2007,SP,1.03
+15,8441,Other,1,1,2007,UPUDF,100

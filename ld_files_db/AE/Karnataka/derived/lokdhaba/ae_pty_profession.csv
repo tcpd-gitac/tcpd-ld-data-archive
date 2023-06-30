@@ -1,0 +1,111 @@
+Assembly_No,Party_ID,TCPD_Prof_Main,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+11,1605,Agricultural Labour,1,66,2023,BJP,1.52
+11,1605,Agriculture,13,66,2023,BJP,19.7
+11,1605,Business,30,66,2023,BJP,45.45
+11,1605,Labourer or Daily Wage,1,66,2023,BJP,1.52
+11,1605,Liberal Profession or Professional,4,66,2023,BJP,6.06
+11,1605,Other,5,66,2023,BJP,7.58
+11,1605,Politics,6,66,2023,BJP,9.09
+11,1605,Social Work,6,66,2023,BJP,9.09
+11,3482,Agriculture,32,135,2023,INC,23.7
+11,3482,Business,62,135,2023,INC,45.93
+11,3482,Former Government,1,135,2023,INC,0.74
+11,3482,Liberal Profession or Professional,13,135,2023,INC,9.63
+11,3482,Other,5,135,2023,INC,3.7
+11,3482,Politics,9,135,2023,INC,6.67
+11,3482,Salaried Work or Employed,3,135,2023,INC,2.22
+11,3482,Social Work,8,135,2023,INC,5.93
+11,3482,Unknown,2,135,2023,INC,1.48
+11,10809,Agriculture,1,2,2023,IND,50
+11,10809,Unknown,1,2,2023,IND,50
+11,10979,Agriculture,6,19,2023,JD(S),31.58
+11,10979,Business,8,19,2023,JD(S),42.11
+11,10979,Liberal Profession or Professional,1,19,2023,JD(S),5.26
+11,10979,Other,2,19,2023,JD(S),10.53
+11,10979,Politics,1,19,2023,JD(S),5.26
+11,10979,Social Work,1,19,2023,JD(S),5.26
+11,,Business,1,1,2023,Kalyana Rajya Pragathi Paksha,100
+11,7713,Business,1,1,2023,Sarvodaya Karnataka Paksha,100
+10,1605,Agriculture,33,104,2018,BJP,31.73
+10,1605,Business,34,104,2018,BJP,32.69
+10,1605,Education,1,104,2018,BJP,0.96
+10,1605,Former Government,1,104,2018,BJP,0.96
+10,1605,Liberal Profession or Professional,3,104,2018,BJP,2.88
+10,1605,Other,25,104,2018,BJP,24.04
+10,1605,Politics,2,104,2018,BJP,1.92
+10,1605,Salaried Work or Employed,3,104,2018,BJP,2.88
+10,1605,Social Work,2,104,2018,BJP,1.92
+10,16651,Social Work,1,1,2018,BSP,100
+10,3482,Agriculture,26,80,2018,INC,32.5
+10,3482,Business,21,80,2018,INC,26.25
+10,3482,Education,1,80,2018,INC,1.25
+10,3482,Liberal Profession or Professional,5,80,2018,INC,6.25
+10,3482,Other,11,80,2018,INC,13.75
+10,3482,Politics,2,80,2018,INC,2.5
+10,3482,Retired or Pension,1,80,2018,INC,1.25
+10,3482,Salaried Work or Employed,3,80,2018,INC,3.75
+10,3482,Small Business or Self-employed,1,80,2018,INC,1.25
+10,3482,Social Work,8,80,2018,INC,10
+10,3482,Unknown,1,80,2018,INC,1.25
+10,10809,Other,1,1,2018,IND,100
+10,10979,Agriculture,15,37,2018,JD(S),40.54
+10,10979,Business,7,37,2018,JD(S),18.92
+10,10979,Former Government,1,37,2018,JD(S),2.7
+10,10979,Liberal Profession or Professional,1,37,2018,JD(S),2.7
+10,10979,Other,2,37,2018,JD(S),5.41
+10,10979,Politics,6,37,2018,JD(S),16.22
+10,10979,Retired or Pension,1,37,2018,JD(S),2.7
+10,10979,Salaried Work or Employed,1,37,2018,JD(S),2.7
+10,10979,Social Work,3,37,2018,JD(S),8.11
+10,4790,Business,1,1,2018,KPJP,100
+9,1605,Agriculture,13,40,2013,BJP,32.5
+9,1605,Business,10,40,2013,BJP,25
+9,1605,Liberal Profession or Professional,2,40,2013,BJP,5
+9,1605,Other,4,40,2013,BJP,10
+9,1605,Politics,6,40,2013,BJP,15
+9,1605,Salaried Work or Employed,1,40,2013,BJP,2.5
+9,1605,Small Business or Self-employed,2,40,2013,BJP,5
+9,1605,Social Work,1,40,2013,BJP,2.5
+9,1605,Unknown,1,40,2013,BJP,2.5
+9,1039,Agriculture,1,4,2013,BSRCP,25
+9,1039,Business,1,4,2013,BSRCP,25
+9,1039,Salaried Work or Employed,1,4,2013,BSRCP,25
+9,1039,Social Work,1,4,2013,BSRCP,25
+9,3482,Agriculture,29,122,2013,INC,23.77
+9,3482,Business,43,122,2013,INC,35.25
+9,3482,Education,2,122,2013,INC,1.64
+9,3482,Former Government,2,122,2013,INC,1.64
+9,3482,Liberal Profession or Professional,12,122,2013,INC,9.84
+9,3482,Other,11,122,2013,INC,9.02
+9,3482,Politics,5,122,2013,INC,4.1
+9,3482,Retired or Pension,2,122,2013,INC,1.64
+9,3482,Salaried Work or Employed,1,122,2013,INC,0.82
+9,3482,Small Business or Self-employed,2,122,2013,INC,1.64
+9,3482,Social Work,9,122,2013,INC,7.38
+9,3482,Unknown,4,122,2013,INC,3.28
+9,10809,Agriculture,1,9,2013,IND,11.11
+9,10809,Business,3,9,2013,IND,33.33
+9,10809,Unknown,5,9,2013,IND,55.56
+9,10979,Agriculture,13,40,2013,JD(S),32.5
+9,10979,Business,9,40,2013,JD(S),22.5
+9,10979,Education,1,40,2013,JD(S),2.5
+9,10979,Liberal Profession or Professional,1,40,2013,JD(S),2.5
+9,10979,Other,5,40,2013,JD(S),12.5
+9,10979,Politics,5,40,2013,JD(S),12.5
+9,10979,Salaried Work or Employed,1,40,2013,JD(S),2.5
+9,10979,Small Business or Self-employed,1,40,2013,JD(S),2.5
+9,10979,Social Work,2,40,2013,JD(S),5
+9,10979,Unknown,2,40,2013,JD(S),5
+9,4786,Agriculture,3,6,2013,KJP,50
+9,4786,Liberal Profession or Professional,2,6,2013,KJP,33.33
+9,4786,Social Work,1,6,2013,KJP,16.67
+9,4788,Business,1,1,2013,KMP,100
+9,7713,Agriculture,1,1,2013,SKP,100
+9,7425,Business,1,1,2013,SP,100
+8,1605,Other,106,110,2008,BJP,96.36
+8,1605,Unknown,4,110,2008,BJP,3.64
+8,3482,Other,77,80,2008,INC,96.25
+8,3482,Unknown,3,80,2008,INC,3.75
+8,10809,Other,4,6,2008,IND,66.67
+8,10809,Unknown,2,6,2008,IND,33.33
+8,10979,Other,28,28,2008,JD(S),100

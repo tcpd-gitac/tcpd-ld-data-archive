@@ -1,0 +1,78 @@
+Assembly_No,Party_ID,TCPD_Prof_Main,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+16,13,Agriculture,10,92,2022,AAAP,10.87
+16,13,Business,28,92,2022,AAAP,30.43
+16,13,Education,3,92,2022,AAAP,3.26
+16,13,Former Government,1,92,2022,AAAP,1.09
+16,13,Liberal Profession or Professional,20,92,2022,AAAP,21.74
+16,13,Other,10,92,2022,AAAP,10.87
+16,13,Politics,6,92,2022,AAAP,6.52
+16,13,Retired or Pension,4,92,2022,AAAP,4.35
+16,13,Salaried Work or Employed,7,92,2022,AAAP,7.61
+16,13,Small Business or Self-employed,1,92,2022,AAAP,1.09
+16,13,Social Work,2,92,2022,AAAP,2.17
+16,1605,Business,1,2,2022,BJP,50
+16,1605,Social Work,1,2,2022,BJP,50
+16,16651,Business,1,1,2022,BSP,100
+16,3482,Agriculture,5,18,2022,INC,27.78
+16,3482,Business,6,18,2022,INC,33.33
+16,3482,Liberal Profession or Professional,1,18,2022,INC,5.56
+16,3482,Other,3,18,2022,INC,16.67
+16,3482,Politics,3,18,2022,INC,16.67
+16,10809,Business,1,1,2022,IND,100
+16,16994,Business,2,3,2022,SAD,66.67
+16,16994,Liberal Profession or Professional,1,3,2022,SAD,33.33
+15,13,Agriculture,3,20,2017,AAAP,15
+15,13,Liberal Profession or Professional,3,20,2017,AAAP,15
+15,13,Other,6,20,2017,AAAP,30
+15,13,Retired or Pension,1,20,2017,AAAP,5
+15,13,Salaried Work or Employed,1,20,2017,AAAP,5
+15,13,Small Business or Self-employed,2,20,2017,AAAP,10
+15,13,Social Work,2,20,2017,AAAP,10
+15,13,Unemployed,2,20,2017,AAAP,10
+15,1605,Agriculture,1,3,2017,BJP,33.33
+15,1605,Business,1,3,2017,BJP,33.33
+15,1605,Former Government,1,3,2017,BJP,33.33
+15,3482,Agriculture,20,77,2017,INC,25.97
+15,3482,Business,32,77,2017,INC,41.56
+15,3482,Former Government,1,77,2017,INC,1.3
+15,3482,Liberal Profession or Professional,4,77,2017,INC,5.19
+15,3482,Other,7,77,2017,INC,9.09
+15,3482,Politics,7,77,2017,INC,9.09
+15,3482,Retired or Pension,1,77,2017,INC,1.3
+15,3482,Salaried Work or Employed,3,77,2017,INC,3.9
+15,3482,Social Work,2,77,2017,INC,2.6
+15,5015,Business,2,2,2017,LIP,100
+15,16994,Agriculture,5,15,2017,SAD,33.33
+15,16994,Business,4,15,2017,SAD,26.67
+15,16994,Liberal Profession or Professional,1,15,2017,SAD,6.67
+15,16994,Other,1,15,2017,SAD,6.67
+15,16994,Politics,4,15,2017,SAD,26.67
+14,1605,Agriculture,3,12,2012,BJP,25
+14,1605,Business,4,12,2012,BJP,33.33
+14,1605,Former Government,1,12,2012,BJP,8.33
+14,1605,Liberal Profession or Professional,2,12,2012,BJP,16.67
+14,1605,Other,1,12,2012,BJP,8.33
+14,1605,Salaried Work or Employed,1,12,2012,BJP,8.33
+14,3482,Agriculture,5,46,2012,INC,10.87
+14,3482,Business,20,46,2012,INC,43.48
+14,3482,Former Government,1,46,2012,INC,2.17
+14,3482,Liberal Profession or Professional,1,46,2012,INC,2.17
+14,3482,Other,13,46,2012,INC,28.26
+14,3482,Politics,5,46,2012,INC,10.87
+14,3482,Social Work,1,46,2012,INC,2.17
+14,10809,Business,1,3,2012,IND,33.33
+14,10809,Other,1,3,2012,IND,33.33
+14,10809,Unknown,1,3,2012,IND,33.33
+14,16994,Agriculture,14,56,2012,SAD,25
+14,16994,Business,14,56,2012,SAD,25
+14,16994,Liberal Profession or Professional,3,56,2012,SAD,5.36
+14,16994,Other,9,56,2012,SAD,16.07
+14,16994,Politics,11,56,2012,SAD,19.64
+14,16994,Retired or Pension,2,56,2012,SAD,3.57
+14,16994,Salaried Work or Employed,1,56,2012,SAD,1.79
+14,16994,Social Work,2,56,2012,SAD,3.57
+13,1605,Other,19,19,2007,BJP,100
+13,3482,Other,42,44,2007,INC,95.45
+13,3482,Unknown,2,44,2007,INC,4.55
+13,10809,Other,5,5,2007,IND,100
+13,16994,Other,48,48,2007,SAD,100

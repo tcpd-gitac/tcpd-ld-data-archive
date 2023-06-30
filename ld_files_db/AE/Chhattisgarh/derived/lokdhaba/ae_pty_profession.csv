@@ -1,0 +1,45 @@
+Assembly_No,Party_ID,TCPD_Prof_Main,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+4,1605,Agriculture,6,15,2018,BJP,40
+4,1605,Business,5,15,2018,BJP,33.33
+4,1605,Liberal Profession or Professional,2,15,2018,BJP,13.33
+4,1605,Politics,2,15,2018,BJP,13.33
+4,16651,Agriculture,1,2,2018,BSP,50
+4,16651,Other,1,2,2018,BSP,50
+4,3482,Agriculture,24,68,2018,INC,35.29
+4,3482,Business,18,68,2018,INC,26.47
+4,3482,Former Government,2,68,2018,INC,2.94
+4,3482,Labourer or Daily Wage,1,68,2018,INC,1.47
+4,3482,Liberal Profession or Professional,3,68,2018,INC,4.41
+4,3482,Other,5,68,2018,INC,7.35
+4,3482,Politics,4,68,2018,INC,5.88
+4,3482,Retired or Pension,5,68,2018,INC,7.35
+4,3482,Salaried Work or Employed,3,68,2018,INC,4.41
+4,3482,Small Business or Self-employed,1,68,2018,INC,1.47
+4,3482,Social Work,2,68,2018,INC,2.94
+4,4549,Business,4,5,2018,JCC(J),80
+4,4549,Politics,1,5,2018,JCC(J),20
+3,1605,Agricultural Labour,1,49,2013,BJP,2.04
+3,1605,Agriculture,21,49,2013,BJP,42.86
+3,1605,Business,11,49,2013,BJP,22.45
+3,1605,Former Government,1,49,2013,BJP,2.04
+3,1605,Liberal Profession or Professional,1,49,2013,BJP,2.04
+3,1605,Other,7,49,2013,BJP,14.29
+3,1605,Politics,3,49,2013,BJP,6.12
+3,1605,Retired or Pension,3,49,2013,BJP,6.12
+3,1605,Social Work,1,49,2013,BJP,2.04
+3,16651,Agriculture,1,1,2013,BSP,100
+3,3482,Agricultural Labour,1,39,2013,INC,2.56
+3,3482,Agriculture,24,39,2013,INC,61.54
+3,3482,Business,7,39,2013,INC,17.95
+3,3482,Liberal Profession or Professional,1,39,2013,INC,2.56
+3,3482,Other,2,39,2013,INC,5.13
+3,3482,Retired or Pension,1,39,2013,INC,2.56
+3,3482,Salaried Work or Employed,2,39,2013,INC,5.13
+3,3482,Social Work,1,39,2013,INC,2.56
+3,10809,Unknown,1,1,2013,IND,100
+2,1605,Other,49,50,2008,BJP,98
+2,1605,Unknown,1,50,2008,BJP,2
+2,16651,Other,1,2,2008,BSP,50
+2,16651,Unknown,1,2,2008,BSP,50
+2,3482,Other,35,38,2008,INC,92.11
+2,3482,Unknown,3,38,2008,INC,7.89

@@ -1,0 +1,81 @@
+Assembly_No,Party_ID,TCPD_Prof_Main,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+14,13,Agricultural Labour,1,5,2022,AAAP,20
+14,13,Agriculture,2,5,2022,AAAP,40
+14,13,Business,2,5,2022,AAAP,40
+14,1605,Agriculture,42,156,2022,BJP,26.92
+14,1605,Business,62,156,2022,BJP,39.74
+14,1605,Education,2,156,2022,BJP,1.28
+14,1605,Former Government,1,156,2022,BJP,0.64
+14,1605,Liberal Profession or Professional,6,156,2022,BJP,3.85
+14,1605,Other,21,156,2022,BJP,13.46
+14,1605,Politics,6,156,2022,BJP,3.85
+14,1605,Retired or Pension,6,156,2022,BJP,3.85
+14,1605,Salaried Work or Employed,4,156,2022,BJP,2.56
+14,1605,Small Business or Self-employed,1,156,2022,BJP,0.64
+14,1605,Social Work,5,156,2022,BJP,3.21
+14,3482,Agriculture,8,17,2022,INC,47.06
+14,3482,Business,5,17,2022,INC,29.41
+14,3482,Liberal Profession or Professional,1,17,2022,INC,5.88
+14,3482,Other,2,17,2022,INC,11.76
+14,3482,Social Work,1,17,2022,INC,5.88
+14,10809,Business,2,3,2022,IND,66.67
+14,10809,Other,1,3,2022,IND,33.33
+14,7425,Agriculture,1,1,2022,SP,100
+13,1605,Agriculture,29,99,2017,BJP,29.29
+13,1605,Business,42,99,2017,BJP,42.42
+13,1605,Education,1,99,2017,BJP,1.01
+13,1605,Liberal Profession or Professional,5,99,2017,BJP,5.05
+13,1605,Other,14,99,2017,BJP,14.14
+13,1605,Politics,3,99,2017,BJP,3.03
+13,1605,Small Business or Self-employed,1,99,2017,BJP,1.01
+13,1605,Social Work,3,99,2017,BJP,3.03
+13,1605,Unknown,1,99,2017,BJP,1.01
+13,2055,Other,1,2,2017,BTP,50
+13,2055,Social Work,1,2,2017,BTP,50
+13,3482,Agriculture,34,77,2017,INC,44.16
+13,3482,Business,25,77,2017,INC,32.47
+13,3482,Education,1,77,2017,INC,1.3
+13,3482,Liberal Profession or Professional,1,77,2017,INC,1.3
+13,3482,Other,7,77,2017,INC,9.09
+13,3482,Politics,4,77,2017,INC,5.19
+13,3482,Retired or Pension,1,77,2017,INC,1.3
+13,3482,Salaried Work or Employed,2,77,2017,INC,2.6
+13,3482,Small Business or Self-employed,1,77,2017,INC,1.3
+13,3482,Social Work,1,77,2017,INC,1.3
+13,10809,Agriculture,1,3,2017,IND,33.33
+13,10809,Liberal Profession or Professional,1,3,2017,IND,33.33
+13,10809,Unknown,1,3,2017,IND,33.33
+13,5792,Other,1,1,2017,NCP,100
+12,1605,Agriculture,34,115,2012,BJP,29.57
+12,1605,Business,32,115,2012,BJP,27.83
+12,1605,Education,1,115,2012,BJP,0.87
+12,1605,Liberal Profession or Professional,7,115,2012,BJP,6.09
+12,1605,Other,18,115,2012,BJP,15.65
+12,1605,Politics,2,115,2012,BJP,1.74
+12,1605,Retired or Pension,1,115,2012,BJP,0.87
+12,1605,Salaried Work or Employed,1,115,2012,BJP,0.87
+12,1605,Small Business or Self-employed,1,115,2012,BJP,0.87
+12,1605,Social Work,12,115,2012,BJP,10.43
+12,1605,Unknown,6,115,2012,BJP,5.22
+12,3167,Agriculture,1,2,2012,GPP,50
+12,3167,Politics,1,2,2012,GPP,50
+12,3482,Agriculture,21,61,2012,INC,34.43
+12,3482,Business,10,61,2012,INC,16.39
+12,3482,Liberal Profession or Professional,1,61,2012,INC,1.64
+12,3482,Other,10,61,2012,INC,16.39
+12,3482,Politics,1,61,2012,INC,1.64
+12,3482,Retired or Pension,2,61,2012,INC,3.28
+12,3482,Social Work,1,61,2012,INC,1.64
+12,3482,Unknown,15,61,2012,INC,24.59
+12,10809,Unknown,1,1,2012,IND,100
+12,11002,Agriculture,1,1,2012,JD(U),100
+12,5792,Agriculture,1,2,2012,NCP,50
+12,5792,Other,1,2,2012,NCP,50
+11,1638,Other,1,1,2007,BJNKP,100
+11,1605,Other,115,116,2007,BJP,99.14
+11,1605,Unknown,1,116,2007,BJP,0.86
+11,3482,Other,58,59,2007,INC,98.31
+11,3482,Unknown,1,59,2007,INC,1.69
+11,10809,Unknown,2,2,2007,IND,100
+11,11002,Other,1,1,2007,JD(U),100
+11,5792,Other,3,3,2007,NCP,100

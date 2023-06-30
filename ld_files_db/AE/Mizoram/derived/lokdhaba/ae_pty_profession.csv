@@ -1,0 +1,30 @@
+Assembly_No,Party_ID,TCPD_Prof_Main,MLAs_var_Party,Party_MLAs,Year,Party,pty_mla_var_perc
+12,1605,Liberal Profession or Professional,1,1,2018,BJP,100
+12,3482,Business,1,5,2018,INC,20
+12,3482,Politics,4,5,2018,INC,80
+12,10809,Business,4,8,2018,IND,50
+12,10809,Education,1,8,2018,IND,12.5
+12,10809,Politics,3,8,2018,IND,37.5
+12,5430,Business,5,26,2018,MNF,19.23
+12,5430,Education,4,26,2018,MNF,15.38
+12,5430,Liberal Profession or Professional,2,26,2018,MNF,7.69
+12,5430,Other,4,26,2018,MNF,15.38
+12,5430,Politics,11,26,2018,MNF,42.31
+11,3482,Agriculture,1,34,2013,INC,2.94
+11,3482,Business,10,34,2013,INC,29.41
+11,3482,Liberal Profession or Professional,3,34,2013,INC,8.82
+11,3482,Other,3,34,2013,INC,8.82
+11,3482,Politics,16,34,2013,INC,47.06
+11,3482,Retired or Pension,1,34,2013,INC,2.94
+11,5430,Business,1,5,2013,MNF,20
+11,5430,Liberal Profession or Professional,1,5,2013,MNF,20
+11,5430,Other,1,5,2013,MNF,20
+11,5430,Politics,1,5,2013,MNF,20
+11,5430,Small Business or Self-employed,1,5,2013,MNF,20
+11,5438,Unknown,1,1,2013,MPC,100
+10,3482,Other,30,32,2008,INC,93.75
+10,3482,Unknown,2,32,2008,INC,6.25
+10,5361,Other,1,1,2008,MDF,100
+10,5430,Other,3,3,2008,MNF,100
+10,5438,Other,2,2,2008,MPC,100
+10,8619,Other,2,2,2008,ZNP,100
